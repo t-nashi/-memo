@@ -54,7 +54,17 @@ https://liginc.co.jp/467917
 ◆  Adobe XDを使っている人はダウンロードしておこう！Adobe公式、新しいセマンティックUIのコンポーネント | コリス
 https://coliss.com/articles/build-websites/operation/work/semantic-ui-kit-for-adobe-xd.html
 
+◆Wires, free wireframe kits for Adobe XD on Behance
+https://www.behance.net/gallery/55462459/Wires-wireframe-kits-for-Adobe-XD
 
+◆全員攻撃型デザインのススメ 〜Adobe XDでつくるこれからのワイヤーフレーム入門〜【第1回】デザインはワイヤーフレームが8割!? | Adobe Creative Station
+https://blogs.adobe.com/creativestation/web-xd-wirefame-ui-design
+
+◆Adobe XDについて | Adobe XD CC チュートリアル
+https://helpx.adobe.com/jp/xd/how-to/what-is-xd.html
+
+◆【XD入門】基本操作の説明 - Qiita
+https://qiita.com/yasui05821/items/2d219769c3524bd05ef1
 
 
 
