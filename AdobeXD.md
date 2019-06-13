@@ -48,6 +48,12 @@ https://blogs.adobe.com/japan/web-makayla-lewis-power-sketchnoting-ux-design/
 ◆Adobe XD 6月アップデートリリース！ 固定オブジェクト、アートボードのオーバーレイ、四則演算など #AdobeXD
 https://blogs.adobe.com/japan/web-june-2018-update-adobe-xd/
 
+◆まだAdobe XD使ってないの？はじめての人もこれを読めばすぐに使えるAdobe XDのトリセツ | 東京上野のWeb制作会社LIG
+https://liginc.co.jp/467917
+
+◆  Adobe XDを使っている人はダウンロードしておこう！Adobe公式、新しいセマンティックUIのコンポーネント | コリス
+https://coliss.com/articles/build-websites/operation/work/semantic-ui-kit-for-adobe-xd.html
+
 
 
 
