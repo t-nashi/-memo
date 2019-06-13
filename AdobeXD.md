@@ -66,6 +66,9 @@ https://helpx.adobe.com/jp/xd/how-to/what-is-xd.html
 ◆【XD入門】基本操作の説明 - Qiita
 https://qiita.com/yasui05821/items/2d219769c3524bd05ef1
 
+◆Adobe XDでプレゼン資料を作成したら色々と幸せだった話
+https://montblan9.net/archives/3364
+
 
 
 
