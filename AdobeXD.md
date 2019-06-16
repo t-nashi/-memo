@@ -69,6 +69,9 @@ https://qiita.com/yasui05821/items/2d219769c3524bd05ef1
 ◆Adobe XDでプレゼン資料を作成したら色々と幸せだった話
 https://montblan9.net/archives/3364
 
+◆  Adobe XDの機能がいつの間にかこんなにも充実してた！Adobe XDとSketchの気になる機能を比較 | コリス
+https://coliss.com/articles/build-websites/operation/design/adobe-xd-vs-sketch.html
+
 
 
 
