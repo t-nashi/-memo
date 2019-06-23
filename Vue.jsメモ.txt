@@ -1,0 +1,311 @@
+
+
+◆ Vue.js  
+Jsフレームワーク
+
+
+◆ vue-cli  
+VueCLIはVue.js開発できるようにいろいろ準備してくれるすげーやつ。
+
+	◆VueCLIからVue.js入門①【VueCLIで出てくるファイルを概要図で理解】 - Qiita  
+	https://qiita.com/po3rin/items/3968f825f3c86f9c4e21
+
+	◆Vue.js を vue-cli を使ってシンプルにはじめてみる - Qiita
+	https://qiita.com/567000/items/dde495d6a8ad1c25fa43
+
+
+◆ vuex
+Vue.js アプリケーションのための 状態管理パターン + ライブラリ
+
+	◆Vuex とは何か？ | Vuex
+	https://vuex.vuejs.org/ja/
+
+
+◆ Nuxt.js  
+Vue.js アプリケーションを構築するためのフレームワーク
+
+
+
+
+
+◆WebデザイナーのためのVue.js事始め |  Webクリエイターボックス
+https://www.webcreatorbox.com/tech/first-vuejs
+
+◆1週間でVue.jsをマスターしようと思った時に参考にしたサイト - Qiita
+https://qiita.com/mimoe/items/56784c9d17ed34ee7533
+
+◆jQuery から Vue.js へのステップアップ - Qiita
+https://qiita.com/mio3io/items/e7b2596d06b8005e8e6f
+
+◆初めてのVue.js（jQuery脳からの移行をメインに） - Qiita
+https://qiita.com/hoshimado/items/12df6fa00c102d087960
+
+◆  最新版のチートシート！Vue.jsのよく使用するイベントや構文がまとめられたフロントエンド制作者用チートシート | コリス
+https://coliss.com/articles/build-websites/operation/javascript/cheat-sheet-of-vue.html
+
+◆  Vue.jsの勉強にもいい！UIコンポーネントやインタラクションを実装するチュートリアルがまとめられた -Vue.js Examples | コリス
+https://coliss.com/articles/build-websites/operation/javascript/vuejs-examples.html
+
+◆Vue.jsを用いたサンプルが数多くまとめられている「Vue.js Examples」 | NxWorld
+https://www.nxworld.net/services-resource/vuejsexamples.html?utm_content=bufferd3cd3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+◆Vue.js関連の各種リソースがまとめられた「VueToolbox」 | NxWorld
+https://www.nxworld.net/services-resource/vuetoolbox.html?utm_content=buffere0d96&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+◆Nuxt.js のような自動ルーティングを可能にする Vue CLI プラグインを作った | Web 猫
+https://katashin.info/2018/07/16/233
+
+◆GitHub - t-nashi/-memo: 各技術ごとのメモ
+https://github.com/t-nashi/-memo/tree/master
+
+◆nuxtの検索結果 | 東京上野のWeb制作会社LIG
+https://liginc.co.jp/?s=nuxt
+
+◆Nuxt.jsでWebサイト制作 [1] 導入編 | 東京上野のWeb制作会社LIG
+https://liginc.co.jp/416085
+
+◆SPAだけじゃない！Vue.jsの検索結果 | 東京上野のWeb制作会社LIG
+https://liginc.co.jp/?s=SPA%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%EF%BC%81Vue.js
+
+◆SPAだけじゃない！Vue.js[1] jQueryをVue.jsに書き換えてみる | 東京上野のWeb制作会社LIG
+https://liginc.co.jp/373882
+
+◆Webサイト制作のチュートリアル連載「Nuxt de Portfolio（全５回）」を始めます！ | 東京上野のWeb制作会社LIG
+https://liginc.co.jp/449537
+
+◆算出プロパティとウォッチャ — Vue.js
+https://jp.vuejs.org/v2/guide/computed.html
+
+◆【Vue.js】computedとmethodsの違い - りんごとバナナとエンジニア
+https://udomomo.hatenablog.com/entry/2017/12/11/213904
+
+◆NuxtとVueの違いは？実装して感じたNuxt.jsのメリット | MK Dev
+https://mk-engineer.com/nuxt-start
+
+
+
+
+
+
+
+
+──────────────────────────────────────────────────
+Vue.js入門 基礎から実践アプリケーション開発まで
+https://www.amazon.co.jp/dp/4297100916
+──────────────────────────────────────────────────
+◆GitHub - vuejs/vue-router: 🚦 The official router for Vue.js.
+https://github.com/vuejs/vue-router
+
+◆GitHub - vuejs/vuex: 🗃️ Centralized State Management for Vue.js.
+https://github.com/vuejs/vuex
+
+◆GitHub - vuejs/vue-loader: 📦 Webpack loader for Vue.js components
+https://github.com/vuejs/vue-loader
+
+◆GitHub - vuejs/vue-cli: 🛠️ Standard Tooling for Vue.js Development
+https://github.com/vuejs/vue-cli
+
+◆GitHub - vuejs/vue-devtools: ⚙️ Browser devtools extension for debugging Vue.js applications.
+https://github.com/vuejs/vue-devtools
+
+◆Nuxt.js - The Vue.js Framework
+https://nuxtjs.org/
+
+◆WEEX
+https://weex.incubator.apache.org/
+
+◆Onsen UI 2: Beautiful HTML5 Hybrid Mobile App Framework and Tools - Onsen UI
+https://onsen.io/
+
+◆GitHub - vuejs/awesome-vue: 🎉 A curated list of awesome things related to Vue.js
+https://github.com/vuejs/awesome-vue
+
+◆Vue Curated
+https://curated.vuejs.org/
+
+
+
+
+
+
+
+
+
+
+・Vue Router			… シングルページアプリケーションを実現するためのルーティングプラグイン
+・Vuex				… 大規模なWebアプリケーションを構築するための状態管理プラグイン
+・Vue Loader			… 高度なコンポーネント機能を利用するためのwebpack向けのローダーライブラリ
+・Vue CLI 			… Webアプリケーションを構築するためのプロジェクト構成の雛形生成やプロトタイピングにおいて設定なしビルドを行うためのコマンドラインツール
+・Vue DevTools 		… Vue.jsアプリケーションをブラウザの開発ツールでデバッグするためのツール
+・Nuxt.js 			… シングルページアプリケーションとサーバーサイドレンダリングに対応したVue.jsアプリケーションを作成するためのフレームワーク
+・Weex 				… Vue.jsの構文でiOS、Androidアプリケーションを作成するためのフレームワーク
+・Onsen UI 			… モバイル向けWebアプリケーションを作成するためのフレームワーク
+・Awesome Vue 		… Vue.jsに関連するオープンソースプロジェクトやVue.jsが使われているWebサイトやアプリケーションなどの情報がユーザーによって共有される公式サイト
+・Vue Curated 		… Vue.jsコアチームが厳選したプラグイン、ライブラリ、フレームワークなどを検索できる公式サイト
+
+
+MVVMパターン 			… ソフトウェアアーキテクチャパターンの一種（Model-View-ViewModel）
+
+
+オプション名、内容
+data 			: UIの状態・データ
+el 				: Vueインスタンスをマウントする要素
+filters 		: データを文字列と成形する
+methods 		: イベントが発生した時などの振る舞い
+computed 		: データから派生して算出される値
+
+
+
+
+
+
+
+
+
+Appendix
+Electron（ブラウザ？）
+
+
+
+https://developer.mozilla.org/ja/docs/Web/API/console/assert
+Console.assert()
+
+
+コンストラクタ … オブジェクトを生成するための関数（new演算子を使う）
+生成されたオブジェクトをVueインスタンスと呼ぶ
+
+
+
+
+
+
+◆ルーティング — Vue.js
+https://jp.vuejs.org/v2/guide/routing.html
+
+◆ルーティングとコード分割 | Vue SSR ガイド
+https://ssr.vuejs.org/ja/guide/routing.html
+
+◆動的ルートマッチング | Vue Router
+https://router.vuejs.org/ja/guide/essentials/dynamic-matching.html
+
+◆Vue.jsでSPA - [3] vue-routerでルーティング - Qiita
+https://qiita.com/narutaro/items/74178f4ea031b0ccfa44
+
+
+
+
+◆vue-cliの導入から新規でVue.jsのプロジェクト作成とビルド方法まとめ | 大阪市天王寺区SOHOホームページ制作 | デザインサプライ-DesignSupply.-
+https://designsupply-web.com/knowledgeside/4632/
+
+◆vue-cli 3系への移行と新規Vue.jsプロジェクト作成とビルド方向まとめ | 大阪市天王寺区SOHOホームページ制作 | デザインサプライ-DesignSupply.-
+https://designsupply-web.com/knowledgeside/4639/
+
+◆Vue-routerを使って、SPAをシンプルにはじめてみる - Qiita
+https://qiita.com/567000/items/d6a7c694a370dc92e774
+
+◆webpack(vue-cli)は何をしてくれるものなのか - やわらかVue.js
+https://scrapbox.io/vue-yawaraka/webpack(vue-cli)%E3%81%AF%E4%BD%95%E3%82%92%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%82%E3%81%AE%E3%81%AA%E3%81%AE%E3%81%8B
+
+◆NUXT いるのかどうか (Vue CLI 3 との比較) - Qiita
+https://qiita.com/macoshita/items/bf295a1e0f5fefff3d8e
+
+◆Vue.jsでSPA - [1] Element UIでベースの画面をつくる - Qiita
+https://qiita.com/narutaro/items/50d0e4714f93279502c9
+
+
+
+
+
+
+
+  To get started:
+
+        cd my-portfolio-sample
+        npm run dev
+
+  To build & start for production:
+
+        cd my-portfolio-sample
+        npm run build
+        npm start
+
+
+
+
+
+
+
+Index ページ: http://localhost:3000
+About ページ: http://localhost:3000/about
+404 ページ: http://localhost:3000/hogehoge
+
+
+
+
+
+
+
+
+
+
+
+Nuxtの事始めに良い
+
+	◆【Ch.1】 Nuxt とは？動かして理解する【Nuxt de Portfolio】 | 東京上野のWeb制作会社LIG
+	https://liginc.co.jp/449551
+
+		◆Nuxt.jsで「render function or template not defined in component」 - Qiita
+		https://qiita.com/shozzy/items/9ea438a1eea3d5fc3431
+
+		◆Nuxt.js v2.4.0以上でnuxt-sass-resources-loaderを使ってはいけない - Qiita
+		https://qiita.com/tsukue/items/e3565d889ebe7b078748
+
+	◆ nuxtのバージョン調べる
+	npx nuxt -v
+
+
+vue-cliとNuxtの比較をざっくり知るのに良い
+
+	◆NUXT いるのかどうか (Vue CLI 3 との比較) - Qiita
+	https://qiita.com/macoshita/items/bf295a1e0f5fefff3d8e
+
+
+ルーティング試したい
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
