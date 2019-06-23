@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ECMAScript（エクマスクリプト）
+
+ECMAScriptのバージョン5.1 → ES5
+
+ECMAScirpt 2015 → ES6
+	Harmony
+	ES6 Harmony
+	ES6
+	ES2015
+	ECMAScript 2015
+
+ES2015
+
+
+
+OLD : ES5
+NEW : ES6 | ES2015 | ECMAScript 2015
+
+
+Babel … トランスパイラ（トランスコンパイラ）
+ES6 → ES5
+
+
+
+
+◆JavaScript初級者のためのコーディングガイド - Qiita
+https://qiita.com/raccy/items/bf590d3c10c3f1a2846b
+
+◆10年遅れたJavaScriptの知識をざっくり10分でアップデートしよう - WPJ
+https://www.webprofessional.jp/anatomy-of-a-modern-javascript-application/
+
+◆JavaScriptをもう一度学びたい人へ 演算子、条件文、関数の基礎をおさらい - WPJ
+https://www.webprofessional.jp/javascript-operators-conditionals-functions/?utm_content=buffer3cbb8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+◆JavascriptのChromeでのデバッグ方法個人的まとめ2016 - Qiita
+https://qiita.com/snoguchi/items/8f6bb62a3166eca23ac3
+
+◆あなたが知らないJavaScriptの便利すぎるショートハンド19選 - WPJ
+https://www.webprofessional.jp/shorthand-javascript-techniques/
+
+◆【JavaScript入門】条件(三項)演算子の使い方と活用例まとめ！ | 侍エンジニア塾ブログ（Samurai Blog） - プログラミング入門者向けサイト
+https://www.sejuku.net/blog/23627
+
+◆JavaScriptの配列・多次元配列・連想配列の基本 | てらこや.work
+https://www.terakoya.work/javascript-array-basis/
+
+
+
+
+
+
+
+
+
+◆ES6 Console - try JavaScript compilers
+https://es6console.com/
+
+◆Babel · The compiler for next generation JavaScript
+https://babeljs.io/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
