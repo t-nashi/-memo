@@ -1,0 +1,97 @@
+
+
+
+
+
+◆ オンラインエディタ
+https://jsfiddle.net/
+https://codepen.io/
+https://codesandbox.io/dashboard/recent
+
+└ 参考
+romantist					code pen
+webcreatorbox				code pen
+
+
+
+
+--------------------
+CSS3 - position: sticky
+--------------------
+◆【第3弾】少しのコードで実装可能な15のCSS小技集 |  Webクリエイターボックス
+https://www.webcreatorbox.com/tech/css-tips-3
+
+◆scrollに応じて要素を固定/解除するCSS「position: sticky」とpolyfill「sticky-state」の紹介（脱jQuery） | maesblog
+https://mae.chab.in/archives/59690
+
+
+
+
+vh大切
+
+
+◆viewportが有効になる
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
+</head>
+
+<html lang="ja" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>これを読めば思い出す</title>
+
+
+
+
+
+
+
+
+◆google - css vh
+https://www.google.co.jp/search?q=css+vh&ie=utf-8&oe=utf-8&hl=ja
+
+◆CSS には vw, vh, vmin, vmax という単位がある ｜ DevelopersIO
+https://dev.classmethod.jp/ria/html5/css-length-viewport/
+
+◆もしかしてだけどCSSのvwやvhを使うとメディアクエリ無しでレスポンシブ対応できちゃうんじゃないの？（オマケにvmin、vmaxも） - クモのようにコツコツと
+https://www.i-ryo.com/entry/2018/09/06/220309
+
+◆レスポンシブに便利なCSSのvh/vw/vmin/vmaxの基本と使い方とは - WPJ
+https://www.webprofessional.jp/css-viewport-units-quick-start/
+
+◆  [CSS]ビューポート(vw, vh)とパーセント(%)、レスポンシブに適した単位の賢い使い分け方法 | コリス
+https://coliss.com/articles/build-websites/operation/css/viewport-vs-percentage-units-by-ire.html
+
+◆意外と知らないCSSのvh/vw | サイト・デザイン | ブログ | 株式会社モンゴロイド｜Webマーケティング
+https://www.mongoroid.com/blog/design/vh-vw_20171206.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+これでササっとかっこいい背景素材作れるんじゃないかってメモ
+
+◆WebGL Fluid Simulation
+https://paveldogreat.github.io/WebGL-Fluid-Simulation/
+
+◆HTML5製のデザインツール Particle Develop - ICS
+https://ics-creative.github.io/project-particle-develop/
+
+
+
