@@ -1,0 +1,912 @@
+
+
+
+
+
+
+◆docker-compose コマンドまとめ - Qiita
+https://qiita.com/wasanx25/items/d47caf37b79e855af95f
+
+◆Dockerのすべてが5分でわかるまとめ!(コマンド一覧付き) - paiza開発日誌
+https://paiza.hatenablog.com/entry/docker_intro
+
+◆Dockerチートシート - Qiita
+https://qiita.com/bungoume/items/b8911fd243d9c084bd63
+
+◆Docker ハンズオン - 基本コマンド編 - Qiita
+https://qiita.com/hihihiroro/items/6dda871dc2566801a6da
+
+◆Dockerのすべてが5分でわかるまとめ!(コマンド一覧付き) - paiza開発日誌
+https://paiza.hatenablog.com/entry/docker_intro
+
+◆【随時更新】Dockerの基本機能と全体像のイメージを整理してみる - Qiita
+https://qiita.com/fkooo/items/934c7b6f1f0c0e8d1b21
+
+◆Docker for Windowsでイメージからコンテナを生成／操作してみる - Qiita
+https://qiita.com/fkooo/items/ad7d023b59df71cc9a60
+
+◆Docker一括削除コマンドまとめ - Qiita
+https://qiita.com/boiyaa/items/9972601ffc240553e1f3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================
+ ◆ osx_dockerインストールメモ
+==================================================
+
+
+
+
+LAMP環境？
+xamppとかの環境のこと
+
+
+
+
+Get started with Docker Desktop for Mac
+
+
+
+◆Docker Desktop for Mac and Windows | Docker
+https://www.docker.com/products/docker-desktop
+
+◆Docker Hub（521MB）
+https://hub.docker.com/editions/community/docker-ce-desktop-mac
+
+◆Install Docker Compose | Docker Documentation
+https://docs.docker.com/compose/install/
+
+
+
+$ cd [directory path]
+
+$ docker-compose up -d
+
+
+0.0.0.0:8000 にアクセス
+
+
+サイトのタイトル： dockerでwordpressテスト
+ユーザー名： sampletarou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================
+ ◆ コマンド
+==================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+◆ コンテナ操作
+-----
+docker ps -as					# コンテナ一覧(停止コンテナ含む、サイズ表示)
+
+docker start CONTAINER			# コンテナを起動
+docker restart CONTAINER		# コンテナ再起動
+docker stop CONTAINER			# コンテナ終了
+docker kill CONTAINER			# コンテナ強制終了
+
+docker attach CONTAINER			# コンテナへアタッチ
+
+docker top CONTAINER			# コンテナのプロセスを表示
+docker logs -f CONTAINER		# コンテナのログを表示(ログ出力をfollow)
+docker inspect CONTAINER		# コンテナの情報を表示
+
+docker rm CONTAINER				# コンテナを削除
+
+docker run						# コンテナを作成・起動（-dでバックグラウンドで実行）
+docker ps						# コンテナ稼働状況確認
+docker images					# イメージ確認
+docker stop						# コンテナ停止
+docker version					# Dockerのバージョン表示
+docker info						# コンテナ・イメージ数、ユーザ情報など現在の情報表示
+
+
+docker search					# Docker Hub 上のイメージを探すコマンド
+docker pulled					# Docker Hub や他のレジストリからイメージをダウンロードするコマンド
+
+docker container prune			# 停止コンテナ一括削除
+
+touch Dockerfile				# Dockerfileを作成する
+
+
+コンテナにログイン
+docker exec -ti php70-apache bash
+
+コンテナからログアウト
+exit
+
+
+
+
+
+
+
+「hello-world」 imageのコンテナを作成・起動する
+docker run hello-world
+docker run --name #{任意のコンテナ名} -it #{利用したいイメージ} /bin/bash
+docker container create --name aabbcc hello-world
+
+
+docker start xenodochial_morse
+
+
+
+
+◆ イメージの操作
+-----
+docker pull NAME[:TAG]
+docker images --tree			# イメージ一覧表示（ただし,treeオプションは非推奨）
+
+docker inspect images			# イメージの情報を表示
+docker rmi IMAGE				# イメージを削除
+docker rmi IMAGE -f				# イメージを強制削除
+docker image prune				# イメージ一括削除
+
+
+
+◆ イメージ作成
+-----
+# dockerfileからイメージ作成
+docker build -t NAME[:TAG] .
+# またはコンテナからイメージを作成
+docker commit -m "comment" CONTAINER NAME[:TAG]
+
+# 自分のイメージをpush
+docker login
+docker push NAME[:TAG]
+
+
+
+
+
+
+
+
+
+
+
+
+
+docker-compose stop
+docker-compose image
+docker-compose ps
+docker-compose up -d
+
+
+◆◇◇◇◇◇◇◇◇◇
+https://suin.io/537
+
+◆Docker不要なコンテナ、イメージを大掃除！コンテナとイメージの一括削除 | ITかあさん
+http://www.kaasan.info/archives/3953
+
+
+
+
+
+
+
+==================================================
+ 再現できた
+==================================================
+◆【超簡単】Docker でモダンな PHP 開発環境を作る (PHP, MySQL, PHP-FPM, nginx, memcached) - koni blog
+https://koni.hateblo.jp/entry/2017/01/28/150522
+
+◆DockerでPHP + Nginx + MySQLの環境を構築する - Qiita
+https://qiita.com/tomitz/items/cdc03af3b37d3cc14715
+
+◆php7.0をDockerでサクッと動かす - Qiita
+https://qiita.com/tomoyk/items/329479726e0db7c4d3c4
+
+◆DockerでPHP環境 - Qiita
+https://qiita.com/ka2uk/items/d44d4688a0f122b5fdaa
+
+◆docker と docker-compose の初歩 - Qiita
+https://qiita.com/hiyuzawa/items/81490020568417d85e86
+
+◆【初心者向け】Dockerで手軽にNode.js開発環境構築 (2) - Qiita
+https://qiita.com/yukin01/items/4f54496fd2f577c56b1d
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================
+ xxxxx
+==================================================
+
+◆exec &mdash; Docker-docs-ja 17.06.Beta ドキュメント
+http://docs.docker.jp/engine/reference/commandline/exec.html
+
+
+
+
+Where are images stored?
+https://forums.docker.com/t/where-are-images-stored/9794/8
+
+https://qiita.com/tifa2chan/items/b9607d80fb58476e4ef5
+
+
+
+
+
+
+
+
+
+
+
+https://qiita.com/zembutsu/items/9e9d80e05e36e882caaa
+https://qiita.com/kotamat/items/9f2fe9cc66cf3536abe5
+http://docs.docker.jp/glossary.html#compose
+https://qiita.com/koka/items/3d3d4ee5680f92a0ad89
+https://www.google.co.jp/search?hl=ja&ei=MrTtW5TrNYn-8gWo06noCA&q=docker-compose+dockerfile+%E9%81%95%E3%81%84&oq=docker-compose+dockerfile+&gs_l=psy-ab.3.1.0l8.57740.57740.0.59548.1.1.0.0.0.0.89.89.1.1.0....0...1.1.64.psy-ab..0.1.89....0.cyg09n8o8DI
+https://qiita.com/hiyuzawa/items/81490020568417d85e86
+
+◆docker-compose コマンドまとめ - Qiita
+https://qiita.com/wasanx25/items/d47caf37b79e855af95f
+
+◆Dockerのすべてが5分でわかるまとめ!(コマンド一覧付き) - paiza開発日誌
+https://paiza.hatenablog.com/entry/docker_intro
+
+
+
+https://qiita.com/hiyuzawa/items/81490020568417d85e86
+
+
+$ docker version
+
+$ docker-compose version
+
+$ docker run centos
+
+$ docker ps
+
+$ docker ps -a
+
+$ docker attach c7827f28ee8d
+[root@c7827f28ee8d /]# ls
+
+作業中に一度macに制御を戻したい場合、 exit とすると先ほどの通りコンテナが停止状態になり再び利用したい場合 docker restartからやり直さなければならず非効率である。コンテナを起動したまま制御をmacに戻したい場合は、コンテナ内で Ctrl + p q (Ctrlを押したまま p q と続けて押す)とすればよい。コンテナを起動したままmacに制御が戻る。この操作をアタッチの逆でデタッチと呼ぶ。
+
+
+
+
+
+==================================================
+ 基本を理解する
+==================================================
+・docker
+・docker-compose
+・イメージ
+  └ コンテナ
+・COMMAND = "/bin/bash"
+・Docker Hub
+・コンテナへのアタッチとデタッチ
+  └ Portマッピング
+		p 8080:80 がそれにあたり、ローカル(mac)側の8080ポートをコンテナの80ポートにマッピングする指定である。これによりmac側でブラウザを開き http://localhost:8080/ でのアクセスでコンテナ内のhttpdにアクセスできる。
+  └ Volumeマッピング
+		ポートと同様にmacのファイルシステムをコンテナ側にマッピングする。
+・Dockerfileとは規定の文法で記載されたDocker Imageの作成が記録されたファイルである。
+・docker-compose は複数のコンテナを組み合わせて１つのアプリケーションとして構成を定義するファイルである
+  └ docker-compose.yml … cmdとかのdockerコマンド内容を集約したもの。batファイルみたいなものと捉えてよい。各コマンドの設定も見やすく書ける。
+
+
+
+
+◆ docker ps (-a)
+CONTAINER ID 	… 66d94909198f
+Images 			… php:7.0-apache
+COMMAND 		… "docker-php-entrypoi…"
+CREATED 		… 3 days ago
+STATUS 			… Exited (0) 3 days ago
+PORTS 			… 
+NAMES 			… php
+
+
+
+
+◆DockerをWindows7にインストールして触ってみる - abcdefg.....
+http://pppurple.hatenablog.com/entry/2016/07/03/003425
+
+◆だいたい10分でざっくり押さえるDockerの基本 - WPJ
+https://www.webprofessional.jp/how-to-build-an-image-with-the-dockerfile/
+
+touch Dockerfile 		… Dockerfileを作成する
+
+
+
+
+==================================================
+ phpを動かす
+==================================================
+◆php7.0をDockerでサクッと動かす - Qiita
+https://qiita.com/tomoyk/items/329479726e0db7c4d3c4
+
+◆DockerでPHP環境 - Qiita
+https://qiita.com/ka2uk/items/d44d4688a0f122b5fdaa
+
+----------
+
+01. DockerHubから公式イメージを取得（php:7.0-apache）
+docker pull php:7.0-apache
+
+	# イメージ確認
+	docker images
+
+02. image「php:7.0-apache」からコンテナ「php」を作成・起動 ※「D:\Docker\01_test」がカレントディレクトリになる
+docker run -p 8000:80 -v D:\Docker\01_test:/var/www/html --name php -d php:7.0-apache
+
+	v	バインディング (bind mount a volume)
+
+	# コンテナ稼働状況確認（起動中のものだけ表示）
+	docker images ps
+
+03. 指定したカレントディレクトリにindex.php（<?php phpinfo();）を置いてブラウザでアクセス
+http://127.0.0.1:8000/index.php
+
+04. コンテナの停止
+docker stop php
+
+	# コンテナ稼働状況確認（停止中のものも含めて表示）
+	docker images ps -a
+
+----------
+
+
+
+
+
+
+
+
+├── docker
+│	├── docker-compose.yml
+│	├── composer
+│	│	└── Dockerfile
+│	├── data
+│	│	└── Dockerfile
+│	├── fpm
+│	│	├── Dockerfile
+│	│	└── php-fpm.d
+│	│	├── docker.conf
+│	│	├── www.conf
+│	│	├── www.conf.default
+│	│	└── zz-docker.conf
+│	├── gulp
+│	│	└── Dockerfile
+│	├── nginx
+│	│	├── Dockerfile
+│	│	└── config
+│	│	├── laravel.conf
+│	│	├── nginx.conf
+│	│	└── nginx_run.sh
+│	└── npm
+│	└── Dockerfile
+├── logs
+└── www
+
+
+
+
+
+
+
+
+
+
+
+
+◆nsenter・docker-enterでコンテナに入る方法 - Qiita
+https://qiita.com/zembutsu/items/0b8171e85828e0e4fc55
+
+
+
+◆docker runでHello worldって実際は何をしてるの？【92日目】 - エンジニアのひよこ_level10
+https://www.nyamucoro.com/entry/2018/01/13/123427
+
+
+
+
+◆Dockerイメージはホストマシンにどこに保存されていますか？ [docker-image] | CODE Q&amp;A 問題解決 [日本語]
+https://code.i-harness.com/ja/q/125800f
+
+
+
+
+
+
+◆Docker compose ことはじめハンズオン - Qiita
+https://qiita.com/TsutomuNakamura/items/7e90e5efb36601c5bc8a
+
+◆Docker &amp;amp; Docker-Composeの基本的な使い方 - Qiita
+https://qiita.com/koka/items/3d3d4ee5680f92a0ad89
+
+◆Docker入門 #2 【Dockerチュートリアル】 - Qiita
+https://qiita.com/wMETAw/items/8d1b0c053a39841765bf
+
+◆Docker入門 #3 【WordPress環境構築】 - Qiita
+https://qiita.com/wMETAw/items/710bbbb328b78757463a
+
+
+
+
+
+
+C:\Users\xxxxx>docker -v
+Docker version 18.06.1-ce, build e68fc7a
+
+C:\Users\xxxxx>docker-compose -v
+docker-compose version 1.22.0, build f46880fe
+
+
+
+
+
+
+
+
+
+
+
+
+C:\Users\xxxxx>docker info
+Containers: 3
+ Running: 2
+ Paused: 0
+ Stopped: 1
+Images: 4
+Server Version: 18.06.1-ce
+Storage Driver: overlay2
+ Backing Filesystem: extfs
+ Supports d_type: true
+ Native Overlay Diff: true
+Logging Driver: json-file
+Cgroup Driver: cgroupfs
+Plugins:
+ Volume: local
+ Network: bridge host macvlan null overlay
+ Log: awslogs fluentd gcplogs gelf journald json-file logentries splunk syslog
+Swarm: inactive
+Runtimes: runc
+Default Runtime: runc
+Init Binary: docker-init
+containerd version: 468a545b9edcd5932818eb9de8e72413e616e86e
+runc version: 69663f0bd4b60df09991c08812a60108003fa340
+init version: fec3683
+Security Options:
+ seccomp
+  Profile: default
+Kernel Version: 4.9.93-linuxkit-aufs
+Operating System: Docker for Windows
+OSType: linux
+Architecture: x86_64
+CPUs: 2
+Total Memory: 1.934GiB
+Name: linuxkit-00155d0a6d05
+ID: WHPW:W7NF:2ZWE:S2CU:KXFT:5KMH:LTUW:HA2C:HOBG:LQ5M:K4TW:VURZ
+Docker Root Dir: /var/lib/docker
+Debug Mode (client): false
+Debug Mode (server): true
+ File Descriptors: 39
+ Goroutines: 59
+ System Time: 2018-11-12T16:37:50.786618Z
+ EventsListeners: 1
+Registry: https://index.docker.io/v1/
+Labels:
+Experimental: false
+Insecure Registries:
+ 127.0.0.0/8
+Live Restore Enabled: false
+
+
+C:\Users\xxxxx>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================
+ Windows 10 (Hyper-V) で Docker を使った Wordpress 実行環境を構築する
+==================================================
+
+◆Windows 10 (Hyper-V) で Docker を使った Wordpress 実行環境を構築する - Qiita
+https://qiita.com/pluto134340/items/eb4e19421a7b01a1a276
+
+
+◆Releases · docker/compose · GitHub
+https://github.com/docker/compose/releases
+
+→ docker-compose-Windows-x86_64.exe
+
+
+	・【Docker設定】Advanced - Disk image location
+	C:\Users\Public\Documents\Hyper-V\Virtual hard disks\MobyLinuxVM.vhdx
+	↓↓↓
+	D:\Docker\Hyper-V\Virtual hard disks\MobyLinuxVM.vhdx
+
+
+	・【Hyper-V設定】仮想ハードディスク
+	C:\Users\Public\Documents\Hyper-V\Virtual Hard Disks
+	↓↓↓
+	D:\Docker\Hyper-V\Virtual hard disks\
+
+	・【Hyper-V設定】仮想マシン
+	C:\ProgramData\Microsoft\Windows\Hyper-V
+	↓↓↓
+	D:\Docker\Hyper-V
+
+
+
+
+http://localhost:8000/wp-admin/install.php
+
+
+
+
+
+
+
+
+
+
+==================================================
+ Docker for Windows
+==================================================
+
+◆Install Docker for Windows | Docker Documentation
+https://docs.docker.com/docker-for-windows/install/
+
+◆Docker for WindowsをWindows10 Proにインストール - Qiita
+https://qiita.com/anikundesu/items/7ecf20b7e8a60f8439a8
+
+
+ID： namenamename
+
+Email： e-mail address
+
+PW： password
+
+
+Use Windows containers instead of Linux containers (this can be changed after installation)
+
+
+◆ store docker
+
+https://store.docker.com/
+
+https://store.docker.com/editions/community/docker-ce-desktop-windows
+
+https://store.docker.com/profiles/namenamename
+
+
+
+↓↓↓↓↓↓↓↓↓
+
+
+
+◆ コマンドプロンプト
+
+Microsoft Windows [Version 10.0.17134.345]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\xxxxx>docker run hello-world
+Unable to find image 'hello-world:latest' locally
+latest: Pulling from library/hello-world
+d1725b59e92d: Pull complete
+Digest: sha256:0add3ace90ecb4adbf7777e9aacf18357296e799f81cabc9fde470971e499788
+Status: Downloaded newer image for hello-world:latest
+
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+
+To generate this message, Docker took the following steps:
+ 1. The Docker client contacted the Docker daemon.
+ 2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+    (amd64)
+ 3. The Docker daemon created a new container from that image which runs the
+    executable that produces the output you are currently reading.
+ 4. The Docker daemon streamed that output to the Docker client, which sent it
+    to your terminal.
+
+To try something more ambitious, you can run an Ubuntu container with:
+ $ docker run -it ubuntu bash
+
+Share images, automate workflows, and more with a free Docker ID:
+ https://hub.docker.com/
+
+For more examples and ideas, visit:
+ https://docs.docker.com/get-started/
+
+
+C:\Users\xxxxx>docker --version
+Docker version 18.06.1-ce, build e68fc7a
+
+C:\Users\xxxxx>docker-compose --version
+docker-compose version 1.22.0, build f46880fe
+
+C:\Users\xxxxx>docker-machine --version
+docker-machine version 0.15.0, build b48dc28d
+
+C:\Users\xxxxx>
+
+C:\Users\xxxxx>
+
+
+
+
+
+
+◆ Hyper-V マネージャー
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+
+%windir%\System32\mmc.exe "%windir%\System32\virtmgmt.msc"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+◆Install Docker Toolbox on Windows | Docker Documentation
+https://docs.docker.com/toolbox/toolbox_install_windows/
+
+◆Docker for Windows のインストール &mdash; Docker-docs-ja 17.06.Beta ドキュメント
+http://docs.docker.jp/docker-for-windows/step_one.html
+
+
+
+
+==============================
+ 01. Hyper-Vの準備
+==============================
+◆「Windows OS」の「ファイル名を指定して実行」で使用できるコマンド一覧について
+https://www.japan-secure.com/entry/list-of-commands-that-can-be-used-on-the-screen-named-run-with-specify-file-name.html
+
+◆Windows 10 での Hyper-V の有効化 | Microsoft Docs
+https://docs.microsoft.com/ja-jp/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v
+
+◆ 最新版！ Windows 10の「クライアントHyper-V」の新機能：企業ユーザーに贈るWindows 10への乗り換え案内（36） - ＠IT
+http://www.atmarkit.co.jp/ait/articles/1811/08/news017.html
+
+01. winkey + R ＞ control … コントロールパネル起動
+02. プログラムと機能 ＞ Windowsの機能の有効化または無効化
+03. 「Hyper-V」にチェック ＞ OK ＞ 再起動
+
+
+	※Hyper-Vが有効にできなかったらBIOS設定が必要そう
+	↓↓↓
+	◆Hyper-Vを有効にする時のBIOSの設定 (HP EliteBook Folio 9470m) - メンチカツには醤油でしょ!!
+	http://ryoichi0102.hatenablog.com/entry/2017/10/17/181315
+
+	◆仮想化機能を有効にするためのBIOS設定｜テックウインド株式会社
+	https://www.tekwind.co.jp/ASU/faq/entry_134.php
+
+
+winkey ＞ 「hyper」と打つと「Hyper-V マネージャー」や「Hyper-V クイック作成」が表示されるようになった
+
+
+	◆CPU仮想化の確認（Windows10） | DWAPP
+	http://www.dwapp.top/environment/virtualization/817
+
+
+
+
+
+
+
+==============================
+ Docker Toolbox
+==============================
+◆Docker for Windowsで快適な環境を得るまでの そこそこ長い闘い - Qiita
+https://qiita.com/YukiMiyatake/items/73c7d6c4f2c9739ebe60
+
+◆Windows10マシンにDocker Toolbox を入れて個人用の開発環境を作る - Qiita
+https://qiita.com/osuo/items/99a2b7413ce75f8217be
+
+◆Docker Quickstart Terminalのエラー発生(Looks like something went wrong)について - Qiita
+https://qiita.com/yaju/items/0e98e88f3638d25d69e0
+
+◆Docker - Kitematicが実行出来ない｜teratail
+https://teratail.com/questions/121907
+
+
+
+Docker for Macを使いましょう。
+そして、Docker for MacのメニューからKitematicをインストールしてみてください。
+※上記作業前にインストールしたDockerとKitematicはアンインストールしてクリーンな状態としてください。
+
+Docker ToolboxはSystem Requirementsを満たさないレガシーなシステム向けに維持されています。
+
+
+
+
+
+
+
+
+
+
+
+
+◆windows10でDocker Toolboxのエラーとインストール【ざっくり手順あり】 - This is a Pen
+http://acchi-muite-hoi.hatenablog.com/entry/2016/06/20/042002
+
+
+
+
+
+◆Windows + Docker Toolbox で Wordpress開発環境構築  - Qiita
+https://qiita.com/azu369yu/items/e9415024e84c86a9e577
+
+◆ 無償の「Docker for Windows」で手軽にLinuxコンテナを利用する (1/2)：Windows管理者のためのDocker入門 - ＠IT
+http://www.atmarkit.co.jp/ait/articles/1609/01/news053.html
+
+◆ WindowsのDocker（コンテナ）対応、正しく理解できていますか？ (1/3)：その知識、ホントに正しい？ Windowsにまつわる都市伝説（69） - ＠IT
+http://www.atmarkit.co.jp/ait/articles/1610/24/news014.html
+
+
+
+http://canon1ky.hatenablog.com/entry/2018/09/20/193744
+
+
+
+
+https://github.com/
+https://github.com/t-nashi/Node.js_php_browser-sync
+https://www.google.co.jp/search?hl=ja&ei=UO_nW9LENYmS8wXu0JLgAQ&q=wordpress+-+npm&oq=wordpress+-+npm&gs_l=psy-ab.3..0i30k1l8.112575.112575.0.113689.1.1.0.0.0.0.108.108.0j1.1.0....0...1.1.64.psy-ab..0.1.107....0.IdbeVwz_hjE
+https://www.npmjs.com/package/wordpress
+https://www.webprofessional.jp/keystonejs-best-node-js-alternative-wordpress/
+https://www.webprofessional.jp/wordpress-theme-automation-with-gulp/
+https://www.google.co.jp/search?hl=ja&ei=1fDnW-bkFMOj8QWf1oe4DA&q=wordpress+gulp+Browsersync&oq=wordpress+gulp+Browsersync&gs_l=psy-ab.3..0.21483.29417.0.29685.16.16.0.0.0.0.139.1527.11j5.16.0....0...1.1.64.psy-ab..2.14.1341...0i67k1j0i13k1j0i7i30k1j0i8i7i30k1j0i8i30k1j0i13i30k1j0i13i5i30k1j0i8i13i30k1j0i7i30i19k1.0.TVk-XAymqEM
+https://gist.github.com/nagomu/145a73b9d27e7da1fbc8
+https://gist.github.com/murum/47b35085dfb603d56b82
+https://torounit.com/blog/2017/03/15/3396/
+
+
+
+
+https://officepress.net/googledocs/function-spread/value-spread.html
+https://thetimegraphy.com/google-spreadsheet-how-to-type-not-equal/
+https://tonari-it.com/gas-spreadsheet-year-number-function/
+http://osak.in/web/265
+
+
