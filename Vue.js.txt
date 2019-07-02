@@ -28,17 +28,53 @@ Vue.js アプリケーションを構築するためのフレームワーク
 
 
 
+◆GitHub - t-nashi/-memo: 各技術ごとのメモ
+https://github.com/t-nashi/-memo/tree/master
+
+
+
+
+
+
+
 ◆WebデザイナーのためのVue.js事始め |  Webクリエイターボックス
 https://www.webcreatorbox.com/tech/first-vuejs
-
-◆1週間でVue.jsをマスターしようと思った時に参考にしたサイト - Qiita
-https://qiita.com/mimoe/items/56784c9d17ed34ee7533
 
 ◆jQuery から Vue.js へのステップアップ - Qiita
 https://qiita.com/mio3io/items/e7b2596d06b8005e8e6f
 
+◆SPAだけじゃない！Vue.js[1] jQueryをVue.jsに書き換えてみる | 東京上野のWeb制作会社LIG
+https://liginc.co.jp/373882
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ◆初めてのVue.js（jQuery脳からの移行をメインに） - Qiita
 https://qiita.com/hoshimado/items/12df6fa00c102d087960
+
+◆1週間でVue.jsをマスターしようと思った時に参考にしたサイト - Qiita
+https://qiita.com/mimoe/items/56784c9d17ed34ee7533
 
 ◆  最新版のチートシート！Vue.jsのよく使用するイベントや構文がまとめられたフロントエンド制作者用チートシート | コリス
 https://coliss.com/articles/build-websites/operation/javascript/cheat-sheet-of-vue.html
@@ -66,9 +102,6 @@ https://liginc.co.jp/416085
 
 ◆SPAだけじゃない！Vue.jsの検索結果 | 東京上野のWeb制作会社LIG
 https://liginc.co.jp/?s=SPA%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%EF%BC%81Vue.js
-
-◆SPAだけじゃない！Vue.js[1] jQueryをVue.jsに書き換えてみる | 東京上野のWeb制作会社LIG
-https://liginc.co.jp/373882
 
 ◆Webサイト制作のチュートリアル連載「Nuxt de Portfolio（全５回）」を始めます！ | 東京上野のWeb制作会社LIG
 https://liginc.co.jp/449537
@@ -286,6 +319,58 @@ vue-cliとNuxtの比較をざっくり知るのに良い
 
 
 
+エラーログの場所
+C:\Users\t-nashi\AppData\Roaming\npm-cache\_logs
+
+
+
+
+
+
+asyncData
+
+axios
+
+
+◆Vue.js #007 – Nuxt.jsとaxiosでAPI取得 | dayjournal memo
+https://day-journal.com/memo/vue-js-007/
+
+
+
+
+
+========================================
+SSRせずプリレンダリング
+========================================
+◆SSRしないNuxt.jsでページロード時に非同期部分を更新する方法 | なすびブログ
+https://blog.nasbi.jp/programming/frontend/javascript/ssr%E3%81%97%E3%81%AA%E3%81%84nuxt-js%E3%81%A7%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%AD%E3%83%BC%E3%83%89%E6%99%82%E3%81%AB%E9%9D%9E%E5%90%8C%E6%9C%9F%E9%83%A8%E5%88%86%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%99/
+
+◆Vue.js - nuxt.js で取得したjsonデータを表示する方法｜teratail
+https://teratail.com/questions/186439
+
+◆NuxtのasyncDataで静的ファイルを読み込む - log.pocka.io
+https://log.pocka.io/posts/nuxt-asyncdata-static-file-code-splitting/
+
+
+	◆Nuxt.js(v2)で静的なJSONファイルを読み込み、いろんな所で使う。 - Qiita
+	https://qiita.com/amishiro/items/b09f9038ee3ebfee33d4
+
+	◆Nuxt.jsでVuexをモジュールモードで利用する
+	https://doitu.info/blog/5ad8859de59645002dde9c80
+
+
+
+◆export default ってなに？ - Qiita
+https://qiita.com/masash49/items/e71319eef82619d19cd8
+
+◆Vue の export default と import - 山崎屋の技術メモ
+https://www.shookuro.com/entry/2018/09/22/172636
+
+◆Vue.jsの書き方実例集(随時追加)※逆引きリファレンス的な - Qiita
+https://qiita.com/Yorinton/items/a0144c34e4edb0777493
+
+◆基礎から学ぶ Vue.js
+https://cr-vue.mio3io.com/
 
 
 
@@ -296,8 +381,25 @@ vue-cliとNuxtの比較をざっくり知るのに良い
 
 
 
+export default
+
+computed 		 // 関数として実装、参照時はプロパティとして機能
+methods 		 // 
+components 		 // 
+asyncData 		 // 
 
 
+↑ Vueコンストラクタのオプションオブジェクト
+
+
+
+◆Vue.js｜主なオプション(data, computed, filter, props) - わくわくBank
+https://www.wakuwakubank.com/posts/504-vue-sfc-script/
+
+
+
+
+https://hafilog.com/vue-for-loop
 
 
 
