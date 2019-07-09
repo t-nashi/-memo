@@ -1,5 +1,11 @@
 
 
+
+
+https://blogs.adobe.com/japan/cc-web-adobe-xd-creative-challenge-season2/
+
+
+
 ◆XDでpsdやaiをリンクさせたい！CCライブラリを使った方法と注意点｜spicagraph｜note
 https://note.mu/design_himitsu/n/n70117a9e4933?creator_urlname=design_himitsu
 
