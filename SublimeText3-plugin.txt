@@ -1,0 +1,57 @@
+
+
+◆Sublime Text 3/Packages/
+※会社のmac内
+
+・Autoprefixer
+・backrefs
+・Codecs33
+・ColorPicker
+・ConvertToUTF8
+・Default
+・Gutter Color
+・HTML-CSS-JS Prettify
+・Japanize
+・jsonschema
+・markupsafe
+・mdpopups
+・pygments
+・pymdownx
+・python-jinja2
+・python-markdown
+・PyV8
+・pyyaml
+・SFTP
+・SublimeCodeIntel
+・Sublimerge 3
+・SublimeText3-UrlOpenAtBrowser-master
+・Theme - Default
+・User
+
+
+
+
+◆mac-sublimetext3
+/Packages/Autoprefixer
+/Packages/backrefs
+/Packages/Codecs33
+/Packages/ColorPicker
+/Packages/ConvertToUTF8
+/Packages/Default
+/Packages/Gutter Color
+/Packages/HTML-CSS-JS Prettify
+/Packages/Japanize
+/Packages/jsonschema
+/Packages/markupsafe
+/Packages/mdpopups
+/Packages/pygments
+/Packages/pymdownx
+/Packages/python-jinja2
+/Packages/python-markdown
+/Packages/PyV8
+/Packages/pyyaml
+/Packages/SFTP
+/Packages/SublimeCodeIntel
+/Packages/SublimeText3-UrlOpenAtBrowser-master
+/Packages/User
+
