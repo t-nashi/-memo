@@ -1,0 +1,335 @@
+
+
+
+
+
+◆レスポンシブ対応でjQuery不要の高機能スライダー「Swiper」 | will STYLE Inc.｜神戸にあるウェブ制作会社
+https://www.willstyle.co.jp/blog/724/
+
+◆Swiper - Most Modern Mobile Touch Slider
+http://idangero.us/swiper/
+
+◆Swiper Demos
+http://idangero.us/swiper/demos/
+
+◆Swiper API
+http://idangero.us/swiper/api/
+
+◆jQuery無しで動く！「swiper」がとても便利 | ホームページ制作・ WEB制作 大阪【株式会社I.M.D】
+https://www.imd-net.com/blog/2016/05/31-235955/
+
+◆Swiperを使用した基本的なスライダー実装から応用まで！実用的な6つのサンプル | WEB改善事例集(GMOソリューションパートナー株式会社)
+http://xn--web-oi9du9bc8tgu2a.com/js-swiper-sample/
+
+◆swiper.js使ってみたからそのオプションについて &#8211; なんかいろいろデザインする人
+http://reiwinn-web.net/2016/11/30/swiper-js-01/
+
+
+
+
+
+
+
+
+
+
+◆Swiper API
+http://idangero.us/swiper/api/#autoplay
+
+
+◆Swiper demo
+https://codepen.io/chiilog/pen/jzgaVQ
+
+
+
+
+
+
+
+==========
+2018.10.17 wed
+==========
+◆【実例12パターン】画像スライダーはSwiper使っておけば間違いない！実用的な使い方を紹介 | HPcode
+https://haniwaman.com/swiper/#Swiper-2
+
+◆Swiper API
+https://idangero.us/swiper/api/
+
+◆Getting Started With Swiper
+https://idangero.us/swiper/get-started/
+
+◆swiper/dist at master · nolimits4web/swiper · GitHub
+https://github.com/nolimits4web/Swiper/tree/master/dist
+
+
+
+==========
+2018.10.16 tue
+==========
+
+E:first-of-type、E:last-of-type
+◆E:first-of-type－CSS3リファレンス
+http://www.htmq.com/selector/first-of-type.shtml
+
+https://www.google.co.jp/search?ei=scrFW9KNIIfO8wXNwZ3QDg&q=swiper+createPagination&oq=swiper+createPagination&gs_l=psy-ab.3..0i30k1.723277.726287.0.727892.3.3.0.0.0.0.149.317.2j1.3.0....0...1.1j2.64.psy-ab..0.3.317...0j0i7i30k1j0i7i10i30k1.0.cP9BDjDLHo8
+https://www.google.co.jp/search?q=swiper+%E8%A4%87%E6%95%B0+%E5%88%A5%E3%80%85%E3%81%AB&oq=swiper+%E8%A4%87%E6%95%B0+%E5%88%A5%E3%80%85%E3%81%AB&aqs=chrome..69i57.13194j1j7&sourceid=chrome&ie=UTF-8
+https://www.google.co.jp/search?ei=BtXFW936MY_O8wW-xqjwAg&q=swiper.js&oq=swiper.js&gs_l=psy-ab.3..0l8.32427.32427.0.32600.1.1.0.0.0.0.90.90.1.1.0....0...1.1.64.psy-ab..0.1.90....0.7tqQFEVL-Fs
+
+◆◇◇◇◇◇◇◇◇◇
+http://www.testsite.bics-net.co.jp/data/pdf/swiperJS_optionlist.pdf
+
+◆jQueryカルーセルスライダー『slick.js』設置方法と設定オプション一覧  |  uzurea.net
+http://uzurea.net/explanation-of-jquery-slider-slick/
+
+◆jQueryを使わないスワイプ対応のjavascriptスライダーSwiper の使い方
+https://qiita.com/SatoshiAoki0419/items/a5ebcb68d82411ccb3ce
+
+◆Swiper Demos
+http://idangero.us/swiper/demos/
+
+◆swiper/030-pagination.html at master · nolimits4web/swiper · GitHub
+https://github.com/nolimits4web/Swiper/blob/master/demos/030-pagination.html
+
+◆Swiperを使用した基本的なスライダー実装から応用まで！実用的な6つのサンプル | WEB改善事例集(GMOソリューションパートナー株式会社)
+https://xn--web-oi9du9bc8tgu2a.com/js-swiper-sample/
+
+◆JavaScript - swiperの複数の使用(127927)｜teratail
+https://teratail.com/questions/127927
+
+◆teratail[テラテイル]のアクセス拒否画面
+https://teratail.com/questions/93141
+
+◆Edit fiddle - JSFiddle
+https://jsfiddle.net/604pc14y/3/
+
+◆Getting Started With Swiper
+https://idangero.us/swiper/get-started/
+
+◆Getting Started With Swiper
+https://idangero.us/swiper/get-started/
+
+◆swiper/dist at master · nolimits4web/swiper · GitHub
+https://github.com/nolimits4web/Swiper/tree/master/dist
+
+◆Swiper Demos
+http://idangero.us/swiper/demos/
+
+◆swiper/010-default.html at master · nolimits4web/swiper · GitHub
+https://github.com/nolimits4web/Swiper/blob/master/demos/010-default.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>スライダー | スワイプ</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/css/swiper.min.css">
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
+<style>
+
+.swiper-slide {
+	background-color: rgba(255,0,0,0.3);
+	height: 200px;
+	width: 500px;
+	margin-bottom: 8px;
+}
+
+.sub .swiper-slide {
+	background-color: rgba(0,0,255,0.3);
+}
+
+
+
+</style>
+</head>
+<body>
+<!-- Slider main container -->
+<div class="main swiper-container">
+	<!-- Additional required wrapper -->
+	<div class="swiper-wrapper">
+		<!-- Slides -->
+		<div class="swiper-slide">Slide 1</div>
+		<div class="swiper-slide">Slide 2</div>
+		<div class="swiper-slide">Slide 3</div>
+		<div class="swiper-slide">Slide 4</div>
+		<div class="swiper-slide">Slide 5</div>
+	</div>
+	<!-- If we need pagination -->
+	<div class="swiper-pagination"></div>
+
+	<!-- If we need navigation buttons -->
+	<div class="swiper-button-prev"></div>
+	<div class="swiper-button-next"></div>
+</div>
+
+<!-- Slider main container -->
+<div class="sub swiper-container">
+	<!-- Additional required wrapper -->
+	<div class="swiper-wrapper">
+		<!-- Slides -->
+		<div class="swiper-slide">Slide 1</div>
+		<div class="swiper-slide">Slide 2</div>
+		<div class="swiper-slide">Slide 3</div>
+		<div class="swiper-slide">Slide 4</div>
+		<div class="swiper-slide">Slide 5</div>
+	</div>
+	<!-- If we need pagination -->
+	<div class="swiper-pagination"></div>
+
+	<!-- If we need navigation buttons -->
+	<div class="swiper-button-prev"></div>
+	<div class="swiper-button-next"></div>
+</div>
+
+<!-- Slider main container -->
+<div class="sub swiper-container">
+	<!-- Additional required wrapper -->
+	<div class="swiper-wrapper">
+		<!-- Slides -->
+		<div class="swiper-slide">Slide 1</div>
+		<div class="swiper-slide">Slide 2</div>
+		<div class="swiper-slide">Slide 3</div>
+		<div class="swiper-slide">Slide 4</div>
+		<div class="swiper-slide">Slide 5</div>
+	</div>
+	<!-- If we need pagination -->
+	<div class="swiper-pagination"></div>
+
+	<!-- If we need navigation buttons -->
+	<div class="swiper-button-prev"></div>
+	<div class="swiper-button-next"></div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/js/swiper.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.x.x/js/swiper.min.js"></script> -->
+<script>
+var mySwiperMain = new Swiper ('.main.swiper-container', {
+	loop: true,					// 最後の次を最初に戻るループにするかどうか
+	slidesPerView: 2,				// １画面に何枚スライドを入れるか設定
+	spaceBetween: 10,				// スライドの隙間
+	centeredSlides: true,		// スライドのスタートを真ん中に
+	speed: 300,
+	effect: 'slide',
+
+	// v3.4.1
+	// autoplay: 100,
+	// pagination: '.swiper-pagination',
+	// nextButton: '.swiper-button-next',
+	// prevButton: '.swiper-button-prev',
+
+	// v4.4.1
+	autoplay: {
+		delay: 1000,
+	},
+
+	// ページネーション
+	pagination: {
+		el: '.swiper-pagination',
+		clickable: true
+	},
+
+	// ナビゲーション
+	navigation: {
+		nextEl: '.swiper-button-next',
+		prevEl: '.swiper-button-prev',
+	},
+
+
+	breakpoints: {
+		767: {
+			slidesPerView: 1,
+			spaceBetween: 0
+		}
+	}
+})
+
+
+
+
+var mySwiperSub = new Swiper ('.sub.swiper-container', {
+
+	// windowSize <= 767
+	loop: false,					// 最後の次を最初に戻るループにするかどうか
+	slidesPerView: 3,				// １画面に何枚スライドを入れるか設定
+	spaceBetween: 10,				// スライドの隙間
+	centeredSlides: false,		// スライドのスタートを真ん中に
+	speed: 300,
+	effect: 'slide',
+
+	// autoplay: {
+	// 	delay: 1000,
+	// },
+
+	// pcサイズはナビゲーションを有効化
+	breakpointsInverse: true,		// breakpointsの基準を逆にする
+	breakpoints: {
+		// 768 <= windowSize
+		768: {
+			slidesPerView: 3,
+			spaceBetween: 10,
+
+			// ナビゲーション
+			navigation: {
+				nextEl: '.swiper-button-next',
+				prevEl: '.swiper-button-prev',
+			}
+
+		}
+	}
+})
+
+// mySwiper.startAutoplay();
+// mySwiperSub.autoplay.start();
+// mySwiperSub.autoplay.stop();
+// https://teratail.com/questions/95370
+
+</script>
+
+</body>
+</html>
+
