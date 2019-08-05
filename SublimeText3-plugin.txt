@@ -55,3 +55,47 @@
 /Packages/SublimeText3-UrlOpenAtBrowser-master
 /Packages/User
 
+
+
+===============================================
+ [OSX]SublimeText3 環境移行
+===============================================
+
+◆ 参考
+http://40webdesigner.info/353.html
+https://qiita.com/abgata20000/items/32a11d28a29eaddc97d2
+
+シンボリックリンクはリンク先そのものとして扱える
+ショートカットはリンク先が書いてあるだけ
+
+
+◆ Command + Shift + G
+
+01. フォルダの移動
+/Users/xxxxx/Library/Application Support/Sublime Text 3
+ or
+~/Library/Application Support/Sublime Text 3
+
+02. 設定で必要なフォルダは以下
+・Installed Packages
+・Packages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
