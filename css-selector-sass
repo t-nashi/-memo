@@ -1,0 +1,207 @@
+
+
+
+
+
+
+
+==================================================
+ よく忘れるcssの記述
+==================================================
+
+◆padding や border に依存しない width, height 指定
+
+box-sizing: border-box;
+
+-moz-box-sizing: border-box;		/* paddingとborderサイズを加味したwidth/heightにする */
+-webkit-box-sizing: border-box;
+-o-box-sizing: border-box;
+-ms-box-sizing: border-box;
+
+content-box	padding と border の幅を要素の幅と高さに含めない. デフォルト値.
+border-box	padding と border の幅を要素の幅と高さに含める.
+
+http://phiary.me/css3-box-sizing/
+
+
+◆画像下の空き問題対策
+img{
+	vertical-align: bottom;
+}
+
+
+◆文字列折り返し
+word-wrap: break-word;
+
+
+
+/* 子セレクターのみ */
+body#selector >body.selector {  }
+
+
+/*リンク設定*/
+a:link { } /* text-decoration:none; */
+a:visited { }
+a:hover { }
+a:active { }
+a:focus { }
+
+
+
+
+
+
+
+==================================================
+ css設計
+==================================================
+
+◆SMACSSによるCSSの設計 - ベースとレイアウト | CodeGrid
+https://app.codegrid.net/entry/smacss-1
+
+◆Ja - Scalable and Modular Architecture for CSS
+https://smacss.com/ja
+
+◆SMACSS+BEMによるテーマ設計（for Drupal8）
+https://qiita.com/J_Sugar__/items/9adee163028c9910fbc6
+
+◆FLOCSSを扱いきれないあなたに贈る、スリムなCSS設計の話 | WebNAUT
+https://webnaut.jp/technology/20170407-2421/
+
+◆GitHub - hiloki/flocss: CSS organization methodology.
+https://github.com/hiloki/flocss
+
+◆OOCSS（オブジェクト指向CSS）のススメ  |  hijiriworld Web
+https://hijiriworld.com/web/oocss/
+
+◆サルでも分かるOOCSS（オブジェクト指向CSS）。未だにidを使っている愚かなフロントエンジニアへ | hajipion.com
+https://hajipion.com/1879.html
+
+◆CSS設計における3大メソッド[OOCSS][BEM][SMACSS] | ライズウィルスタッフブログ
+http://www.risewill.co.jp/blog/archives/5652
+
+◆PSR-2 コーディングガイド（日本語）｜北海道札幌市のシステム開発会社インフィニットループ
+http://www.infiniteloop.co.jp/docs/psr/psr-2-coding-style-guide.html
+
+
+
+
+==================================================
+ cssセレクタ
+==================================================
+
+複数セレクタ
+疑似要素
+擬似クラス
+
+◆CSSの疑似要素とは？beforeとafterの使い方まとめ
+https://saruwakakun.com/html-css/basic/before-after
+
+◆CSSのグラデーション（linear-gradient）の使い方を総まとめ！
+https://saruwakakun.com/html-css/basic/linear-radial-gradient
+
+◆ 【Sass】親セレクタを参照する&amp;や+の使い方
+https://qiita.com/yoshida-hi/items/4caa37028080872cdc1a
+
+◆CSS 複数のセレクタを指定する/絞り込むサンプル | 
+https://itsakura.com/css-multi-selector
+
+◆擬似クラスと擬似要素を複数指定する方法 | 株式会社bridge
+https://bge.jp/pseudoelements_class/
+
+◆[CSS] 擬似クラスって複数繋げられるの知ってました? | ヨッセンス
+https://yossense.com/css-last-child-after/
+
+◆CSSのセレクタとは？覚えておきたい25種類と書き方
+https://saruwakakun.com/html-css/reference/selector
+
+◆【Sassを覚えよう！Vol.4】Sassの基本的な記述方法  - CSS HappyLife
+http://css-happylife.com/archives/2012/0108_0000.php
+
+◆::after (:after) - CSS: カスケーディングスタイルシート | MDN
+https://developer.mozilla.org/ja/docs/Web/CSS/::after
+
+◆linear-gradient - CSS: カスケーディングスタイルシート | MDN
+https://developer.mozilla.org/ja/docs/Web/CSS/linear-gradient
+
+◆linear-gradient()－CSS3リファレンス
+http://www.htmq.com/css3/linear-gradient.shtml
+
+◆Sassを使うなら知っておくと便利な色まわりの小技やMixinいろいろ | Webクリエイターボックス
+https://www.webcreatorbox.com/tech/sass-colours
+
+◆ 【Sass】親セレクタを参照する&amp;や+の使い方
+https://qiita.com/yoshida-hi/items/4caa37028080872cdc1a
+
+
+	// コメント吹き出し整形はもう必要ないかも
+	// .user-comment:before{
+	// 	content: "";
+	// 	position: absolute;
+	// 	bottom: -10px;
+	// 	left: 26px;
+	// 	margin-left: -7px;
+	// 	border: 4px solid transparent;
+	// 	border-top: 6px solid #fffce0;
+	// 	z-index: 2;
+	// }
+
+	// .user-comment:after{
+	// 	content: "";
+	// 	position: absolute;
+	// 	bottom: -16px;
+	// 	left: 26px;
+	// 	margin-left: -9px;
+	// 	border: 6px solid transparent;
+	// 	border-top: 8px solid #ffe81a;
+	// 	z-index: 1;
+	// }
+
+
+
+
+
+
+==================================================
+ sass
+==================================================
+
+◆[SCSS]便利な&amp;（アンパサンド）の使い方メモ
+https://qiita.com/noqua/items/adc24c28c13e9b74d3ad
+
+◆Sassでよく使う機能まとめ - 樂印
+https://rakuin.com/blog/sass-function/
+
+◆ 【Sass】親セレクタを参照する&amp;や+の使い方
+https://qiita.com/yoshida-hi/items/4caa37028080872cdc1a
+
+◆【Sassを覚えよう！Vol.4】Sassの基本的な記述方法  - CSS HappyLife
+http://css-happylife.com/archives/2012/0108_0000.php
+
+◆これからはcssはSassで書こう。
+https://qiita.com/m0nch1/items/b01c966dd2273e3f6abe
+
+row は bootstrapで
+	display: flex;
+	flex-wrap: wrap;
+
+@extend .mx-auto;
+
+
+	.d-flex >:first-child {
+		margin-right: 8px;
+	}
+	.d-flex >:last-child {
+		margin-left: 8px;
+	}
+
+
+
+
+
+
+
+
+
+
+
