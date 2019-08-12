@@ -45,10 +45,6 @@ vh大切
 
 
 
-
-
-
-
 ◆google - css vh
 https://www.google.co.jp/search?q=css+vh&ie=utf-8&oe=utf-8&hl=ja
 
@@ -70,21 +66,6 @@ https://www.mongoroid.com/blog/design/vh-vw_20171206.html
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 これでササっとかっこいい背景素材作れるんじゃないかってメモ
 
 ◆WebGL Fluid Simulation
@@ -92,6 +73,295 @@ https://paveldogreat.github.io/WebGL-Fluid-Simulation/
 
 ◆HTML5製のデザインツール Particle Develop - ICS
 https://ics-creative.github.io/project-particle-develop/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================
+◆ 今回のリニューアルで改善したいこと
+==================================================
+・PageSpeed Insights で 70点以上
+・コードリファクタ（floatとかまだ使ってるので）
+・問い合わせフォームをちゃんとスタイリングする
+・デザインスタイルガイドを作る
+・マークアップを見直す（HTML5タグを用いたセクショニングを正しく行う）
+・Bootstrap4を使ってみる
+・html/cssスタイルガイドを作る（HTML/CSS Style Guide、コーディングガイド、コーディング規約）
+・└ 命名規則を作る
+・Sketchを使ってみる
+・└ Atomic Designを使ってみる
+・└ UIパーツ名称整理
+・構造化データを定義する
+・ローカル環境を見直す
+・└ sass、webpack、js・cssのminify化
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================
+◆ wordpressテーマ再定義
+==================================================
+01. 現状のサイトのソースをローカルにコピペ（index.html）
+02. index.htmlを開いてローカルでの表示が問題ないようにするところまで整える
+	└ css・js・imagesのリンクが現状サイトへのリンクになっているはずなので、それを再定義必要なものに関してはローカルにファイルを配置し、リンクを修正する
+	└ 広告は表示が正常にされないものがあれば代替要素を配置しておく
+
+
+
+
+
+
+
+・icon-fontを何にするか決め直す
+・css記述をsass化・用途ごとにファイル分割化
+	└ css設計、コーディング規約、命名規則をちゃんと決める
+・_debug.scssに仮広告表示とかの記述をする
+
+
+・色を変数定義
+・インデントスペースをタブ（幅半角スペース2つ分）に変換
+・cssコメント記述を「/**/」から「//」に変換
+
+
+・cssの名前の付け方は「ケバブケース（チェインケース）」
+・css内のカラーコードは大文字、省略可能な時は省略する
+
+
+	◆Sassを使うなら知っておくと便利な色まわりの小技やMixinいろいろ |  Webクリエイターボックス
+	https://www.webcreatorbox.com/tech/sass-colours
+
+	◆Sassで色を管理する色々な方法 - Qiita
+	https://qiita.com/manabuyasuda/items/ae42db5604cd723fb3cd
+
+	◆Sassの色管理方法について考えてみた | 株式会社インディバル
+	https://www.indival.co.jp/2018/01/23/5908/
+
+	◆現場で役立つ実践Sass（3）変数を使いこなす - Adobe Blog
+	https://blogs.adobe.com/japan/web-practical-sass-03-using-variables/
+
+	◆変数名の命名規則/＊＊ケースの使い分け - Qiita
+	https://qiita.com/am_nimitz3/items/7b01af53751dba5d8fb1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================
+◆ コーディング
+==================================================
+
+・clearfixを削る
+・floatを削る
+・classやhtmlタグの見直し（文書構造、マークアップ）
+・カラーコードを変数化、各所変数使用
+・メディアクエリを変数化、bootstrap4定義を踏襲＋付け足し
+	└ 「〇〇px以上」で定義してるのはモバイルファーストの概念からな気がする
+	└ 現状PC先行で「〇〇px以下」で定義しているので「mq-down」を使用
+		↓↓↓
+	「〇〇px以上 - mq-up」に切り替え
+	https://blog.yuhiisk.com/archive/2018/05/07/responsive-css-architecture.html
+・メディアクエリを記述しているファイルの中身を各パーツ内に分配
+・CSS設計はFLOCSSを採用
+	◆FLOCSS（CSS構成案、CSS設計）
+	https://github.com/hiloki/flocss
+・marginで左右、もしくは上下に余白が必要な際は要素に対して「左・上」を基準とする（marginを無秩序-無駄に設定しないために）
+
+
+
+
+
+
+├── foundation						… 基礎
+│   ├── _base.scss
+│   ├── _icons.scss
+│   ├── _icons-font.scss
+│   ├── _mixins.scss
+│   ├── _reset.scss
+│   ├── _variables.scss
+├── layout								… 設計
+│   ├── _container.scss
+│   ├── _footer.scss
+│   ├── _header.scss
+│   ├── _main.scss
+│   └── _sidebar.scss
+└── object								… 物（Atomic Design - Lv1.Atoms-原子）
+    ├── component
+    │   ├── _c-ad.scss
+    │   ├── _c-footer.scss
+    │   ├── _c-header.scss
+    │   ├── _c-sharebuttons.scss
+    │   ├── _c-sidebar.scss
+    │   └── _main.scss
+    ├── project
+    │   ├── _article-relation-parts.scss
+    │   ├── _comment.scss
+    │   ├── _contact-form.scss
+    │   ├── _other.scss
+    │   ├── _page-nav.scss
+    │   └── _pager.scss
+    └── utility
+        ├── _debug.scss
+        ├── _font-size.scss
+        ├── _margin-padding.scss
+        ├── _mq.scss
+        ├── _mq-lg.scss
+        ├── _mq-md.scss
+        └── _mq-xxl.scss
+
+
+
+
+
+==================================================
+◆ リンク
+==================================================
+◆ 意外と知らない!?CSSセレクタ20個のおさらい｜Webpark
+http://weboook.blog22.fc2.com/blog-entry-268.html
+
+◆CSS：隣接セレクタ、直下セレクタを使いこなそう | ハックノート
+https://hacknote.jp/archives/4046/
+
+
+◆main 要素 - コンテンツのグループ化 - HTML要素 - HTML5 タグリファレンス - HTML5.JP
+http://www.html5.jp/tag/elements/main.html
+
+◆＜初心者向け＞知っておきたいHTML5の基本【文書構造編】 : ビジネスとIT活用に役立つ情報
+https://www.asobou.co.jp/blog/web/html5
+
+◆[HTML5] 新要素まとめ【2014/2/14版勧告候補】 - Qiita
+https://qiita.com/maccotsan/items/20c6ea274b0190dc2c05
+
+◆HTML5のお勉強 articleとsectionとか - Qiita
+https://qiita.com/piotzkhider/items/faffbc4a107e7e495998
+
+◆文書構造を意識しながらHTMLマークアップしよう！ |  Webクリエイターボックス
+https://www.webcreatorbox.com/tech/html-semantic-markup
+
+◆HTML のセクションとアウトラインの使用 - ウェブデベロッパーガイド | MDN
+https://developer.mozilla.org/ja/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
+	各セクションは独自の見出し階層を持つことができます。ですから、入れ子の中のセクションでも、<h1> を持つことができます。見出しの定義をご覧ください。
+
+◆フォントサイズに「rem」使用のススメ | 大阪市天王寺区SOHOホームページ制作 | デザインサプライ-DesignSupply.-
+https://designsupply-web.com/knowledgeside/1411/
+
+◆【CSS3】フォントサイズを「rem」で指定するべき理由｜プラカンブログ | WEB制作会社プラスデザインカンパニー
+https://www.plusdesign.co.jp/blog/?p=5152
+
+◆  [CSS]フォントサイズの指定方法の基礎知識からレスポンシブに適した指定方法までやさしく解説 | コリス
+https://coliss.com/articles/build-websites/operation/css/css-font-sizing-by-ire.html
+
+
+
+
+
+
+
+◆background - 背景の設定をまとめて指定する
+https://syncer.jp/css-reference/background
+
+
+
+◆【Sassを覚えよう！Vol.9】変数と演算で効率的に - CSS HappyLife
+http://css-happylife.com/archives/2012/0126_0001.php
+
+◆Sass（SCSS記法） - kuroko - g.o.a.t
+https://kuroko.goat.me/5LAanb5J
+
+◆Bootstrapのグリッドシステムの使い方を初心者に向けておさらいする
+http://websae.net/twitter-bootstrap-grid-system-21060224/
+
+◆CSSとSassのコーディングスタイルガイドを作ってみた - Qiita
+https://qiita.com/manabuyasuda/items/5d83a5516051cc58a274
+
+
+◆Sassの変数とmixinで変更に強いメディアクエリをつくる ｜ Tips Note by TAM
+https://www.tam-tam.co.jp/tipsnote/html_css/post10708.html
+
+◆    Logic in Media Queries | CSS-Tricks  
+https://css-tricks.com/logic-in-media-queries/
+
+◆汎用性の高いCSSフレームワークを作ろう。#1 .container、レスポンシブ系CSS編 - Qiita
+https://qiita.com/ryosukemaehira/items/542a20e0ab308c1fd8cb
+
+◆    Layoutレイヤーとは？ &#8211; FLOCSSで始めるCSS設計     - to-R Media  
+https://www.to-r.net/media/flocss-03/
+
+◆ [codepen] layout
+https://codepen.io/nayucolony/pen/ALqJvY
+
+◆Sass(SCSS)のmixinを使って、Media Queries（メディアクエリ）を使いやすくするスニペット | NxWorld
+https://www.nxworld.net/tips/sass-media-queries-mixin.html
+
+◆CSSとSassのコーディングスタイルガイドを作ってみた - Qiita
+https://qiita.com/manabuyasuda/items/5d83a5516051cc58a274
+
+◆CSS だけで Web ページのフェードイン表示を実装する方法 | q-Az
+https://q-az.net/fadein-open-only-css/
+
+◆【CSS3】@keyframes と animation 関連のまとめ - Qiita
+https://qiita.com/7968/items/1d999354e00db53bcbd8
+
+◆プラグインなしでSNSシェアボタンを自作するための基本知識と実装コード、アナリティクス解析方法 | WEMO
+https://wemo.tech/281
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
