@@ -2,9 +2,8 @@
 
 
 
+◆Adobe XDでインタラクションデザイン！UI/UXデザインチャレンジ | Adobe XD Creative Challenge シーズン2 #AdobeXD #Challenge - Adobe Blog
 https://blogs.adobe.com/japan/cc-web-adobe-xd-creative-challenge-season2/
-
-
 
 ◆XDでpsdやaiをリンクさせたい！CCライブラリを使った方法と注意点｜spicagraph｜note
 https://note.mu/design_himitsu/n/n70117a9e4933?creator_urlname=design_himitsu
@@ -79,6 +78,40 @@ https://montblan9.net/archives/3364
 https://coliss.com/articles/build-websites/operation/design/adobe-xd-vs-sketch.html
 
 
+
+
+
+
+◆UI/UXデザインツール「Adobe XD」がAPI開放--他社サービスとの連携が可能に - CNET Japan
+https://m.japan.cnet.com/amp/story/35124779/
+
+◆note投稿企画連動 「#できるぞAdobeXD」開催 #AdobeXD - Adobe Blog
+https://blogs.adobe.com/japan/web-xd-campaign-dekiruzo-adobexd/amp/
+
+◆Twitter - Adobe XDの10月の新機能が2分でザックリと分かる動画を作りました！
+https://twitter.com/pino_ebiebi/status/1052324623096803328
+
+◆デザイン、レイアウト、プロトタイプをすばやく作成、共有 | Adobe XD
+https://www.adobe.com/jp/products/xd/details.html?trackingid=2NVQCC8D&mv=email
+
+◆ サンプルダウンロード
+https://www.dropbox.com/s/xjq3zq870ypskgb/xd_meeting20_demo_ikehara.xd?dl=0
+
+◆Search Twitter - #AdobeXD #週末講座
+https://twitter.com/search?q=%23AdobeXD%20%23%E9%80%B1%E6%9C%AB%E8%AC%9B%E5%BA%A7&src=typed_query
+
+◆  Adobe XDの機能がいつの間にかこんなにも充実してた！Adobe XDとSketchの気になる機能を比較 | コリス
+https://coliss.com/articles/build-websites/operation/design/adobe-xd-vs-sketch.html
+
+◆  Adobe XDの使い方をマスターしておこう！基本的な操作が10分で身につくAdobe公式のチュートリアルファイル | コリス
+https://coliss.com/articles/build-websites/operation/design/adobe-xd-starter-kit.html
+
+
+
+
+
+
+https://ferret-plus.com/10585?utm_campaign=https:%2F%2Fferret-plus.com%2F10585&utm_medium=RSS&utm_source=top_rss
 
 
 
