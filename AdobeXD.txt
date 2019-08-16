@@ -111,8 +111,13 @@ https://coliss.com/articles/build-websites/operation/design/adobe-xd-starter-kit
 
 
 
+◆Adobe XDでワイヤーフレーム制作するなら知っておくべき機能｜ferret
 https://ferret-plus.com/10585?utm_campaign=https:%2F%2Fferret-plus.com%2F10585&utm_medium=RSS&utm_source=top_rss
 
+
+
+◆Adobe XD 2019年8月アップデートリリース！CSSコード自動生成（第一弾）、ローカルでのPhotoshop編集連携、コンポーネントの操作性改善など #AdobeXD - Adobe Blog
+https://blogs.adobe.com/japan/cc-web-xd-august-2019-update-auto-css-plugins-panel-more/
 
 
 
