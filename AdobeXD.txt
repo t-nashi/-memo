@@ -3,9 +3,14 @@
 
 
 
+◆ GitHubメモ
+https://github.com/t-nashi/-memo/blob/master/AdobeXD.txt
 
 
- 
+
+
+
+
 20190816fri開始
 
 Adobe XD バージョン： 22.0.12.12
@@ -61,7 +66,7 @@ Creative Cloud Sync 4.3.0.292
 
 
 
-01. まずはXDの「チュートリアルを開始」からスタート
+01. まずはXDの「チュートリアルを開始」からスタート（XD内にあるデフォルトサンプル）
 ────────────────────
 
 	0. レッスンで使用する画像を取得、ビデオによるガイダンス
@@ -116,8 +121,52 @@ Creative Cloud Sync 4.3.0.292
 
 
 
-02. xxxxx
+02. スターターキットから学ぶ
 ────────────────────
+
+◆Adobe XD体験版ダウンロード | UI/UXデザインと共同作業ツール
+https://www.adobe.com/jp/products/xd.html
+
+
+
+
+
+03. Auto Animationを学ぶ
+────────────────────
+
+◆XD での自動アニメーション
+https://helpx.adobe.com/jp/xd/help/animate-prototypes.html
+
+	◆Behance - Auto-Animate UI Kit for Adobe XD
+	https://www.behance.net/gallery/72065227/Auto-Animate-UI-Kit-for-Adobe-XD
+		└ この中のサンプルを再生するだけでどういうアニメーションが出来るか大体わかる
+
+	◆アニメーションモバイルメニューの作成 | 
+	https://helpx.adobe.com/jp/xd/how-to/mobile-menu-design.html?playlist=/in/en/ccx/v1/collection/product/xd/topics/xd-projects-more/collection.ccx.js
+
+
+◆Adobe XD自動アニメーションを担当したデザイナーが語る機能の使い方とこれから - Adobe Blog
+https://blogs.adobe.com/japan/web-auto-animate-how-to-create-automatic-animations-xd/
+
+
+
+
+
+04. コンポーネントを学ぶ
+────────────────────
+
+◆シンボルからコンポーネントへ [3分で分かるAdobe XDアップデート]｜Kouhei Hayashi｜note
+https://note.mu/884fukuoka/n/n431bc151a2f0
+
+◆デザイン制作の効率化に役立つ! AdobeXDのコンポーネント入門 - ICS MEDIA
+https://ics.media/entry/190520/
+
+
+
+
+
+
+
 
 
 
@@ -277,6 +326,17 @@ https://blogs.adobe.com/japan/web-getting-started-with-xd-plugin-development/
 
 ◆XDでpsdやaiをリンクさせたい！CCライブラリを使った方法と注意点｜spicagraph｜note
 https://note.mu/design_himitsu/n/n70117a9e4933?creator_urlname=design_himitsu
+
+
+
+コンポーネント（マスターコンポーネント・インスタンス）
+────────────────────
+
+	◆シンボルからコンポーネントへ [3分で分かるAdobe XDアップデート]｜Kouhei Hayashi｜note
+	https://note.mu/884fukuoka/n/n431bc151a2f0
+
+	◆デザイン制作の効率化に役立つ! AdobeXDのコンポーネント入門 - ICS MEDIA
+	https://ics.media/entry/190520/
 
 
 
