@@ -2,44 +2,153 @@
 
 
 
-◆Adobe XDでインタラクションデザイン！UI/UXデザインチャレンジ | Adobe XD Creative Challenge シーズン2 #AdobeXD #Challenge - Adobe Blog
-https://blogs.adobe.com/japan/cc-web-adobe-xd-creative-challenge-season2/
 
-◆XDでpsdやaiをリンクさせたい！CCライブラリを使った方法と注意点｜spicagraph｜note
-https://note.mu/design_himitsu/n/n70117a9e4933?creator_urlname=design_himitsu
 
-◆「Adobe XD」、アップデートでさらに便利に！クリエイター＆開発者に嬉しい新機能が追加 | Techable(テッカブル)
-https://techable.jp/archives/84072
 
-◆note投稿企画連動 「#できるぞAdobeXD」開催 
-https://blogs.adobe.com/japan/web-xd-campaign-dekiruzo-adobexd/amp/
 
-◆プロトタイプの基本 Part 2: 操作可能なワイヤーフレームと高精度プロトタイプ（UXデザイン入門シリーズ）| アドビUX道場 #UXDojo
-https://blogs.adobe.com/japan/web-fundamentals-wireframing-prototyping-lofi-hifi-part-2/amp/
+20190816fri開始
 
-◆爆速XDによる「目線合わせシート」でチームの共通認識作り｜macheri｜note
-https://note.mu/macheri_me/n/n66725b1a96c3
+Adobe XD バージョン： 22.0.12.12
+Creative Cloud Sync 4.3.0.292
 
-◆UX Design Trends For 2018 – UX Planet
-https://uxplanet.org/ux-design-trends-for-2018-a65476b0bdde
 
-◆Adobe XDをもっと使いこなすヒント！ 第1回 レイアウトグリッドの見た目を調整
-https://blogs.adobe.com/japan/web-xd-protips-1-layoutgrid/
 
-◆UI／UX作成ツール｢Adobe XD｣で、映画『ターミネーター2』T-800の目線を再現 | ギズモード・ジャパン
-https://www.gizmodo.jp/2018/07/adobe-xd.html
 
-◆Adobe XDスターターキット中級編 Mac版/Win版 公開！基礎編も6月の新機能に対応して更新 | アドビUX道場 #UXDojo
-https://blogs.adobe.com/japan/web-xd-starter-kit-1806/
+・リピートグリッド
+・シンボル
+・コンポーネント
+・プロトタイプモード			Ctrl + Tab（デザイン<->プロトタイプ）
+・プレビュー					Ctrl + Enter
+・スマホでライブビュー
+・画面の共有
+	└ 動画
+	└ URL
 
-◆ プロトタイプは画面や機能ごとに作ってはいけない：もう迷わない！ ビジネスを成長させるUXデザイン手法の使い方（5） - ＠IT
-https://www.atmarkit.co.jp/ait/articles/1806/21/news018.html
 
-◆ プロトタイプは画面や機能ごとに作ってはいけない：もう迷わない！ ビジネスを成長させるUXデザイン手法の使い方（5） - ＠IT
-https://www.atmarkit.co.jp/ait/articles/1806/21/news018.html
+	・固定オブジェクト			ヘッダーやフッターのスクロールしても位置を変えないやつ
+	・オーバーレイ
+	・プライベート共有（ベータ）
 
-◆ユーザー体験を改善する「視覚的な合図」をデザインするヒントを学ぶ | アドビUX道場 #UXDojo
-https://blogs.adobe.com/japan/web-design-visual-cues-better-ux/
+
+▼2018年10月アップデート
+・01. Illustratorファイルの読み込み（アートボード・レイヤーを保持）
+・02. リンクされたシンボル（別ドキュメントからシンボルを張り付ける）
+・03. 音声コントロールとスピーチ
+・03. ドラッグジェスチャー
+・04. 自動アニメーション（アートボード間）
+・05. After Effectsへ書き出し
+・06. 新しくなったホーム画面＆アプリ連動（プラグイン・UIキット・アプリ連携（Slack | Microsoft Teams））
+・07. プラグイン（例： プラグイン → Angle → ApplyMockup ： アートボードを画像化してシェイプにはめ込んでくれる）
+
+▼2019年08月アップデート
+・画像の塗りのトリミングと位置調整（シェイプ・パスに対して）
+・プラグインパネル：デザイン中にプラグインをサクッと起動
+・Adobe XDからPhotoshopを呼び出して画像編集（右クリック→Edit Photoshop）
+・デザインスペックでコピー＆ペースト可能なCSSコードスニペットを自動生成
+・コンポーネントの操作性の改善
+・非整数値ピクセル問題の解決
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01. まずはXDの「チュートリアルを開始」からスタート
+────────────────────
+
+	0. レッスンで使用する画像を取得、ビデオによるガイダンス
+		└ 画像素材とビデオリンク
+
+		◆ 画像素材をダウンロード
+		https://www.adobe.com/go/xd_tutorial_images
+
+		◆ YouTubeのチュートリアルビデオに飛ばされる
+		https://www.adobe.com/go/xd_tutorial_video
+
+			https://www.youtube.com/watch?v=Kj3cfHFgczs&list=PLHjwuoik-ep1Vb4RPXNUbAVHxB1rJRC8W&index=1
+
+	1. アートボードを作る
+		└ 選択ツール(V)とアートボードツール(A)の使い方
+
+	2. 画像を追加
+		└ ダウンロードした画像素材をドラッグ＆ドロップ
+
+	3. プロトタイプのトランジションを作成
+		└ 画面遷移の設定
+
+	4. プロトタイプをプレビュー
+		└ 先ほどの遷移の挙動を確認
+
+	5. リストを作る
+		└ リピートグリッドの確認
+
+	6. 一度に複数の画像を追加
+		└ ダウンロードした画像素材4つを選択してリピートグリッドの画像へドラッグ＆ドロップすると一気に画像が当てはまる
+
+	7. スクロールさせる
+		└ プレビュー時のアートボードのファーストビュー位置を決める（画面サイズというかなんと言うか）
+
+	8. ヘッダーを固定させる
+		└ プロトタイプモード中に要素を選択すると右パネルで「スクロール時に位置を固定」が設定できる（画面fix）
+
+		◆スクロール固定は何処へ - Adobe Community
+		https://forums.adobe.com/thread/2633968
+
+		◆Twitter - 2019年6月更新最大の変化はこの更新で今までデザインモードにあった、要素固定「スクロール時に位置を固定」の設定はプロトタイプモードのプロパティインスペクタに移動しました。
+		https://twitter.com/risay/status/1140858814125580288
+
+	9. スタイルを変更
+			└ アセットパネル（Ctrl + Shift + Y）でカラーや文字スタイルの一斉変更を体験
+			  ※カラー編集画面のカラーピッカーが見当たらなかった
+
+	10. フィードバックを共有、および収集
+			└ 右上の「共有」から他社へのプロジェクトのビューの共有が可能になる
+
+				※ 画面100%表示（スマホ画面FIX）とセキュリティ（パスワードはかけれるようだけど、プロジェクトの削除が出来るのか）の確認が必要
+
+
+
+02. xxxxx
+────────────────────
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==============================
+UI kit
+==============================
+
+◆MentorMe UI Kit for Adobe XD - Behance
+https://www.behance.net/gallery/65354875/MentorMe-UI-Kit-for-Adobe-XD
 
 ◆Adobe、デザインツール「Adobe XD CC」向けの無償UIキット「Vault UI」を公開 - 窓の杜
 https://forest.watch.impress.co.jp/docs/news/1129536.html
@@ -47,94 +156,223 @@ https://forest.watch.impress.co.jp/docs/news/1129536.html
 ◆Adobe、「Adobe XD CC」用の無償日本語ワイヤーフレームUIキット「Wires jp」を公開 - 窓の杜
 https://forest.watch.impress.co.jp/docs/news/1130698.html
 
-◆UXデザインに役立つスケッチノートの活用術 | アドビUX道場 #UXDojo
-https://blogs.adobe.com/japan/web-makayla-lewis-power-sketchnoting-ux-design/
-
-◆Adobe XD 6月アップデートリリース！ 固定オブジェクト、アートボードのオーバーレイ、四則演算など #AdobeXD
-https://blogs.adobe.com/japan/web-june-2018-update-adobe-xd/
-
-◆まだAdobe XD使ってないの？はじめての人もこれを読めばすぐに使えるAdobe XDのトリセツ | 東京上野のWeb制作会社LIG
-https://liginc.co.jp/467917
-
 ◆  Adobe XDを使っている人はダウンロードしておこう！Adobe公式、新しいセマンティックUIのコンポーネント | コリス
 https://coliss.com/articles/build-websites/operation/work/semantic-ui-kit-for-adobe-xd.html
 
 ◆Wires, free wireframe kits for Adobe XD on Behance
 https://www.behance.net/gallery/55462459/Wires-wireframe-kits-for-Adobe-XD
 
-◆全員攻撃型デザインのススメ 〜Adobe XDでつくるこれからのワイヤーフレーム入門〜【第1回】デザインはワイヤーフレームが8割!? | Adobe Creative Station
-https://blogs.adobe.com/creativestation/web-xd-wirefame-ui-design
-
-◆Adobe XDについて | Adobe XD CC チュートリアル
-https://helpx.adobe.com/jp/xd/how-to/what-is-xd.html
-
-◆【XD入門】基本操作の説明 - Qiita
-https://qiita.com/yasui05821/items/2d219769c3524bd05ef1
-
-◆Adobe XDでプレゼン資料を作成したら色々と幸せだった話
-https://montblan9.net/archives/3364
-
-◆  Adobe XDの機能がいつの間にかこんなにも充実してた！Adobe XDとSketchの気になる機能を比較 | コリス
-https://coliss.com/articles/build-websites/operation/design/adobe-xd-vs-sketch.html
 
 
 
 
 
+==============================
+基礎
+==============================
 
-◆UI/UXデザインツール「Adobe XD」がAPI開放--他社サービスとの連携が可能に - CNET Japan
-https://m.japan.cnet.com/amp/story/35124779/
 
-◆note投稿企画連動 「#できるぞAdobeXD」開催 #AdobeXD - Adobe Blog
-https://blogs.adobe.com/japan/web-xd-campaign-dekiruzo-adobexd/amp/
+ショートカット・チートシート
+────────────────────
 
-◆Twitter - Adobe XDの10月の新機能が2分でザックリと分かる動画を作りました！
-https://twitter.com/pino_ebiebi/status/1052324623096803328
+◆List of all keyboard shortcuts that you can use in Adobe XD.
+https://helpx.adobe.com/ca/xd/help/keyboard-shortcuts.html
+
+
+
+スターターキット
+────────────────────
+
+◆Adobe XD体験版ダウンロード | UI/UXデザインと共同作業ツール
+https://www.adobe.com/jp/products/xd.html
+
+	◆Adobe XDスターターキット基礎編 Mac版/Win版 提供開始！15分で学べるXDの基本的な使い方 | アドビUX道場 #UXDojo - Adobe Blog
+	https://blogs.adobe.com/japan/web-xd-startar-kit-basiks1804/
+
+	◆Adobe XDスターターキット中級編 Mac版/Win版 公開！基礎編も6月の新機能に対応して更新 | アドビUX道場 #UXDojo
+	https://blogs.adobe.com/japan/web-xd-starter-kit-1806/
+
+
+	└ チュートリアル
+	────────────────────
+
+	◆Adobe XDについて | Adobe XD CC チュートリアル
+	https://helpx.adobe.com/jp/xd/how-to/what-is-xd.html
+
+	◆  Adobe XDの使い方をマスターしておこう！基本的な操作が10分で身につくAdobe公式のチュートリアルファイル | コリス
+	https://coliss.com/articles/build-websites/operation/design/adobe-xd-starter-kit.html
+
+
+
+機能
+────────────────────
+
+◆まだAdobe XD使ってないの？はじめての人もこれを読めばすぐに使えるAdobe XDのトリセツ | 東京上野のWeb制作会社LIG
+https://liginc.co.jp/467917
 
 ◆デザイン、レイアウト、プロトタイプをすばやく作成、共有 | Adobe XD
 https://www.adobe.com/jp/products/xd/details.html?trackingid=2NVQCC8D&mv=email
 
-◆ サンプルダウンロード
-https://www.dropbox.com/s/xjq3zq870ypskgb/xd_meeting20_demo_ikehara.xd?dl=0
+	◆【XD入門】基本操作の説明 - Qiita
+	https://qiita.com/yasui05821/items/2d219769c3524bd05ef1
+
+	◆Adobe XDでワイヤーフレーム制作するなら知っておくべき機能｜ferret
+	https://ferret-plus.com/10585?utm_campaign=https:%2F%2Fferret-plus.com%2F10585&utm_medium=RSS&utm_source=top_rss
+
+
+
+
+Tips
+────────────────────
+
+◆[連載] Adobe XDをもっと使いこなすヒント！ - Adobe Blog
+https://blogs.adobe.com/japan/serialization/web-xd-protips/
+
+◆Adobe XDをもっと使いこなすヒント！ 第1回 レイアウトグリッドの見た目を調整
+https://blogs.adobe.com/japan/web-xd-protips-1-layoutgrid/
+
+
+
+
+
+
+
+
+
+
+==============================
+アニメーション / インタラクション
+==============================
+
+◆Adobe XDでインタラクションデザイン！UI/UXデザインチャレンジ | Adobe XD Creative Challenge シーズン2 #AdobeXD #Challenge - Adobe Blog
+https://blogs.adobe.com/japan/cc-web-adobe-xd-creative-challenge-season2/
 
 ◆Search Twitter - #AdobeXD #週末講座
 https://twitter.com/search?q=%23AdobeXD%20%23%E9%80%B1%E6%9C%AB%E8%AC%9B%E5%BA%A7&src=typed_query
 
+◆ サンプルダウンロード（アニメーションサンプル）
+https://www.dropbox.com/s/xjq3zq870ypskgb/xd_meeting20_demo_ikehara.xd?dl=0
+
+
+
+
+
+
+==============================
+開発
+==============================
+
+◆はじめてのAdobe XDプラグイン開発！定番のHello Worldを表示させてみよう #AdobeXD #AdobeMAX - Adobe Blog
+https://blogs.adobe.com/japan/web-getting-started-with-xd-plugin-development/
+
+
+
+
+
+
+
+==============================
+機能・便利な使い方
+==============================
+
+◆XDでpsdやaiをリンクさせたい！CCライブラリを使った方法と注意点｜spicagraph｜note
+https://note.mu/design_himitsu/n/n70117a9e4933?creator_urlname=design_himitsu
+
+
+
+
+
+
+
+==============================
+XDの活用案
+==============================
+
+◆爆速XDによる「目線合わせシート」でチームの共通認識作り｜macheri｜note
+https://note.mu/macheri_me/n/n66725b1a96c3
+
+◆UI／UX作成ツール｢Adobe XD｣で、映画『ターミネーター2』T-800の目線を再現 | ギズモード・ジャパン
+https://www.gizmodo.jp/2018/07/adobe-xd.html
+
+◆Adobe XDでプレゼン資料を作成したら色々と幸せだった話
+https://montblan9.net/archives/3364
+
+	◆プロトタイプの基本 Part 1: プロトタイプをつくる理由と紙の力（UXデザイン入門シリーズ）| アドビUX道場 #UXDojo - Adobe Blog
+	https://blogs.adobe.com/japan/web-fundamentals-wireframing-prototyping/
+
+	◆プロトタイプの基本 Part 2: 操作可能なワイヤーフレームと高精度プロトタイプ（UXデザイン入門シリーズ）| アドビUX道場 #UXDojo - Adobe Blog
+	https://blogs.adobe.com/japan/web-fundamentals-wireframing-prototyping-lofi-hifi-part-2/
+
+	◆全員攻撃型デザインのススメ 〜Adobe XDでつくるこれからのワイヤーフレーム入門〜【第1回】デザインはワイヤーフレームが8割!? | Adobe Creative Station
+	https://blogs.adobe.com/creativestation/web-xd-wirefame-ui-design
+
+
+
+
+==============================
+知識
+==============================
+
+◆ プロトタイプは画面や機能ごとに作ってはいけない：もう迷わない！ ビジネスを成長させるUXデザイン手法の使い方（5） - ＠IT
+https://www.atmarkit.co.jp/ait/articles/1806/21/news018.html
+
+◆ユーザー体験を改善する「視覚的な合図」をデザインするヒントを学ぶ | アドビUX道場 #UXDojo
+https://blogs.adobe.com/japan/web-design-visual-cues-better-ux/
+
+◆UI/UXデザインツール「Adobe XD」がAPI開放--他社サービスとの連携が可能に - CNET Japan
+https://m.japan.cnet.com/amp/story/35124779/
+
+
+
+
+
+==============================
+その他情報
+==============================
+
+◆「Adobe XD」、アップデートでさらに便利に！クリエイター＆開発者に嬉しい新機能が追加 | Techable(テッカブル)
+https://techable.jp/archives/84072
+
+◆note投稿企画連動 「#できるぞAdobeXD」開催 
+https://blogs.adobe.com/japan/web-xd-campaign-dekiruzo-adobexd/amp/
+
+◆UXデザインに役立つスケッチノートの活用術 | アドビUX道場 #UXDojo
+https://blogs.adobe.com/japan/web-makayla-lewis-power-sketchnoting-ux-design/
+
+◆UX Design Trends For 2018 – UX Planet
+https://uxplanet.org/ux-design-trends-for-2018-a65476b0bdde
+
 ◆  Adobe XDの機能がいつの間にかこんなにも充実してた！Adobe XDとSketchの気になる機能を比較 | コリス
 https://coliss.com/articles/build-websites/operation/design/adobe-xd-vs-sketch.html
 
-◆  Adobe XDの使い方をマスターしておこう！基本的な操作が10分で身につくAdobe公式のチュートリアルファイル | コリス
-https://coliss.com/articles/build-websites/operation/design/adobe-xd-starter-kit.html
-
-
-
-
-
-
-◆Adobe XDでワイヤーフレーム制作するなら知っておくべき機能｜ferret
-https://ferret-plus.com/10585?utm_campaign=https:%2F%2Fferret-plus.com%2F10585&utm_medium=RSS&utm_source=top_rss
-
-
+◆Adobe XD 6月アップデートリリース！ 固定オブジェクト、アートボードのオーバーレイ、四則演算など #AdobeXD
+https://blogs.adobe.com/japan/web-june-2018-update-adobe-xd/
 
 ◆Adobe XD 2019年8月アップデートリリース！CSSコード自動生成（第一弾）、ローカルでのPhotoshop編集連携、コンポーネントの操作性改善など #AdobeXD - Adobe Blog
 https://blogs.adobe.com/japan/cc-web-xd-august-2019-update-auto-css-plugins-panel-more/
 
+◆Twitter - Adobe XDの10月の新機能が2分でザックリと分かる動画を作りました！
+https://twitter.com/pino_ebiebi/status/1052324623096803328
+
+	▼2018年10月アップデート
+	・01. Illustratorファイルの読み込み（アートボード・レイヤーを保持）
+	・02. リンクされたシンボル（別ドキュメントからシンボルを張り付ける）
+	・03. 音声コントロールとスピーチ
+	・03. ドラッグジェスチャー
+	・04. 自動アニメーション（アートボード間）
+	・05. After Effectsへ書き出し
+	・06. 新しくなったホーム画面＆アプリ連動（プラグイン・UIキット・アプリ連携（Slack | Microsoft Teams））
+	・07. プラグイン（例： プラグイン → Angle → ApplyMockup ： アートボードを画像化してシェイプにはめ込んでくれる）
 
 
 
 
 
+==============================
+まとめ的な
+==============================
 
-
-
-
-
-
-
-
-
-
-
-
+◆[連載] Adobe XD Creative Challenge - Adobe Blog
+https://blogs.adobe.com/japan/serialization/web-xd-creative-challenge/
 
 
