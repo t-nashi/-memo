@@ -246,6 +246,176 @@ https://ics-creative.github.io/project-particle-develop/
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+├── foundation
+│   ├── _base.scss
+│   └── _reset.scss
+├── layout
+│   ├── _footer.scss
+│   ├── _header.scss
+│   ├── _main.scss
+│   └── _sidebar.scss
+└── object
+    ├── component
+    │   ├── _button.scss
+    │   ├── _dialog.scss
+    │   ├── _grid.scss
+    │   └── _media.scss
+    ├── project
+    │   ├── _articles.scss
+    │   ├── _comments.scss
+    │   ├── _gallery.scss
+    │   └── _profile.scss
+    └── utility
+        ├── _align.scss
+        ├── _clearfix.scss
+        ├── _margin.scss
+        ├── _position.scss
+        ├── _size.scss
+        └── _text.scss
+
+
+
+├── foundation						… 基礎
+│   ├── _base.scss
+│   └── _reset.scss
+├── layout							… 設計
+│   ├── _footer.scss
+│   ├── _header.scss
+│   ├── _main.scss
+│   └── _sidebar.scss
+└── object							… 物（Atomic Design - Lv1.Atoms-原子）
+    ├── component
+    │   ├── _button.scss
+    │   ├── _dialog.scss
+    │   ├── _grid.scss
+    │   └── _media.scss
+    ├── project
+    │   ├── _articles.scss
+    │   ├── _comments.scss
+    │   ├── _gallery.scss
+    │   └── _profile.scss
+    └── utility
+        ├── _align.scss
+        ├── _clearfix.scss
+        ├── _margin.scss
+        ├── _position.scss
+        ├── _size.scss
+        └── _text.scss
+
+
+
+◆ Atomic Design
+
+・Lv1 … Atoms（原子）
+・Lv2 … Molecules（分子）
+・Lv3 … Organisms（有機体）
+・Lv4 … Templates（テンプレート）
+・Lv5 … Pages（ページ）
+
+
+・Lv1 … Atoms（原子）
+			それ以上の分解が難しい要素。フォント・カラーパレット・単体のボタン等
+・Lv2 … Molecules（分子）
+			Atomsを組み合わせて作られたコンポーネント。テキストボックス+ボタン=入力フォーム等
+・Lv3 … Organisms（有機体）
+			Moleculesの組み合わせで作られた比較的複雑なUI。ロゴ+複数ボタンのレイアウト=ヘッダー等
+・Lv4 … Templates（テンプレート）
+			Organismsの組み合わせで作られたワイヤーフレーム
+・Lv5 … Pages（ページ）
+			ユーザーが目にするものと変わらない、より具体的な姿となったTemplates
+
+
+
+
+
+
+
+
+
+
+
+
+root
+└── assets/
+    └── css/
+        ├── common.scss
+        ├── foundation/
+        │   ├── base/
+        │   ├── function/
+        │   ├── mixin/
+        │   └── variable/
+        ├── layout/
+        └── object/
+        　   ├── component/
+        　   ├── project/
+        　   ├── scope/
+        　   └── utility/
+
+
+root
+├── assets/
+│   └── css/
+│       ├── common.scss
+│       ├── foundation/
+│       │   ├── base/
+│       │   ├── function/
+│       │   ├── mixin/
+│       │   └── variable/
+│       ├── layout/
+│       └── object/
+│        　  ├── component/
+│        　  ├── project/
+│        　  ├── scope/
+│        　  └── utility/
+├── css/
+│   └── index.scss
+├── index.html
+└── page/
+    ├── css/
+    │   └── index.scss
+    └── index.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==================================================
 ◆ リンク
 ==================================================
