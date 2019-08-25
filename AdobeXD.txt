@@ -3,6 +3,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ◆ GitHubメモ
 https://github.com/t-nashi/-memo/blob/master/AdobeXD.txt
 
@@ -163,6 +175,112 @@ https://ics.media/entry/190520/
 
 
 
+◆無料のUIデザインキット、アイコン、プラグイン | Adobe XDの素材
+https://www.adobe.com/jp/products/xd/resources.html#panel-3
+
+	◆Apple Design Resources - Apple Developer
+	https://developer.apple.com/design/resources/
+
+	◆ Material Design（直ダウンロード）
+	http://download.adobe.com/pub/adobe/xd/ui-kits/xd-resources-material-design-ui.zip?promoid=98SH4RH2&mv=other
+
+	◆Design toolkits and samples for UWP apps - Windows UWP applications | Microsoft Docs
+	https://docs.microsoft.com/en-us/windows/uwp/design/downloads/
+
+
+
+
+
+
+
+
+
+
+
+
+
+ガイドライン 引き方
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==============================
+プラグイン - plugin
+==============================
+
+◆これ便利すぎ！Adobe XDのおすすめ無料プラグイン20個まとめ - PhotoshopVIP
+http://photoshopvip.net/115213
+
+	Artboard Plus
+	アートボードの整列
+
+	Rename It
+	レイヤーやアートボードの名前をバッチ処理
+
+	Adjust Size by Shortcut
+	Sketch同様に「Command + 矢印キー」というショートカットでオブジェクトのサイズ調整ができる
+
+		Mimic
+		URLを入力するだけで該当サイトのフォント名やカラー、画像などを自動で抽出し、一覧リストとして表示してくれるプラグイン。
+
+		テキスト校正くん
+		XDのアートボード内の選択中のテキストに対して、文章校正を行います。
+
+	Google Sheets
+	あらかじめ作成しておいたGoogleスプレッドシートからデータを直接読み込み、選択したレイヤーのテキストと画像の一括置換ができる
+
+		VizzyCharts
+		数値データをXDで読み込むだけで、グラフやチャート図を自動で作成してくれる
+
+	UI Faces
+	XDから離れることなく、UIデザインで利用するアバター画像を自動で生成してくれるプラグイン。
+
+		Lorem Ipsum
+		ダミーの文字テキストを自動入力してくれるXDプラグイン。
+
+		Data Populator
+		リアルデータを用いたプロトタイプ、モックアップの制作を可能にしたプラグインで、ダミーテキストのような文字の反復デザインにもサヨナラです。
+
+	Confetti
+	1クリックでゴージャスな紙吹雪のようなデザインパターンを自動生成してくれるプラグイン。自分だけのカスタムシェイプにも対応しており、色やサイズ、角度、ランダム性など細かく設定できます。
+
+		Ikono
+		フリーアイコン「ikonate」の専用プラグインで、XD内でアイコンを選択、配置できます。またアイコンの線の太さや色なども自由に変更することができます。
+
+	IconDrop
+	XD上でお好みのアイコンを検索、配置できるプラグイン。他のデザインツールを使うことなく、XDのみで完結するデザイン制作は時短にもぴったりなアイテムです。
+
+	Zeplin
+	完成したデザインを1クリックでエクスポートしたり、デザインからCSSやSASSなどのコードを自動生成できる、デザイナーは必ず入れておきたいプラグインのひとつ。ボタンひとつでSlackに投稿できたりと、デザイナーとデベロッパーの共同作業にも欠かさません。
+
+	Auto Grid
+	Color Designer
+	My Color Panel
+	User Profile
+	Image Optimizer
 
 
 
@@ -365,6 +483,9 @@ https://montblan9.net/archives/3364
 
 	◆全員攻撃型デザインのススメ 〜Adobe XDでつくるこれからのワイヤーフレーム入門〜【第1回】デザインはワイヤーフレームが8割!? | Adobe Creative Station
 	https://blogs.adobe.com/creativestation/web-xd-wirefame-ui-design
+
+	◆爆速に Adobe XD でワイヤーフレームを作ってみよう！魅力的な機能や高速化のコツをご紹介！ - ウェブ企画ラボ
+	https://webkikaku.co.jp/blog/webdesign/adobexd-wireframe/
 
 
 
