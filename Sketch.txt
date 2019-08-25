@@ -1,0 +1,1442 @@
+
+────────────────────────────────────────    
+◆ 環境      
+────────────────────────────────────────    
+・Sketch Version 47.1(45422)    
+・OSX El Capitan - バージョン 10.11.6    
+  
+  
+・Plugins検索    
+https://sketchapp.com/extensions/plugins/    
+  
+◆ desktop ＞ Command+Shift+G ＞ アドレス      
+・Pluginフォルダの場所    
+~/Library/Application Support/com.bohemiancoding.sketch3/Plugins    
+  
+・Templateフォルダの場所    
+~/Library/Application Support/com.bohemiancoding.sketch3/Templates    
+  
+  
+────────────────────────────────────────    
+◆ プラグイン    
+────────────────────────────────────────    
+  
+──────────    
+◆ プラグイン管理    
+──────────    
+・Sketchpacks  
+https://sketchpacks.com/  
+… プラグイン管理、インストールやアップデートも。  
+  
+・Symbol Organizer  
+https://github.com/sonburn/symbol-organizer  
+… シンボルの整理（メニュー > Symbol Organizer > Run）※Symbolにいるときに  
+  
+  
+・[plugin] Librariesチェック（Sketchファイルを横断してSymbolを同期することができる機能 - v47から）  
+・[plugin] Abstract（デザイナー版GitHub、自動でSketchファイル間の差分を検出しマージ、変更をコミットできたりなどバージョン管理が可能）  
+・  
+・  
+・  
+・  
+  
+  
+  
+──────────    
+◆ プロトタイピング    
+──────────    
+  
+◆◆◆ トランジション型＝遷移    
+  
+・marvel  
+https://marvelapp.com/sketch  
+プロトタイピング、遷移アクションつけれる、遷移UI無し  
+  
+・craft  
+https://labs.invisionapp.com/craft  
+プロトタイピング、ダミーデータ、遷移UI有り、繊維アクション無し  
+  
+     ・InVision（craftから連携）  
+     https://www.invisionapp.com/  
+     プロトタイピング  
+  
+・Prott Sketch plugin  
+https://prottapp.com/ja/plans/  
+https://blog.prottapp.com/post/ja/sketch-integration  
+プロトタイピング、繊維UI有り、繊維アクション有り  
+  
+  
+◆◆◆ インタラクション型＝動き    
+  
+・Pixate（2016年10月31日Pixateがサービスを終了）  
+http://www.pixate.com/  
+  
+・Form  
+http://www.relativewave.com/form/  
+  
+  
+◆◆◆ 複合型    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+──────────    
+◆ ダミーデータ    
+──────────    
+・craft（上記プロトタイピングに解説あり）  
+http://creative-tweet.net/blog/2016/02/invision-lab-craft-impression.html  
+  
+・Content generator  
+ダミーデータ（craftあればいらないかもね）  
+     最新             https://github.com/timuric/Content-generator-sketch-plugin  
+     日本語       https://github.com/riszw/Content-generator-sketch-plugin  
+     解説             https://qiita.com/noriaki-kawanishi/items/c869476aadb04944e565  
+  
+──────────    
+◆ スタイルガイド / 指示書 / ハンドオフ    
+──────────    
+・Zeplin  
+https://zeplin.io/  
+スタイルガイド共有・作成、指示書（ハンドオフ</>）  
+http://www.ajike.co.jp/switch/sketch_beginner_08/  
+  
+・Sketch measure  
+「Speck Export」という機能が秀逸（Zeplin的なものをローカルファイルとして書き出す）  
+http://www.notespace.jp/?p=965  
+https://creative-tweet.net/blog/2016/12/sketch-plugin-ac-17.html  
+http://dripn-snip.com/2016/11/07/sketchmeasure/  
+  
+──────────    
+◆ その他    
+──────────    
+・Dynamic Button  
+Command + J で選択オブジェクトにボタン領域を作成  
+https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5  
+http://4kakudez.com/tips/dynamic-button-plugin.html  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+──────────    
+◆ 動き    
+──────────    
+  
+  
+────────────────────────────────────────    
+◆ テンプレート    
+────────────────────────────────────────    
+  
+◆テンプレート検索  
+https://www.sketchappsources.com/  
+  
+◆Android L UI Kit Sketch freebie - Download free resource for Sketch - Sketch App Sources  
+https://www.sketchappsources.com/free-source/659-android-l-ui-kit-sketch-freebie-resource.html  
+  
+◆Material Design by Google Sketch freebie - Download free resource for Sketch - Sketch App Sources  
+https://www.sketchappsources.com/free-source/874-material-design-google-sketch-freebie-resource.html  
+  
+◆[font] google / roboto  
+https://github.com/google/roboto  
+https://material.io/guidelines/resources/roboto-noto-fonts.html  
+  
+◆Web UI Kit Sketch freebie - Download free resource for Sketch - Sketch App Sources  
+https://www.sketchappsources.com/free-source/2516-free-web-ui-kit-sketch-freebie-resource.html  
+  
+◆Website Starter Kit Sketch freebie - Download free resource for Sketch - Sketch App Sources  
+https://www.sketchappsources.com/free-source/2557-website-starter-page-kit-sketch-freebie-resource.html  
+  
+◆Teehan+Lax - Defining Experience  
+https://www.teehanlax.com/tools/iphone-sketch-app/  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+────────────────────────────────────────    
+◆ メモ    
+────────────────────────────────────────    
+・お試し版だとデフォルトのテンプレートやアートボードサイズが少ない？  
+  
+  
+  
+  
+・ショートカット  
+  
+・ページ  
+・アートボード  
+・結合 / Combine  
+  
+・共有スタイル  
+  
+・シンボル / Create Symbol（シンボル、スマートオブジェクト的なもの）  
+  
+シンボルとは再利用可能なデザインエレメント／コンポーネントです。  
+簡単に説明すると、「マスター」シンボルを用意しておけば、メインドキュメント（デザイン）内にある  
+すべてのシンボルはマスターシンボルを反映します。  
+  
+  
+繰り返し可能なコンポーネント（リピートグリッド）  
+Adobe XDはデフォルト。SketchはCraftを入れれば可能。  
+  
+  
+◆Sketchで枠の1辺のみborderを簡単に設定する方法 - Qiita  
+https://qiita.com/endam/items/64af6e9fe9bd245861e0  
+  
+◆Sketchで色シンボルを作ってアイコンの色を変更する &#8211; Snaplog  
+https://blog.mismithportfolio.com/web/sketch-icon-color  
+  
+◆Sketch.appのマスクについて解説するよ。 – Sketch.app Advent Calendar 2013 | creative tweet.  
+https://creative-tweet.net/blog/2013/12/sketch-app-advent-calendar-2013-mask.html  
+  
+◆Sketchのシンボルがすばらしいという話 - kurokolog - g.o.a.t  
+https://kuroko.goat.me/6b6aVOG9  
+  
+◆Sketchで少しだけ迷ったこと - Qiita  
+https://qiita.com/nogson/items/4090fd7f40d363cab692  
+  
+  
+  
+  
+  
+  
+  
+────────────────────────────────────────    
+◆ 未検証    
+────────────────────────────────────────    
+  
+・Abstract  
+https://www.goabstract.com/  
+… デザイナー向けのGitHub  
+  
+  
+  
+────────────────────────────────────────    
+◆ Atomic Design    
+────────────────────────────────────────    
+  
+◆Atomic Designの概念を参考にSketchのシンボルを効率的に管理する方法 | UXデザイン会社Standardのブログ  
+http://www.standardinc.jp/reflection/article/sketch-atomicdesign/  
+  
+     ◆DeNA DESIGN BLOG  
+     http://design.dena.com/design/atomic-design-%E3%82%92%E5%88%86%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%A4%E3%82%82%E3%82%8A%E3%81%AB%E3%81%AA%E3%82%8B/  
+  
+◆Sketch LibrariesとAbstractを使ったAtomic Designの実践💪 | Nagisaのすゝめ  
+https://blog.nagisa-inc.jp/archives/1823  
+  
+     ◆デザインデータのバージョン管理ができるAbstractを試してみた✌ | UXデザイン会社Standardのブログ  
+     http://www.standardinc.jp/reflection/article/abstractapp/  
+  
+     ◆Dropbox - Nebula  
+     https://www.dropbox.com/sh/7j0zm7rg2b00f4z/AAA98GDrjA1vzwfNlqAEjl3La?dl=0  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+────────────────────────────────────────    
+◆ 参考    
+────────────────────────────────────────    
+  
+★◆Sketchで変わるワークフロー  
+https://www.slideshare.net/asamieee7/sketch-50764516  
+  
+★◆Prottとsketchとzeplinのススメ  
+https://www.slideshare.net/asamieee7/prottsketchzeplin  
+  
+★◆エンジニアのための「Sketch入門！」1時間コース - Qiita  
+https://qiita.com/st5757/items/663f17756d61aa8e8ea3  
+  
+★◆2017年最新版！プロトタイピングツールのまとめ | Supership Tech Blog  
+https://www.wantedly.com/companies/Supership/post_articles/55150  
+  
+★◆Pixateに変わるプロトタイピングツールとは？５つのツールを徹底比較！  
+https://developers.cyberagent.co.jp/blog/archives/2058/  
+  
+★◆Sketch 3 Cheat Sheet  
+https://dribbble.com/shots/1522880-Sketch-3-Cheat-Sheet  
+https://dribbble.com/shots/1522880-Sketch-3-Cheat-Sheet/attachments/230311  
+https://cdn.dribbble.com/users/115771/screenshots/1522880/attachments/230311/Sketch_Cheat_Sheet.png  
+  
+  
+  
+  
+  
+  
+◆Sketchを更に便利にパワーアップするプラグインのまとめ | コリス  
+http://coliss.com/articles/build-websites/operation/design/best-plugins-for-sketch.html  
+  
+◆超便利！Sketchのおすすめプラグイン15選 | web design trends  
+https://webdesign-trends.net/entry/3288  
+  
+◆Sketch便利プラグイン&amp;カスタマイズ - Qiita  
+https://qiita.com/Masaki_Fujimori/items/fc861e360579384b42b6  
+  
+◆ダミー作成に超便利！Sketch 3に機能を追加するInVision Craftを試してみた。 | creative tweet.  
+http://creative-tweet.net/blog/2016/02/invision-lab-craft-impression.html  
+  
+◆これで無料とはすごい！Mac, Win, Linux対応、デザインの指示書やスタイルガイドを簡単に作成・共有できる -Zeplin | コリス  
+http://coliss.com/articles/build-websites/operation/work/collaboration-tool-between-designers-and-developers-zeplin.html  
+  
+◆Sketchってこんなに便利！デザイナーが入れておきたい無料プラグイン12個まとめ - PhotoshopVIP  
+http://photoshopvip.net/101239  
+  
+◆まだ使っていない方におすすめしたい Sketch 3 超便利プラグイン6選 | ブログ | SINAP - 株式会社シナップ  
+http://sinap.jp/blog/2016/09/sketchplugin.html  
+  
+◆プロトタイピングツール集 - Qiita  
+https://qiita.com/usagimaru/items/b5485589550787820348  
+  
+  
+  
+  
+  
+  
+  
+  
+◆吉竹 遼のSketch入門 for UIデザイナー - WPJ  
+https://www.webprofessional.jp/lesson/sketch/  
+  
+◆Sketch43からファイルの構成が変わってSketchファイルをZip形式にすると中身が覗けるんだって | TECHNICAL CREATOR  
+https://technical-creator.com/new-file-format-in-sketch-43/  
+  
+◆Sketch Advent Calendar 2017 - Qiita  
+https://qiita.com/advent-calendar/2017/sketch  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+──────────    
+windowsで調べたURL  
+──────────    
+  
+◆Website Starter Kit Sketch freebie - Download free resource for Sketch - Sketch App Sources  
+https://www.sketchappsources.com/free-source/2557-website-starter-page-kit-sketch-freebie-resource.html  
+  
+◆Sketch | Creator Guide  
+https://creator.guide/lessons/sketch  
+  
+◆Sketchで使える美しいテンプレート・UIキットまとめ(フリー素材) | Web制作ナビ  
+https://www.webtoolnavi.com/sketch-template-2016/  
+  
+◆Sketchの強力なライバル!?話題のUIデザインツール「Figma」とは？ - WPJ  
+https://www.webprofessional.jp/is-figma-a-serious-option-for-sketch-designers/?utm_content=bufferbd0d2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer  
+  
+◆  Sketchを更に便利にパワーアップするプラグインのまとめ | コリス    
+http://coliss.com/articles/build-websites/operation/design/best-plugins-for-sketch.html  
+  
+◆UIデザイナーがSketchを使う理由と導入方法 - WPJ  
+https://www.webprofessional.jp/lesson/sketch/lesson01/  
+  
+◆UIデザイナーのための新しいSketch入門、始めます - WPJ  
+https://www.webprofessional.jp/sketch-lesson-start/  
+  
+◆UIデザインの作成ツール！Sketchの使い方【初心者向け】 | TechAcademyマガジン  
+https://techacademy.jp/magazine/8576  
+  
+◆デザイン、モック、コーディングの超おすすめツール！ sketch ,  atomic.io ,... - マーケティングプロデューサーのブログ  
+https://kimmy-japan.tumblr.com/post/140447907527/  
+  
+◆珍しいワークフロー：Atomic Designの原則とSketchでデザインからプログラミングまで | デザイン | POSTD  
+http://postd.cc/the-unicorn-workflow-design-to-code-with-atomic-design-principles-and-sketch/  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+────────────────────────────────────────    
+◆ ドキュメント    
+────────────────────────────────────────    
+  
+◆Sketch - Documentation  
+https://www.sketchapp.com/docs/  
+  
+◆マテリアル – 日本語  
+https://material.io/jp/guidelines/  
+  
+◆[Material Design] UI設計をおさらいしたい人のためのリンク集 - Qiita  
+https://qiita.com/Tamiiy/items/d12d64b831fbcbabadbe  
+  
+◆Google の新しいデザインガイドライン「Material Design」 ｜ Developers.IO  
+https://dev.classmethod.jp/smartphone/android/google-material-design/  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+────────────────────────────────────────    
+◆ その他ツール    
+────────────────────────────────────────    
+  
+◆デモやプレゼンをするときに使っているツール - ikeike443のブログ  
+http://ikeike443.hatenablog.com/entry/2016/04/15/200536  
+  
+◆キー入力を表示しながらスクリーンショットGifを撮る  
+https://rcmdnk.com/blog/2014/08/01/computer-mac-windows/  
+  
+◆ちょっとした画像加工に最適！便利すぎるSkitchの使い方まとめ｜ferret [フェレット]  
+https://ferret-plus.com/657  
+  
+◆Mac でスクリーンショットを素早く編集するツール『Monosnap』(無料)  
+http://itwork100.com/mac-monosnap-howto/  
+  
+◆【OSX】MacBook Proユーザーにオススメ！ウィンドウのリサイズを直感的に整理する「Divvy」を試す！ - Design × Lifehack × CrossOver Lab  
+http://happy-montblanc.com/blog/?p=4977  
+  
+◆Macのウィンドウの大きさを自由自在に変更（リサイズ）できるアプリ「Magnet」 | iTea4.0  
+http://itea40.jp/application/mac-productivity/magnet/  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+◆UIデザイナーにおすすめ！Sketch Librariesの基本的な使い方とAbstract上での連携方法 | Goodpatch Blog  
+https://goodpatch.com/blog/sketchlibraries-abstract/  
+  
+◆Sketch: 自動保存を無効にする :: log.chocolateboard  
+https://log.chocolateboard.net/sketch-auto-save/  
+  
+◆Atomic DesignからみたBootstrap｜Yoko Nishida｜note  
+https://note.mu/nikoko/n/nb3123d57fee7  
+  
+◆CI&amp;UIリニューアルしながらデザインシステムを作った話｜Yoko Nishida｜note  
+https://note.mu/nikoko/n/n78c5e09cedbf  
+  
+◆design/guideline/blog_share/Codeal Design Guideline (Shared) - esa-pages.io  
+https://esa-pages.io/p/sharing/3259/posts/2297/eb5a883d04027caf527e.html  
+  
+◆[WIP] design/guideline/blog_share/Sketch Tips for Codeal Design Guideline (Shared) - esa-pages.io  
+https://esa-pages.io/p/sharing/3259/posts/2296/fa2c5e01f6856e29a8f0.html  
+  
+◆Sketchでデザインしながらガイドラインを作ろう｜かみそる｜note  
+https://note.mu/czrkmsn/n/ndaa68d3f949e  
+  
+◆Sketchの命名ルールなどをまとめたGuidelineをつくりました - itachoco Sketch Guideline v0.1｜wataame｜note  
+https://note.mu/wataame/n/n8a929d010e90  
+  
+◆2017年、デザインガイドラインについて考える。｜Yuya Furusato｜note  
+https://note.mu/remmy/n/n2d8fb879cd44  
+  
+◆Bootstrap 4 UI Kit for Sketch Sketch freebie - Download free resource for Sketch - Sketch App Sources  
+https://www.sketchappsources.com/free-source/1768-bootstrap-v4-ui-kit-sketch-freebie-resource.html  
+  
+◆Keyboard Shortcuts for Sketch App  
+http://sketchshortcuts.com/  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+────────────────────────────────────────    
+◆ Evernoteに書いてたメモ（現在はこのメモと合わせて Google Keepへ）    
+────────────────────────────────────────    
+  
+  
+◆ 課題    
+・拡大/縮小のショートカットがAdobeと混在しがち  
+・マスクのかけ方・概念が慣れない  
+・アイコンの色替え（マスク利用）がどこまで応用できるか次第で、より便利になる  
+  
+  
+・Resizing … レスポンシブなコンポーネントを作る（p136）  
+・Shared Style … 文字サイズやフォント変えたり？（p122）  
+・Replace … シンボル置き換え・解除（p128）  
+・Overrides …シンボルの中身書き換え （p130）  
+・  
+  
+  
+  
+  
+  
+  
+◆ショートカット  
+・オブジェクト選択時に「option+tab」でインスペクタのpositionがアクティブになる  
+  
+  
+  
+  
+  
+◆ 試してみたい    
+  
+・Styled Text  
+リストで一覧表示され、選択して配置できる  
+  
+・移動 … コマンド無し上下左右  
+・リサイズ … コマンド有り上下左右  
+  
+・全選択 … コマンド+a（ページ内）、コマンド+shift+a（アートボード）  
+  
+・選択オブジェクトへのズーム … コマンド+2  
+  
+・Transform … コマンド+shift+T  
+  
+・Rotate … コマンド+shift+R  
+  
+・Flatten … Combineで作成したオブジェクトを1つのシェイプへと変換する  
+・Combine（シェイプを組み合わせる複合シェイプ）  
+          └ Union（option+コマンド+U）… 合体  
+          └ Subtract（option+コマンド+S）… 前面の形で背面を型抜きする  
+          └ Intersect（option+コマンド+I）… 前面と背面の交差したエリアの形状にする  
+          └ Difference（option+コマンド+X）… 前面と背面の交差したエリアを型抜きした形状にする  
+  
+・Forward（option+コマンド+↑）… レイヤー順序を上へ、前面に配置  
+・Backward（option+コマンド+↓）… レイヤ順序を下へ、背面に配置  
+  
+・Mask … control+コマンド+M  
+（→ Ignore underlying Mask）  
+  
+・Scale … コマンド+K  
+（インスペクタでのリサイズと違いがある、Scaleは線幅やシャドウなどの効果のサイズも相対的に変化する）  
+  
+・View  
+          └ Show Pixels（control+P）… ベクターとピクセルの切り替え  
+          └ Show Rulers（control+R）… 定規  
+          └ Show Grid（control+G）… 縦横線  
+          └ Show Layout（control+L）… 縦線  
+  
+・Export（shift+コマンド+E）… 書き出し設定されているアートボードやオブジェクトを書き出す  
+  
+・Distribute Objects（分布）  
+          └ 横均等間隔で分布（control+コマンド+H）  
+          └ 縦均等間隔で分布（control+コマンド+V）  
+  
+・リサイズ  
+          └ Widthにr： 基準点を右上にしてリサイズ  
+          └ Widthにc： 上端中心  
+          └ Heightにb： 左下  
+          └ Heightにc： 左端中心  
+  
+  
+  
+  
+  
+◆ プラグイン    
+・Align To … Illustratorのように整列の基点となるレイヤーを自由に選びたい  
+・Auto Layout by Anima … ラベル可変のボタンが作れる（文字量に応じてレスポンシブなボタン）p163  
+・Sketch Runner … Spotlight機能のようにSketch内の機能を呼び出せるショートカットプラグイン。「コマンド+'」で呼び出し  
+・SVGO Compressor … SVG圧縮  
+・Sketch Measure … キャンバス上にオブジェクトの情報やマージンなどを記載できる。Zeplinとかが使えないオフライン時に便利  
+・Rename It … 選択したアートボード/ レイヤー名を変更出来る  
+・User Flows … Sketch上で画面遷移が作れる  
+・Sketch Palettes … Document Color や Global Color を書き出し/読み込みできる  
+・Sketch Copy Paste Position & Size … オブジェクトの高さや幅、位置のコピペ  
+・Select Similar Layers … 選択したレイヤーと同じ情報を持っているレイヤーをまとめて選択できる  
+・  
+・  
+・  
+・  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+◆ Apple    
+https://developer.apple.com/design/resources/#ios-apps  
+https://developer.apple.com/design/resources/  
+  
+◆Google  
+https://material.io/guidelines/resources/sticker-sheets-icons.html  
+https://material.io/guidelines/resources/layout-templates.html  
+https://material.io/icons/  
+  
+◆Facebook  
+http://facebook.design/toolsandresources/  
+  
+◆InVision  
+https://www.invisionapp.com/do  
+https://www.invisionapp.com/relate  
+https://www.invisionapp.com/chat  
+https://www.invisionapp.com/now  
+https://www.invisionapp.com/tethr  
+  
+  
+  
+  
+  
+◆参考 / コミュニティ  
+  
+  
+・Sketch Japan（Facebook）  
+https://www.facebook.com/groups/1403075229952941/about/  
+  
+・Sketch Japan（Slack）  
+http://kudakurage.github.io/sketchjapan/  
+  
+・Sketch Hunt  
+http://sketchhunt.com/  
+  
+・Creative Tweet  
+https://creative-tweet.net/  
+  
+・Sketch App Resources  
+https://www.sketchappsources.com/  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+──────────
+ Atomic Design
+──────────
+◆Atomic Design を分かったつもりになる | DeNA DESIGN BLOG
+https://design.dena.com/design/atomic-design-%E3%82%92%E5%88%86%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%A4%E3%82%82%E3%82%8A%E3%81%AB%E3%81%AA%E3%82%8B/
+
+◆Atomic DesignからみたBootstrap｜Yoko Nishida｜note
+https://note.mu/nikoko/n/nb3123d57fee7
+
+
+
+──────────
+ Bootstrap 4
+──────────
+◆Behance - Bootstrap 4 GUI - psd,ai...
+https://www.behance.net/gallery/47991997/Bootstrap-4-GUI-FREE-Vector-File
+
+
+
+
+──────────
+ Sketch
+──────────
+◆Sketchにショートカットを設定して爆速デザイン｜Sketch
+https://irec.jp/design/sketch/sketch-shortcut/
+
+◆Sketchでショートカットキーの操作と登録で制作スピードを大幅にアップさせる | 大阪市天王寺区SOHOホームページ制作 | デザインサプライ-DesignSupply.-
+https://designsupply-web.com/suplog/4300/
+
+◆私が手放せないSketchプラグイン11選 - bagelee（ベーグリー）
+https://bagelee.com/design/sketch/11_sketch_plugins_i_cannot_live_without/
+
+
+
+──────────
+ Plugins
+──────────
+
+https://bagelee.com/design/sketch/11_sketch_plugins_i_cannot_live_without/
+
+
+
+
+
+
+
+
+
+
+◆Bootstrap 4 Cheat Sheet - The ultimate list of Bootstrap classes
+https://hackerthemes.com/bootstrap-cheatsheet/#blockquote-footer
+
+◆Bootstrap 4 Colors
+https://www.w3schools.com/bootstrap4/bootstrap_colors.asp
+
+◆Tryit Editor v3.6
+https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_txt_bgcolors&stacked=h
+
+◆Overview · Bootstrap
+https://getbootstrap.com/docs/4.0/layout/overview/
+
+◆Jumbotron Template for Bootstrap
+https://v4-alpha.getbootstrap.com/examples/jumbotron/
+
+◆    Typography &middot; Bootstrap
+https://v4-alpha.getbootstrap.com/content/typography/
+
+◆Off Canvas Template for Bootstrap
+https://v4-alpha.getbootstrap.com/examples/offcanvas/#
+
+◆Examples · Bootstrap
+https://getbootstrap.com/docs/4.3/examples/
+
+◆Atomic DesignからみたBootstrap｜Yoko Nishida｜note
+https://note.mu/nikoko/n/nb3123d57fee7
+
+◆CI&amp;UIリニューアルしながらデザインシステムを作った話｜Yoko Nishida｜note
+https://note.mu/nikoko/n/n78c5e09cedbf
+
+◆design/guideline/blog_share/Codeal Design Guideline (Shared) - esa-pages.io
+https://esa-pages.io/p/sharing/3259/posts/2297/eb5a883d04027caf527e.html
+
+◆働くをもっと自由にするためにコデアルのデザインをリニューアルしました｜ShotaAtago｜note
+https://note.mu/shotar/n/nde760187c95d
+
+◆[WIP] design/guideline/blog_share/Sketch Tips for Codeal Design Guideline (Shared) - esa-pages.io
+https://esa-pages.io/p/sharing/3259/posts/2296/fa2c5e01f6856e29a8f0.html
+
+◆Buttons · Bootstrap
+https://getbootstrap.com/docs/4.0/components/buttons/
+
+◆&#37197;&#33394;&#12399;&#12475;&#12531;&#12473;&#12376;&#12419;&#12394;&#12356;&#12289;UI&#12487;&#12470;&#12452;&#12531;&#12391;&#33394;&#12434;&#12363;&#12435;&#12383;&#12435;&#12395;&#12461;&#12513;&#12427;&#12513;&#12477;&#12483;&#12489;
+https://www.evernote.com/shard/s122/client/snv?noteGuid=492d0771-f3fd-4a0a-b4dc-12923fcec317&noteKey=7608901d85d6532b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs122%2Fsh%2F492d0771-f3fd-4a0a-b4dc-12923fcec317%2F7608901d85d6532b&title=%25E9%2585%258D%25E8%2589%25B2%25E3%2581%25AF%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B9%25E3%2581%2598%25E3%2582%2583%25E3%2581%25AA%25E3%2581%2584%25E3%2580%2581UI%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25A7%25E8%2589%25B2%25E3%2582%2592%25E3%2581%258B%25E3%2582%2593%25E3%2581%259F%25E3%2582%2593%25E3%2581%25AB%25E3%2582%25AD%25E3%2583%25A1%25E3%2582%258B%25E3%2583%25A1%25E3%2582%25BD%25E3%2583%2583%25E3%2583%2589
+
+◆[Google] bootstrap 4 color primary
+https://www.google.co.jp/search?q=bootstrap+4+color+primary&ie=utf-8&oe=utf-8&hl=ja
+
+
+◆Bootstrap4に用意されているクラス【color編】
+https://webnetamemo.com/coding/bootstrap4/201711026071
+
+◆Bootstrap4のブレイクポイントとクラス名のprefix | コトダマウェブ
+https://cotodama.co/bootstrap4_break-point/
+
+◆iPhone画面サイズ早見表（図付き） - Qiita
+https://qiita.com/TD3P/items/b3b754bde584abc98f44
+
+◆iPhone/iPad/Apple Watch解像度(画面サイズ)早見表 - Qiita
+https://qiita.com/tomohisaota/items/f8857d01f328e34fb551
+
+
+
+◆続・今更聞けない Bootstrap 4 のレイアウトシステム with Flexbox - Speee DEVELOPER BLOG
+https://tech.speee.jp/entry/2018/05/10/113200
+
+◆Bootstrap 4のグリッドシステムの基本を学ぼう - Qiita
+https://qiita.com/tonkotsuboy_com/items/a23ef99041880a698e9f
+
+◆こうすれば理解できるBootstrap 4のレスポンシブWebデザインとそのCSS - Qiita
+https://qiita.com/tonkotsuboy_com/items/7c01460b59c3ca5ee047
+
+◆Sketchを使い倒すための便利プラグイン16選｜ferret [フェレット]
+https://ferret-plus.com/3972
+
+◆超便利！Sketchのおすすめプラグイン15選 | Web Design Trends
+https://webdesign-trends.net/entry/3288
+
+◆Apple Design Resources - Apple Developer
+https://developer.apple.com/design/resources/
+
+◆  Sketchに入れたい、便利なプラグインまとめ | creive【クリーブ】
+https://creive.me/archives/9893/
+
+◆私が手放せないSketchプラグイン11選 - bagelee（ベーグリー）
+https://bagelee.com/design/sketch/11_sketch_plugins_i_cannot_live_without/
+
+◆Sketch に Create Symbol のショートカットを追加する - wootan&#39;s diary
+https://wootan1102.hatenablog.com/entry/2017/12/27/165907
+
+◆Sketchで大活躍のショートカット集｜ikutani41｜note
+https://note.mu/ikutani41/n/nc85d2f7b7979
+
+◆【Bootstrap4】グリッドレイアウト基本 &#8211; niwaka-web
+https://niwaka-web.com/bs4_grid/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+◆ Atomic Design
+
+・Lv1 … Atoms（原子）
+・Lv2 … Molecules（分子）
+・Lv3 … Organisms（有機体）
+・Lv4 … Templates（テンプレート）
+・Lv5 … Pages（ページ）
+
+
+・Lv1 … Atoms（原子）
+			それ以上の分解が難しい要素。フォント・カラーパレット・単体のボタン等
+・Lv2 … Molecules（分子）
+			Atomsを組み合わせて作られたコンポーネント。テキストボックス+ボタン=入力フォーム等
+・Lv3 … Organisms（有機体）
+			Moleculesの組み合わせで作られた比較的複雑なUI。ロゴ+複数ボタンのレイアウト=ヘッダー等
+・Lv4 … Templates（テンプレート）
+			Organismsの組み合わせで作られたワイヤーフレーム
+・Lv5 … Pages（ページ）
+			ユーザーが目にするものと変わらない、より具体的な姿となったTemplates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+◆ Styles（APPEARANCE - Layer Style）
+Styles/Colors/Primary
+Styles/Colors/Primary-Active
+Styles/Colors/Secondary
+Styles/Colors/Secondary-Active
+Styles/Colors/Black
+Styles/Colors/Gray +2
+Styles/Colors/Gray +1
+Styles/Colors/Gray +0
+Styles/Colors/Gray -1
+Styles/Colors/Gray -2
+Styles/Colors/White
+Styles/Colors/Warning
+Styles/Colors/Danger
+
+
+◆ Typography（APPEARANCE - Text Style）
+Typography/Colors/Primary
+Typography/Colors/Primary-Active
+Typography/Colors/Secondary
+Typography/Colors/Secondary-Active
+Typography/Colors/Black
+Typography/Colors/Gray +2
+Typography/Colors/Gray +1
+Typography/Colors/Gray +0
+Typography/Colors/Gray -1
+Typography/Colors/Gray -2
+Typography/Colors/White
+Typography/Colors/Warning
+Typography/Colors/Danger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================================
+ ↓↓ 色々開いてたやつ ↓↓↓↓↓
+=================================================
+
+◆Bootstrapベースのスタイルガイド用テンプレート・「Bootstrap Style Guide Boilerplate」 | かちびと.net
+http://kachibito.net/useful-resource/bootstrap-style-guide-boilerplate
+
+
+◆Bootstrap 4 Colors
+https://www.w3schools.com/bootstrap4/bootstrap_colors.asp
+
+◆Tryit Editor v3.6
+https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_txt_bgcolors&stacked=h
+
+◆Overview · Bootstrap
+https://getbootstrap.com/docs/4.0/layout/overview/
+
+◆Jumbotron Template for Bootstrap
+https://v4-alpha.getbootstrap.com/examples/jumbotron/
+
+◆    Typography &middot; Bootstrap
+https://v4-alpha.getbootstrap.com/content/typography/
+
+◆Off Canvas Template for Bootstrap
+https://v4-alpha.getbootstrap.com/examples/offcanvas/#
+
+◆Examples · Bootstrap
+https://getbootstrap.com/docs/4.3/examples/
+
+◆Atomic DesignからみたBootstrap｜Yoko Nishida｜note
+https://note.mu/nikoko/n/nb3123d57fee7
+
+◆CI&amp;UIリニューアルしながらデザインシステムを作った話｜Yoko Nishida｜note
+https://note.mu/nikoko/n/n78c5e09cedbf
+
+◆design/guideline/blog_share/Codeal Design Guideline (Shared) - esa-pages.io
+https://esa-pages.io/p/sharing/3259/posts/2297/eb5a883d04027caf527e.html
+
+◆働くをもっと自由にするためにコデアルのデザインをリニューアルしました｜ShotaAtago｜note
+https://note.mu/shotar/n/nde760187c95d
+
+◆[WIP] design/guideline/blog_share/Sketch Tips for Codeal Design Guideline (Shared) - esa-pages.io
+https://esa-pages.io/p/sharing/3259/posts/2296/fa2c5e01f6856e29a8f0.html
+
+◆Buttons · Bootstrap
+https://getbootstrap.com/docs/4.0/components/buttons/
+
+◆&#37197;&#33394;&#12399;&#12475;&#12531;&#12473;&#12376;&#12419;&#12394;&#12356;&#12289;UI&#12487;&#12470;&#12452;&#12531;&#12391;&#33394;&#12434;&#12363;&#12435;&#12383;&#12435;&#12395;&#12461;&#12513;&#12427;&#12513;&#12477;&#12483;&#12489;
+https://www.evernote.com/shard/s122/client/snv?noteGuid=492d0771-f3fd-4a0a-b4dc-12923fcec317&noteKey=7608901d85d6532b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs122%2Fsh%2F492d0771-f3fd-4a0a-b4dc-12923fcec317%2F7608901d85d6532b&title=%25E9%2585%258D%25E8%2589%25B2%25E3%2581%25AF%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25B9%25E3%2581%2598%25E3%2582%2583%25E3%2581%25AA%25E3%2581%2584%25E3%2580%2581UI%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25A7%25E8%2589%25B2%25E3%2582%2592%25E3%2581%258B%25E3%2582%2593%25E3%2581%259F%25E3%2582%2593%25E3%2581%25AB%25E3%2582%25AD%25E3%2583%25A1%25E3%2582%258B%25E3%2583%25A1%25E3%2582%25BD%25E3%2583%2583%25E3%2583%2589
+
+◆Bootstrap4に用意されているクラス【color編】
+https://webnetamemo.com/coding/bootstrap4/201711026071
+
+◆今更SublimeText2から3へ乗り換えました | これを読めば思い出す
+https://www.koreyome.com/technique/sublime-text-3/
+
+◆「Sublime Text 3」で.scssや.sassファイルがPlain Textになる問題 | YoutaChannel
+https://youtachannel.com/how-to-sublime-text-3-sass/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================================
+
+
+
+
+◆Atomic Designの概念を参考にSketchのシンボルを効率的に管理する方法 | UXデザイン会社Standardのブログ
+http://www.standardinc.jp/reflection/article/sketch-atomicdesign/
+
+◆Atomic Design を分かったつもりになる | DeNA DESIGN BLOG
+https://design.dena.com/design/atomic-design-%E3%82%92%E5%88%86%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%A4%E3%82%82%E3%82%8A%E3%81%AB%E3%81%AA%E3%82%8B/
+
+◆Sketch LibrariesとAbstractを使ったAtomic Designの実践💪 | Nagisaのすゝめ
+https://blog.nagisa-inc.jp/archives/1823
+
+◆Dropbox - Nebula - Simplify your life
+https://www.dropbox.com/sh/7j0zm7rg2b00f4z/AAA98GDrjA1vzwfNlqAEjl3La?dl=0
+
+◆Sketchでボタンのシンボルを作成する方法と使い方【デザイン効率Up】 | Tarokenlog
+https://taroken.org/sketch-symbol-button/
+
+◆sketchのsymbolページがCSS設計になるといいなあと思って、シンボル整理整頓を改めてやってみる - Uni-Q blog
+http://blog.uni-q.net/entry/2017/12/16/201042
+
+◆Sketchでボタンのシンボルを作成する方法と使い方【デザイン効率Up】 | Tarokenlog
+https://taroken.org/sketch-symbol-button/
+
+◆Webデザインでよく使うUI要素の名称・用語一覧 - Qiita
+https://qiita.com/shiraishiwataru/items/7728ffbc4dc390c92b06
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+─────
+ 命名規則
+─────
+◆PSR-2 コーディングガイド（日本語）｜北海道札幌市のシステム開発会社インフィニットループ
+http://www.infiniteloop.co.jp/docs/psr/psr-2-coding-style-guide.html
+
+◆変数名の命名規則/＊＊ケースの使い分け - Qiita
+https://qiita.com/am_nimitz3/items/7b01af53751dba5d8fb1
+
+	コンスタントケース			GLOBAL_OBJECT		すべて大文字、単語をつなげる場合はアンダースコア。
+	パスカルケース			CatTower			文字の先頭を常に大文字。アッパーキャメルケースとも言う。
+	キャメルケース			silentSea			最初の単語以外の文字の先頭を大文字。ローワーキャメルケースとも言う。
+	スネークケース			snake_road			文字の単語間にアンダーバー。大文字を使うのも有りみたい。
+	ケバブケース			left-box			文字の単語間にハイフン。※チェインケースと呼ばれているのも見たことがあります。
+	プライベート変数（正式名募集中）	_privateVar	変数の最初にアンダースコア。
+
+
+◆コーディング規約の作り方の基本とメリット・デメリット｜フリエン
+https://furien.jp/columns/185/
+
+	・目的
+	・プロジェクトの構成
+	・ディレクトリー階層
+	・フォーマット
+		インデントはタブを使うのか
+		カラーコードは小文字
+		コメントフォーマット
+
+	・命名規則
+		変数
+		定数
+		関数
+		変数名の先頭は小文字
+		クラス名の先頭は大文字
+
+	・コーディングスタイル
+
+	・禁止事項
+		・ハンガリアン記法は使用しない
+		・インクルード、多重インクルード以外の目的でプリプロセッサを基本的に使用しない
+		・gotoは特別な理由がない限り使用しない
+		・グローバル変数を使用しない
+		・オブジェクトの内部状態を表す変数をpublicにしない
+		・ローカル変数を使いまわさない
+		・関数の引数を出力用に使用しない
+		・自分にしか分からないような変なコードを書かない
+
+
+─────
+ CSS
+─────
+◆CSSや画像の命名規則について｜Web Design KOJIKA17
+https://kojika17.com/2012/02/naming.html
+
+◆コーディング規約を作ろう |  Webクリエイターボックス
+https://www.webcreatorbox.com/webinfo/coding-guideline
+
+	インデント（タブを使うのか？スペース2つなのか？一切インデントしないのか？）
+	カラーコードは小文字？大文字？
+	コメントの書き方
+	プロパティーの記述順
+	シングルクォート（”）？ダブルクォート？（””）
+	サイズの単位（px? em? %?）
+
+◆こんなHTMLとCSSのコーディング規約で書きたい - Qiita
+https://qiita.com/pugiemonn/items/964203782e1fcb3d02c3
+
+
+
+
+CSS構成案
+	◆GitHub - hiloki/flocss: CSS organization methodology.
+	https://github.com/hiloki/flocss
+
+		◆CSSの設計 &#8211; FLOCSSをベースにしたファイルの構成と命名規則を考える ｜ Tips Note by TAM
+		https://www.tam-tam.co.jp/tipsnote/html_css/post10205.html
+
+		◆    Projectレイヤーを使いこなす！ – FLOCSSで始めるCSS設計     - to-R Media  
+		https://www.to-r.net/media/floccs-04/
+
+		◆FLOCSSを使ったCSS設計での悩みどころと解決案 - Qiita
+		https://qiita.com/uggds/items/d904b2f9a103c37a25fa
+
+		◆三年間運用しているサービスにFLOCSSを導入してCSSの健全化を目指す &#8211; PSYENCE:MEDIA
+		https://tech.recruit-mp.co.jp/front-end/flocss_refactor/#h-2
+
+		◆脱・CSS無法地帯。FLOCSSで指針のある設計を。 - Qiita
+		https://qiita.com/sueshin/items/dcbaf3d8a0adb6b087db
+
+
+
+	◆サルでも分かるOOCSS（オブジェクト指向CSS）。未だにidを使っている愚かなフロントエンジニアへ | hajipion.com
+	https://hajipion.com/1879.html
+
+	◆OOCSS（オブジェクト指向CSS）のススメ  |  hijiriworld Web
+	https://hijiriworld.com/web/oocss/
+
+	◆CSS設計における3大メソッド[OOCSS][BEM][SMACSS] | ライズウィルスタッフブログ
+	http://www.risewill.co.jp/blog/archives/5652
+
+	◆FLOCSSを扱いきれないあなたに贈る、スリムなCSS設計の話 | WebNAUT
+	https://webnaut.jp/technology/20170407-2421/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+スタイルガイド
+	◆Google HTML/CSS Style Guide
+	https://google.github.io/styleguide/htmlcssguide.html
+
+	◆Style guide · GitHub
+	https://github.com/styleguide
+
+	◆Style Guide
+	https://www.starbucks.com/static/reference/styleguide/
+
+
+
+
+
+
+
+─────
+ コーディング
+─────
+
+◆コーディング中のクラス名で迷いたくない！よく見るコンポーネントの名前17選 | 東京上野のWeb制作会社LIG
+https://liginc.co.jp/web/html-css/css/166585
+
+◆CSSのclass名で迷ったらここを見ろ！よく使われる命名規則１５選 | CodeCampus
+https://blog.codecamp.jp/class_name
+
+◆CSSのクラス名を決めるときに使うリストをつくりました - Qiita
+https://qiita.com/manabuyasuda/items/dbb76ed36970bec95470
+
+◆coding-guidelines/css-naming-list.md at master · manabuyasuda/coding-guidelines · GitHub
+https://github.com/manabuyasuda/coding-guidelines/blob/master/css/css-naming-list.md
+
+◆HTMLとCSSクラスでよく使う命名について - Qiita
+https://qiita.com/pugiemonn/items/eaa597b79fe59a1f1506
+
+◆破綻しにくい CSS 設計手法と命名規則 | murashun.jp
+https://murashun.jp/blog/20170729-01.html
+
+
+◆Sketchの命名ルールなどをまとめたGuidelineをつくりました - itachoco Sketch Guideline v0.1｜wataame｜note
+https://note.mu/wataame/n/n8a929d010e90
+
+
+
+html5、セクショニング、マークアップ
+
+	◆  SEO対策として最低限押さえておきたいHTML/HTML5マークアップの大事な6つのポイント | creive【クリーブ】
+	https://creive.me/archives/8814/
+
+	◆＜初心者向け＞知っておきたいHTML5の基本【マークアップ編 その1】 : ビジネスとIT活用に役立つ情報
+	https://www.asobou.co.jp/blog/web/html5-3
+
+	◆構造的なマークアップ｜HTML5 コーディング
+	https://create.irec.jp/createinmac/coding/structure/
+
+http://t-nashi.com/memo/images/html5images.jpg
+
+◆これが無料！？SEO・マーケティング分析ツールの「Nibbler」がスゴい
+https://nelog.jp/nibbler
+
+
+
+
+
+
+
+
+─────
+ アイコン（webfont？）
+─────
+
+◆【2019年版】おすすめのWebアイコンフォントと使い方まとめ | Web Design Trends
+https://webdesign-trends.net/entry/2310#1_Font_Awesome
+
+◆AngularでMaterial Iconsをオフラインで使う方法 - Qiita
+https://qiita.com/hellfire/items/911a9fa33200cb1ea15b
+
+◆【保存版】Font Awesomeの使い方：Webアイコンフォントを使おう
+https://saruwakakun.com/html-css/basic/font-awesome
+
+
+
+・font-awesome
+	└ https://fontawesome.com/
+・fontello（koreyome.comで使ってる）
+	└ http://fontello.com/
+・Google Material Icons
+	└ https://material.io/tools/icons/?style=baseline
+
+
+
+
+
+
+
+
+─────
+ 名称
+─────
+◆iOS エンジニア以外にも知ってほしい iOS アプリ用語 - UI 部品編- #Zaim｜akatsuki174
+https://blog.zaim.co.jp/n/n793dc5684c3d
+
+	アクティビティインジケータ
+	ナビゲーションバー / ナビバー
+	アクションシート
+	アラート
+	テーブルビュー
+	コレクションビュー
+	ステータスバー
+	タブバー
+	ツールバー
+	ピッカー
+	プログレスバー
+	ページコントロール
+	セグメンティッドコントロール
+	スライダー
+	スイッチ
+	ネットワークアクティビティインジケータ
+	ポップオーバー
+
+
+◆Webデザインでよく使うUI要素の名称・用語一覧 - Qiita
+https://qiita.com/shiraishiwataru/items/7728ffbc4dc390c92b06
+
+	ポップアップ表示系
+		▼ アラート
+		▼ モーダルウィンドウ
+		▼ ポップアップ表示・ポップオーバー表示・ツールチップ
+		▼ ポップアップウィンドウ
+	ナビゲーション・メニュー系
+		▼ パンくずリスト
+		▼ ハンバーガーメニュー
+		▼ ドロワーメニュー
+		▼ プルダウンメニュー
+		▼ スプリングボード
+	表示非表示系
+		▼ カルーセル
+		▼ アコーディオン
+	状態通知系
+		▼ プログレスバー
+		▼ ステップバー
+		▼ プレースホルダー
+	レイアウト系
+		▼ レスポンシブデザイン
+		▼ リキッドレイアウト
+	表現技法
+		▼ パララックス
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================================
+
+css ui parts name
+https://www.google.co.jp/search?hl=ja&ei=ZqpxXIfiIpC4mAWp9KJo&q=css+ui+parts+name&oq=css+ui+parts+name&gs_l=psy-ab.3...81530.89839..90036...0.0..0.134.1484.16j1......0....1..gws-wiz.......35i39j0i67j0i4j0i131i4j0j0i10j0i30j0i13j0i13i30j0i13i4i30j0i19j0i30i19j0i10i30i19j0i8i30i19j0i5i30i19j33i21.LqDgmyzvx7k
+
+bootstrap 4 コーディングガイド
+https://www.google.co.jp/search?q=bootstrap+4+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%AC%E3%82%A4%E3%83%89&ie=utf-8&oe=utf-8&hl=ja
+
+bootstrap 4 width くっつける 横幅
+https://www.google.co.jp/search?q=bootstrap+4+width+%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%8B+%E6%A8%AA%E5%B9%85&ie=utf-8&oe=utf-8&hl=ja
+
+◆APB CSS - Atomic Parts Base CSS -
+http://apbcss.com/
+
+◆正しいコーディングが身につくエンジニア英語の手引き 〜文法とクラス／メソッド、命名規則〜 | Find Job! Startup
+https://www.find-job.net/startup/english-for-engineers-naming-conventions
+
+◆MindBEMding – getting your head ’round BEM syntax &ndash; CSS Wizardry &ndash; CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts
+https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
+
+◆codic - プログラマーのためのネーミング辞書
+https://codic.jp/
+
+◆UIデザインがさらに捗る！Prottのワイヤーフレーム機能を使ってみました | 東京上野のWeb制作会社LIG
+http://liginc.co.jp/web/tool/app/163940
+
+◆The 8 most important UI animations of all time | Inside Design Blog
+https://www.invisionapp.com/inside-design/the-8-most-important-ui-animations-of-all-time/
+
+◆UIデザイン時の「ユーザーの使いづらい」には2パターンある。350万ダウンロードの家計簿アプリ「Zaim」が教える、UI改善の失敗談。 | アプリマーケティング研究所
+https://appmarketinglabo.net/zaim-ui/
+
+◆  これぞプロのデザインテクニック！UIデザインの印象がよくなるデザインの知識とテクニックのまとめ | コリス
+https://coliss.com/articles/build-websites/operation/design/cheat-codes-for-designing-user-interfaces.html
+
+◆  最近のUXデザインにおける、スマホアプリのインターフェイスに使用されているアイデアのまとめ | コリス
+https://coliss.com/articles/build-websites/operation/work/creative-ux-design-concepts.html
+
+◆WEBデザイナーとUIデザイナーは違う職業なの？（求められるスキルや傾向など）｜スズキアユミ（デザインメモ / UNITZ）｜note
+https://note.mu/designmemo/n/n8ead200cd1b8
+
+◆今さら聞けない！UI/UXを確実に学ぶオススメの良スライド10選｜ferret [フェレット]
+https://ferret-plus.com/5167
+
+◆アクセシビリティ～Bootstrap4移行ガイド
+https://cccabinet.jpn.org/bootstrap4/getting-started/accessibility
+
+◆【Bootstrap4】グリッドレイアウト基本 &#8211; niwaka-web
+https://niwaka-web.com/bs4_grid/
+
+
+
+
+
+
+
+◆  Sketchに入れたい、便利なプラグインまとめ | creive【クリーブ】
+https://creive.me/archives/9893/
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
