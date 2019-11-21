@@ -66,6 +66,11 @@ https://liginc.co.jp/373882
 
 
 
+◆【第1回】Vue.js 入門 〜Hello World編〜 – 株式会社ライトコード
+https://rightcode.co.jp/blog/information-technology/vue-js-introduction-hello-world
+
+◆【第2回:前編】Vue.js 入門 〜ディレクティブ編〜 – 株式会社ライトコード
+https://rightcode.co.jp/blog/information-technology/vue-js-introduction-directive
 
 
 
