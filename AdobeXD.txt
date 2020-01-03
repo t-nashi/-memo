@@ -8,7 +8,32 @@
 
 
 
+◆簡単で便利！Sketch, Figma, AdobeXDなどにコピペで利用できるUIデザイン用のカラーパレットを生成 -CopyPalette | コリス
+https://coliss.com/articles/build-websites/operation/design/svg-color-paette-copypalette.html
 
+◆Adobe XDをもっと使いこなすヒント！ 第39回 ドキュメント間でスタイルを共有する - Adobe Blog
+https://blogs.adobe.com/japan/cc-web-xd-protips-39-document-link-style/
+
+◆Adobe XDがSketchよりも優れている理由 | コリス
+https://coliss.com/articles/build-websites/operation/work/why-adobe-xd-is-better-than-sketch.html
+
+◆2019年のAdobe XD：これまでの長い道のりと、これから向かうところ #AdobeXD - Adobe Blog
+https://blogs.adobe.com/japan/cc-web-xd-roadmap-future-plans-recent-features/
+
+◆デザインシステムでアニメーションを扱う！後編：実装のガイドライン | アドビUX道場 #UXDojo - Adobe Blog
+https://blogs.adobe.com/japan/cc-web-animation-design-system-implementation/
+
+◆2019年最新：Adobe XDのおすすめプラグイン10選 | Web Design Trends
+https://webdesign-trends.net/entry/10275
+
+◆Wires jpを使い倒せばウェブデザインはもっと楽しい！ - Adobe Blog
+https://blogs.adobe.com/japan/cc-web-wires-jp-2-new-workflows/
+
+◆Adobe XDは確実に進化している！テキストには依存せず、アクセシブルなUIを構築するためのUIキット | コリス
+https://coliss.com/articles/build-websites/operation/work/text-free-ui-kit-for-adobe-xd.html
+
+◆Adobe XDとBootstrapで作業を効率化 第2回: UIキットをデザインシステムLiteのデザインガイドに落とし込む - Adobe Blog
+https://blogs.adobe.com/japan/adobe-xd-bootstrap-designsytem-lite-2-uikit/
 
 ◆Adobe XDのスキルを高めよう！UI/UXデザインチャレンジ | Adobe XD Creative Challenge シーズン3 #AdobeXD #Challenge - Adobe Blog
 https://blogs.adobe.com/japan/cc-web-adobe-xd-creative-challenge-season3/
