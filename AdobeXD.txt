@@ -10,7 +10,8 @@
 
 
 
-
+◆Adobe XDのスキルを高めよう！UI/UXデザインチャレンジ | Adobe XD Creative Challenge シーズン3 #AdobeXD #Challenge - Adobe Blog
+https://blogs.adobe.com/japan/cc-web-adobe-xd-creative-challenge-season3/
 
 ◆Adobe XD 2019年8月アップデートリリース！CSSコード自動生成（第一弾）、ローカルでのPhotoshop編集連携、コンポーネントの操作性改善など #AdobeXD - Adobe Blog
 https://blogs.adobe.com/japan/cc-web-xd-august-2019-update-auto-css-plugins-panel-more/
