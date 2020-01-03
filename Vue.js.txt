@@ -5,7 +5,11 @@
 
 
 
+◆複数のページを切り替える、Nuxt.jsのルーティング機能を学ぼう (1/3)：CodeZine（コードジン）
+https://codezine.jp/article/detail/11828
 
+◆画面要素を再利用できる、Vue.jsのコンポーネント機能を学ぼう (1/3)：CodeZine（コードジン）
+https://codezine.jp/article/detail/11856
 
 ◆Vue.js設計地図 〜設計概念の依存関係からフロントエンド設計を見つめ直す〜
 https://tech.plaid.co.jp/architecture_frontend_modeling/
