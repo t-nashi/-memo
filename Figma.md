@@ -1,3 +1,8 @@
+
+
+◆figmaで使えるサービス資料テンプレート配布します｜あか理＠デザイナー｜note
+https://note.com/akari61/n/nc72537d813d4
+
 ◆Figma
 https://www.figma.com/files/recent
 
