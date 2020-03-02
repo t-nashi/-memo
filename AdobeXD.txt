@@ -4,6 +4,8 @@
 
 
 
+◆Adobe XDでアニメーションのあるプロトタイプをデザインしよう | Webクリエイターボックス
+https://www.webcreatorbox.com/inspiration/adobe-xd-auto-animation
 
 
 ◆Keisuke TodorokiさんはTwitterを使っています: 「XD26の新機能「コンテンツに応じたレイアウト」第一弾はXDが認識したパディングを守って、ラベル変更時のボタンの長さなどを自動調整してくれます。 Adobe XD 2020年1月アップデートリリース！コンテンツに応じたレイアウト、新しいプラグインAPIなど #AdobeXD https://t.co/coynFPLpxj https://t.co/IigHUL449N」 / Twitter
