@@ -28,20 +28,33 @@
 		</b>
 	</td>
   <td>docker-machine のバージョン確認</td>
- </tr>
+</tr>
 <tr>
   <td><b>$ docker-compose up -d</b></td>
   <td>コンテナの作成と開始</td>
  </tr>
  <tr>
   <td><b>$ docker-compose ps</b></td>
-  <td>コンテナ一覧 （docker-compose）</td>
+  <td>起動中のコンテナ一覧表示（docker-compose）</td>
  </tr>
  <tr>
-  <td><b>$ docker ps</b></td>
-  <td>コンテナ一覧 （docker）</td>
+  <td>
+		<b>
+			$ docker ps<br>
+			$ docker ps -a
+		</b>
+	 </td>
+  <td>起動中のコンテナ一覧表示（docker）</td>
  </tr>
  <tr>
+  <td>
+		<b>
+			$ docker ps -a
+		</b>
+	 </td>
+  <td>起動してないものも含む全てのコンテナ一覧表示 （docker）</td>
+ </tr>
+<tr>
   <td><b>$ docker images</b></td>
   <td>イメージ一覧 （docker）</td>
  </tr>
