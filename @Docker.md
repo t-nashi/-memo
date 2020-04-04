@@ -21,6 +21,15 @@
   <td>docker-compose のバージョン確認</td>
  </tr>
  <tr>
+  <td>
+		<b>
+			$ docker-machine version<br>
+			$ docker-machine -v
+		</b>
+	</td>
+  <td>docker-machine のバージョン確認</td>
+ </tr>
+<tr>
   <td><b>$ docker-compose up -d</b></td>
   <td>コンテナの作成と開始</td>
  </tr>
@@ -50,3 +59,23 @@
  </tr>
 </table>  
 <br><br><br>
+
+
+## windows（2020/04/04sat）
+
+<b>$ docker -v</b><br>
+Docker version 19.03.1, build 74b1e89
+
+<b>$ docker-compose -v</b><br>
+docker-compose version 1.24.1, build 4667896b
+
+<b>$ docker-machine -v</b><br>
+docker-machine version 0.16.1, build cce350d7
+<br><br><br>
+
+
+
+
+
+
+
