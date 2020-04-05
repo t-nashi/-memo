@@ -70,6 +70,10 @@
   <td><b>$ docker rmi xxxxx</b></td>
   <td>イメージの削除 （docker）</td>
  </tr>
+ <tr>
+  <td><b>$ docker rmi xxxxx -f</b></td>
+  <td>強制的なイメージの削除 （docker）</td>
+ </tr>
 </table>  
 <br>
 
