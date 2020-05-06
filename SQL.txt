@@ -1,0 +1,75 @@
+========================================
+ idから情報を検索
+========================================
+SELECT name,age FROM target_table_name WHERE (
+id = 111 OR 
+id = 222 OR 
+id = 333
+);
+
+
+========================================
+ 【複数テーブルからの値参照01】target_table_1内のidの値を検索して、target_table_2内の値とidで一致したtarget_table_2のjobを取得する
+========================================
+SELECT
+ tbl1.id,
+ tbl1.name,
+ tbl1.age,
+ tbl2.job
+FROM
+ target_table_1 tbl1
+INNER JOIN
+ target_table_2 tbl2
+ON
+ tbl1.id = tbl2.id 
+WHERE (
+ tbl1.id = 111
+);
+
+
+
+
+========================================
+ 【複数テーブルからの値参照02】target_table_1内のidの値を検索して、target_table_2内の値とidで一致したtarget_table_2のjobを取得する
+ ＋ 更に別テーブルの情報も取得
+========================================
+SELECT
+ tbl1.id,
+ tbl1.name,
+ tbl1.age,
+ tbl2.job,
+ tbl3.gender,
+ tbl4.address 
+FROM ((
+ target_table_1 tbl1
+INNER JOIN
+ target_table_2 tbl2
+ON
+ tbl1.id = tbl2.id
+)
+INNER JOIN
+ target_table_4 tbl4
+ON
+ tbl1.id = tbl4.id
+)
+INNER JOIN
+ target_table_3 tbl3
+ON
+ tbl1.id = tbl3.number
+WHERE (
+ tbl1.id = 111
+AND
+ tbl3.gender = 'men'
+);
+
+
+
+
+
+
+
+
+
+
+
+
