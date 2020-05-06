@@ -1,0 +1,69 @@
+▼ Chrome - link
+
+chrome://extensions/
+
+chrome://inspect/#devices
+
+
+
+
+
+
+
+▼ GetTabnfo
+https://chrome.google.com/webstore/detail/gettabinfo/iadhcoaabobddcebhmheikmbcjcigjhc
+
+・Chromeでタブをたくさん開きがちな人に届け！作業効率を上げまくる拡張機能4選 | 東京のWeb制作会社LIG
+https://liginc.co.jp/485496
+
+
+{"targetVersion":"2.0,1",
+  "templates":
+  [
+    {
+      "name":"・title(￥t)url",
+      "value":"%%TITLE%%\t%%URL%%\n"
+    },
+    {
+      "name":"・◆title(￥n)url",
+      "value":"◆%%TITLE%%\n%%URL%%\n\n"
+    },
+    {
+      "name":"・html-li",
+      "value":"<li><a href=\"%%URL%%\">%%TITLE%%</a></li>\n"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
