@@ -1,0 +1,46 @@
+
+==================================================
+ アセット書き出し
+==================================================
+
+▼ 一列
+72x72 icon-72x72.png, 96x96 icon-96x96.png, 128x128 icon-128x128.png, 144x144 icon-144x144.png, 152x152 icon-152x152.png, 192x192 icon-192x192.png, 384x384 icon-384x384.png, 512x512 icon-512x512.png
+
+▼ 改行
+72x72 icon-72x72.png, 
+96x96 icon-96x96.png, 
+128x128 icon-128x128.png, 
+144x144 icon-144x144.png, 
+152x152 icon-152x152.png, 
+192x192 icon-192x192.png, 
+384x384 icon-384x384.png, 
+512x512 icon-512x512.png
+───
+サイズ 書き出し名
+
+
+
+◆Photoshop CCの基本 第4回：Web用画像を書き出す4つの方法をマスター！ - Adobe Blog
+https://blogs.adobe.com/japan/web-design-photoshop-cc-basics-export-images/
+
+◆Photoshop でのレイヤーから画像アセットの作成
+https://helpx.adobe.com/jp/photoshop/using/generate-assets-layers.html
+
+◆ベテランほど知らずに損してるPhotoshopの新常識（4）まだスライスで消耗してるの？「画像アセットの生成」でスライス不要のサクサク切り出し - Adobe Blog
+https://blogs.adobe.com/japan/dtp-photoshop-kihon-tips-04/
+
+◆【スライス不要】Photoshop「画像アセット生成」の基本とつまずきがちな5つのコト | 東京のWeb制作会社LIG
+https://liginc.co.jp/225512
+
+
+
+
+
+
+
+
+
+
+
+
+
