@@ -1,0 +1,105 @@
+
+==================================================
+ アセット書き出し
+==================================================
+
+▼ 一列
+72x72 icon-72x72.png, 96x96 icon-96x96.png, 128x128 icon-128x128.png, 144x144 icon-144x144.png, 152x152 icon-152x152.png, 192x192 icon-192x192.png, 384x384 icon-384x384.png, 512x512 icon-512x512.png
+
+▼ 改行
+72x72 icon-72x72.png, 
+96x96 icon-96x96.png, 
+128x128 icon-128x128.png, 
+144x144 icon-144x144.png, 
+152x152 icon-152x152.png, 
+192x192 icon-192x192.png, 
+384x384 icon-384x384.png, 
+512x512 icon-512x512.png
+───
+サイズ 書き出し名
+
+
+
+◆Photoshop CCの基本 第4回：Web用画像を書き出す4つの方法をマスター！ - Adobe Blog
+https://blogs.adobe.com/japan/web-design-photoshop-cc-basics-export-images/
+
+◆Photoshop でのレイヤーから画像アセットの作成
+https://helpx.adobe.com/jp/photoshop/using/generate-assets-layers.html
+
+◆ベテランほど知らずに損してるPhotoshopの新常識（4）まだスライスで消耗してるの？「画像アセットの生成」でスライス不要のサクサク切り出し - Adobe Blog
+https://blogs.adobe.com/japan/dtp-photoshop-kihon-tips-04/
+
+◆【スライス不要】Photoshop「画像アセット生成」の基本とつまずきがちな5つのコト | 東京のWeb制作会社LIG
+https://liginc.co.jp/225512
+
+
+
+==================================================
+ 雑
+==================================================
+
+Photoshop-Plugin_集中線、マンガ表現
+◆Comic Kit
+https://www.adobeexchange.com/creativecloud.details.13159.html#.V9dmvJiLRhF
+
+◆これは便利！Photoshopでマンガの集中線を一発で写真に描く方法 [Comic Kit] | studio9
+https://photo-studio9.com/photoshop-zoom-line/
+
+◆&#12510;&#12531;&#12460;&#21046;&#20316;&#12434;&#25903;&#25588;&#12377;&#12427;Photoshop CC&#29992;&#28961;&#20767;&#12450;&#12489;&#12458;&#12531;&#30331;&#22580; &ndash; Adobe Creative Station
+https://blogs.adobe.com/creativestation/ccdojo-comic-kit-for-photoshop-cc
+
+
+
+
+
+
+
+PhotoshopTips 包括光源の変更方法
+http://guchitaka.com/photoshoptips-%E5%8C%85%E6%8B%AC%E5%85%89%E6%BA%90%E3%81%AE%E5%A4%89%E6%9B%B4%E6%96%B9%E6%B3%95/
+
+
+1.Photoshopを起動。
+2.何もドキュメントを開いていない状態にする。＊ココ重要
+3.メニューから「レイヤー」→「レイヤースタイル」→「包括光源」を選ぶ。
+（alt ＞ L ＞ V ＞ L）
+
+
+■Photoshop　CS6　でブラシの筆圧設定が反映されない
+https://forums.adobe.com/thread/1541151
+
+
+■ダウンロード可能なプラグインおよびコンテンツ | Photoshop CC
+https://helpx.adobe.com/jp/photoshop/kb/downloadable-plugins-and-content.html#ScriptingListener plug-in
+ScriptingListener プラグイン
+
+
+
+■Photoshop
+レイヤーのリネームの速度を上げる レイヤー名はダブルクリックで名前を選択して変更するしか 方法は無いと思っていたが、 [レイヤー]→[レイヤー名(グループ名)の変更] という項目があったので F2にショートカットをあてた。
+
+
+■Photoshop
+レイヤー(L) ＞ レイヤースタイル(Y) ＞ 包括高原(L)
+
+
+
+
+■Photoshop整列ショートカット
+http://www.dtp-transit.jp/adobe/photoshop/post_2093.html
+レイヤー ＞ レイヤーを選択範囲に整列
+・上端		Shift + Ctrl + F9
+・垂直中央	Shift + F6
+・下端		Shift + F11
+・左端		Shift + Ctrl + F5
+・左右中央	Shift + F10
+・右端		Shift + Ctrl + F7
+
+
+
+
+
+
+
+
+
+
