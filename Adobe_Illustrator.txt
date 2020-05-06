@@ -1,0 +1,142 @@
+
+■[Illustrator] アートボード書き出し時にアートボードサイズで書き出すために設定するところ
+ファイル ＞ ドキュメント設定(Alt+Ctrl+P) ＞ 全般：裁ち落とし-全て0に
+
+
+■[Illustrator] アートボード毎に書き出し（※裁ち落としまでの大きさで書き出されるので注意！）
+ファイル ＞ 書き出し（Alt ＞ F ＞ E）
+↓
+「アートボードごとに作成」にチェックを入れる
+↓
+解像度： スクリーン(72ppi)
+アンチエイリアス： 文字に最適(ヒント)
+インターレース： チェックしない
+背景色： 透明
+
+
+
+
+
+Illustrator で円を均等に分割する方法
+https://cloudear.jp/blog/?p=946
+
+
+パスファインダー ＞ 分割
+
+
+
+
+
+
+
+
+
+Illustrator_書式＞フォントの検索・置換
+Illustrator CS5でフォントの検索・置換
+http://jojo.weblike.jp/?p=1223
+
+
+
+
+
+
+Illustratorのパスファインダーで合体・交差・分割・切り抜きなどがどうなるのか一目で分かるチートシート
+https://coliss.com/articles/build-websites/operation/design/cheatsheet-illustrator-pathfinder.html
+https://s3.amazonaws.com/et-freebies/pathfinder-cheat-sheets.pdf
+
+
+
+■Illustrator制御文字表示切り替え（Ctrl + Alt + I）
+http://immature.01kawa.com/tool/illustrator/text-mark/
+
+イラストレーターでテキストの後ろに変なマークがついている
+http://immature.01kawa.com/tool/illustrator/text-mark/
+
+書式 ＞ 制御文字を表示（Ctrl + Alt + I）
+
+
+
+
+
+■WINとMAC
+%USERPROFILE%\AppData\Roaming\Adobe\CEP\extensions
+~/Library/Application Support/Adobe/CEP/extensions/
+
+
+
+
+http://www.dtp-transit.jp/adobe/illustrator/post_1518.html
+http://www.dtp-transit.jp/adobe/illustrator/post_1896.html
+http://www.dtp-transit.jp/adobe/illustrator/post_2040.html
+http://www.openspc2.org/book/IllustratorCS6/
+http://www.openspc2.org/book/IllustratorCS6/easy/path/001/index.html
+
+
+
+
+■【謎】illustrator 自由変形ツール バウンディングボックス 表示されない
+
+
+
+■【Illustrator】パスファインダー、合体した際に片方のオブジェクトが持つコーナーが影響してしまうのを回避する方法
+
+コーナーが付いたオブジェクトを選択
+オブジェクト ＞ アピアランスを分割
+
+
+■パスに沿った文字を後から設定変更
+
+書式 ＞ パス上文字オプション ＞ パス上文字オプション...
+
+
+■Illustrator
+・中央ぞろえ ＝ 対象の物のサイズを同じにする
+・効果 ＞ 角丸
+・環境設定Ctrl + K ＞ 線幅と効果も拡大・縮小
+・線幅ツール
+・線 ＞ プロファイルが便利
+
+
+■Illustrator 等間隔に分布
+01. 2つ以上のオブジェクトを選択
+02. キーにしたいオブジェクトをクリック（太めの枠が付く）
+03. 数値入力が有効になるので設定して対象の分布アイコンをクリック
+
+
+■Illustrator 拡大縮小時に線幅も固定で拡縮
+Ctrl + k
+編集 ＞ 環境設定 ＞ 一般
+↓
+一般 ＞ 線幅と効果も拡大・縮小
+
+
+
+
+■Illustrator オブジェクト＞すべてを表示、で非表示のオブジェクトだけが選択状態で表示されるので、そのまま削除
+http://okwave.jp/qa/q3909833.html
+
+
+■イラストレーターで、角度をつけたものを、ピッタリ0度に戻す... - Yahoo!知恵袋
+http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1188399071
+
+http://oshiete.goo.ne.jp/qa/1942541.html
+
+https://www.google.co.jp/search?q=illustrator+%E8%A7%92%E5%BA%A6+%E6%88%BB%E3%81%99&ie=utf-8&oe=utf-8&hl=ja
+
+
+■illustrator 回転ツール 中心点
+http://oshiete.goo.ne.jp/qa/4833939.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
