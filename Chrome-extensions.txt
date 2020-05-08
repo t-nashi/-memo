@@ -4,6 +4,17 @@ chrome://extensions/
 
 chrome://inspect/#devices
 
+chrome://bookmarks/
+
+
+
+
+◆【Google Chrome】「特別なURL」でトラシューや開発、管理に便利な機能を呼び出す（一覧あり）：Google Chrome完全ガイド - ＠IT
+https://www.atmarkit.co.jp/ait/articles/1611/21/news027.html
+
+
+
+
 
 
 
