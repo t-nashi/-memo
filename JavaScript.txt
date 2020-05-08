@@ -83,9 +83,246 @@ ES2015
 
 ▼ オブジェクトの基礎(1) オブジェクトリテラル
 
+・01. オブジェクトとは
+──
+オブジェクトは名前と値の集まり（連想配列、辞書）
+
+・02. オブジェクトリテラルによるオブジェクトの生成
+──
+例）
+名前					値
+suit				"ハート"				← プロパティ
+rank				"A"					← プロパティ
+
+オブジェクトの一つ一つのデータ（名前と値の組）はオブジェクトのプロパティと呼ばれる
+suitやrankなどのプロパティの名前部分をプロパティ名 or キーと言う。
+
+var card = { suit: "ハート", rank: "A" };
+
+card.suit 		// → ハート
+card["rank"] 	// → A
+
+var obj = {};
+console.log(obj);		// → Object{ }
+
+・03. プロパティの追加と削除
+──
+
+追加：
+card.value = 14;
+
+削除：
+delete card.rank
+
+・04. in演算子によるプロパティの存在確認
+──
+console.log("suit" in card);		// → true
+
+
+・05. オブジェクトリテラルの例
+──
+
+・2次元の点を表すオブジェクト
+var p = { x: 1.0, y: 2.5 };
+
+・円を表すオブジェクト
+var circle = {
+	center: {x: 1.0, y: 2.0},
+	radius: 2.5
+}
+
+・会員情報を表すオブジェクト
+var person = {
+	name: "田中佐藤"
+	age: 18,
+	sex: "男",
+	married: false
+}
+
+
+・06. メソッド										
+──
+プロパティの型が関数系であるとき、そのプロパティはメソッドと呼ばれる
+
+
+・07. オブジェクトは参照型
+──
+var a = card;
+console.log(a.suit); 			// → ハート
 
 
 
+
+
+
+▼ 関数リテラルによる関数の定義
+関数は関数リテラルで定義することもできる
+
+var square = function(x) { return x+x; };
+
+function(x) { ... } の部分が関数リテラル。
+関数リテラル = 匿名関数や無名関数とも呼ばれる
+
+
+
+▼ オブジェクトのメソッド
+var circle = {
+	center: {x: 1.0, y: 2.0},
+	radius: 2.5
+	area: function() {
+		return Math.PI*this.radius*this.radius;
+	}
+}
+cicle.area()			// → 19.634954084936208
+
+
+cicle.translate = function(a, b) {
+	this.center.x = this.center.x + a;
+	this.center.y = this.center.y + b;
+}
+
+
+
+
+
+▼ オブジェクトの基礎(2) コンストラクタ
+
+・01. コンストラクタによるオブジェクトの生成
+──
+function Card(suit,rank) {
+	this.suit = suit;
+	this.rank = rank;
+}
+var card = new Card("ハート","A");
+console.log(card);									// → Card {suit: "ハート", rank: "A"}
+
+コンストラクタ 					new 演算子でオブジェクトを生成することを想定した関数
+
+var card = {};
+card.suit = "ハート";
+card.rank = "A";
+
+コンストラクタからnew演算子によって生成されたオブジェクトを、そのコンストラクタのインスタンスと呼ぶ
+インスタンスとは「実体」という意味
+
+
+
+
+
+▼ オブジェクトの基礎(3) 組み込みオブジェクト
+
+例）プログラムを実行した場合の所要時間をミリ秒単位で求められる
+var start = new Date();
+/* プログラムのコードをここに記述 */
+var end = new Date();
+var elapsed = end - start;				// プログラムの所要時間（ms単位）
+
+
+・Functionコンストラクタ
+var square = new Function("x", "return x*x");
+var 変数名 = new Function(引数1, ..., 引数n, 関数の処理);
+
+
+・その他の組み込みオブジェクト
+・グローバルオブジェクト				プログラムのどこからでも利用できるオブジェクト
+・JSON									JSONを扱うためのオブジェクト
+・Math									数学関数と数学定数を提供する
+・Reflect								インターセプト可能な操作に対する機能を提供
+
+
+・グローバルオブジェクト
+	プログラムのどこからでも利用可能
+分類									プロパティ
+・グローバルプロパティ			undefined、NaN、Infinity
+・コンストラクタ関数				Object()、String()、Number()など
+・グローバル関数					parseInt()、parseFloat()、isNaNなど
+・組み込みオブジェクト 		Math、JSON、Reflect
+console.dir(window);
+
+
+・JavaScriptのオブジェクトの分類
+・ネイティブオブジェクト				組み込みコンストラクタ（Object、String、Number、Boolean、Array、Function）で生成されるオブジェクトやJSON、Math、Reflectなど
+・ホストオブジェクト					ブラウザオブジェクト（Window、Navigator、History、Location）、DOMで定義されているオブジェクト、AjaxのためのXMLHttpRequestオブジェクト、HTML5各種APIなど
+・ユーザー定義オブジェクト			xxx
+
+
+
+
+▼ 配列の基礎
+var evens = [2, 4, 6, 8];
+
+var empty = [];
+console.log(empty);			// → []
+
+evens.length;			// → 4
+
+
+・Arrayコンストラクタによる生成
+var evens = new Array(2, 4, 6, 8);
+var empty = new Array();
+var a = new Array(2, 4);
+var various = new Array(3.14, "pi", true, {x:1,y:2}, [2,4,6,8]);
+
+
+・要素の追加と削除
+a.push("D");
+delete a[1];
+
+
+・疎（まばら）な配列
+インデックスが0から順番に埋まっていない配列（間が抜けてundefined状態になっている配列）
+
+
+・配列の要素の存在確認
+for(var i in a) console.log(i);					// → 0、1、2、4が表示される
+a.hasOwnProperty("3");									// → false
+a.hasOwnProperty("4");									// → true
+
+
+
+
+▼ 呼び出し式
+・変数、オブジェクトのプロパティ、配列要素、関数の呼び出し式、メソッドの呼び出し式
+sum、 circle.ragius、 a[3]、 square(5)、 card.getSum()
+
+
+▼ 条件演算子（?:）三項演算子
+var parity = (a%2 == 0)? "偶数" : "奇数";
+
+↓↓↓ 同じ
+
+if(a%2 == 0) {
+	parity = "偶数";
+} else {
+	parity = "奇数";
+}
+
+
+▼ eval関数
+var x = 1;
+eval("x++;");
+
+↓↓↓ 同じ
+
+var x = 1;
+x++;
+
+
+▼ 文字列から数値への変換
+var s = "2";
+s - 0;									// → 2
++s;											// → 2
+
+parseInt("3.14")				// → 3
+parseFloat("3.14")			// → 3.14
+
+Number(123)							// → 
+Number(true)						// → 1
+Number(false)						// → 0
+
+▼ 論理値への変換
+!!x
+Boolean(x)
 
 
 
@@ -104,17 +341,30 @@ ReferenceError: i is not defined
 
 ・スコープ									範囲
 ・クロージャー								「関数宣言の中に別の関数宣言を書けること（入れ子の関数宣言）」や「ローカル変数を参照している関数内変数」と言われます。
+・メソッド										プロパティの型が関数系であるとき、そのプロパティはメソッドと呼ばれる
 
+・関数名にはキャメル記法
+・定数（const）は大文字で定義
 
+・グローバルスコープ
+・ローカルスコープ
+・ブロックスコープ（let・constの変数宣言/宣言子）
 
+・関数リテラル = 匿名関数や無名関数とも呼ばれる
 
+・メソッドはプロパティ
 
+・コンストラクタ 					new 演算子でオブジェクトを生成することを想定した関数
+コンストラクタからnew演算子によって生成されたオブジェクトを、そのコンストラクタのインスタンスと呼ぶ
 
+・Stringコンストラクタ（new String）
+・Stringオブジェクトの主なメソッド（toString()、charAt(n)など）
 
+・ビット演算
+・eval関数
+・条件演算子（?:）
 
-
-
-
+・Numberオブジェクトのメソッド（toString、toLocaleStringなど）
 
 
 
