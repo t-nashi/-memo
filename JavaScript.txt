@@ -6,14 +6,24 @@
 
 
 
-◆脱jQueryの道その２:あの機能は素のJavaScriptでどうやるんだろ編 | webOpixel
-https://www.webopixel.net/javascript/1516.html
+
+▼ ECMAScript（エクマスクリプト）のバージョンの話
+
+ECMAScript 3 (December 1999)
+ECMAScript 4 (abandoned July 2008)
+ECMAScript 5 (December 2009)
+ECMAScript 6(2015)
+ECMAScript 7(2016)
+ECMAScript 8(2017)
+ECMAScript 9(2018)
 
 
+OLD : ES5
+NEW : ES6 | ES2015 | ECMAScript 2015
 
+Babel … トランスパイラ（トランスコンパイラ）
+ES6 → ES5
 
-
-ECMAScript（エクマスクリプト）
 
 ECMAScriptのバージョン5.1 → ES5
 
@@ -28,12 +38,146 @@ ES2015
 
 
 
-OLD : ES5
-NEW : ES6 | ES2015 | ECMAScript 2015
+
+▼ 変数名の命名規則
+・キャメル記法（ローワーキャメル記法）		： newName、 createLifeGame
+・パスカル記法（アッパーキャメル記法）	： NewName、 CreateLifeGame
+・アンダースコア記法（スネーク記法）		： new_name、 create_life_game
 
 
-Babel … トランスパイラ（トランスコンパイラ）
-ES6 → ES5
+
+
+▼ ES6の新しい変数宣言「let」と「const」の使い方
+
+・ES5までの変数宣言は「var」のみ
+・letは「再宣言するとエラーが出る」
+・constは「定数としてあつかえる宣言」
+
+		◆ES6の新しい変数宣言「let」と「const」の使い方 | 東京のWeb制作会社LIG
+		https://liginc.co.jp/267624
+
+		◆JavaScriptでクロージャー - Qiita
+		https://qiita.com/asaori/items/144e792404c70fc3540a
+
+
+
+
+
+▼ ES6でのデータ型に関する拡張
+
+・シンボル
+	シンボルの生成
+	var sym1 = Symbol();
+	var sym2 = Symbol();
+
+・テンプレートリテラル
+	バッククォテーション（`）で文字列を囲む
+	\nを使わずにフツーの改行とかがそれと同じ役割になる
+	・プレースホルダーを含めることができる
+	例）
+	var a=2, b=3
+	console.log(`${a} + ${b} = ${a+b}`);	// → 2+3=5
+
+
+
+
+▼ オブジェクトの基礎(1) オブジェクトリテラル
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▼ メモ
+・undefined								値が無い
+・i is not defined				宣言されていない
+ReferenceError: i is not defined
+
+・スコープ									範囲
+・クロージャー								「関数宣言の中に別の関数宣言を書けること（入れ子の関数宣言）」や「ローカル変数を参照している関数内変数」と言われます。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▼ JavaScriptの特徴
+・01. インタプリタ型（一行ごとに機械語に翻訳）
+・02. 動的なプロトタイプベースのオブジェクト指向言語
+・03. 動的型付け言語
+・04. 関数が第一級のオブジェクト
+・05. 関数はクロージャを定義する
+
+▼ JavaScriptの技術的要素
+・01. ECMAScript（コア言語 - JavaScriptの中核となる技術）
+・02. クライアントサイド固有の技術要素
+	・Windowインターフェース			JavaScriptからブラウザやウィンドウを操作する機能を提供
+	・DOM										JavaScriptからHTML文書の要素を操作する機能を提供
+	・XMLHttpRequest				サーバーと非同期通信を行う機能を提供
+	（HTML5のAPIも）
+・03. サーバーサイド固有の技術要素
+	・Node.js 							Googleの開発したJavaScriptの実行環境
+	・Rhino									オープンソースで開発されMozillaが管理しているJavaScriptの実行環境
+	・Aptana Jaxer					Aptana社が開発し、現在はオープンソースで開発されているJavaScriptの実行環境
+
+
+・04. 
+・05. 
+
+
+
+
+
+
+
+
+
+
+
+◆徹底マスター JavaScriptの教科書｜SBクリエイティブ
+https://www.sbcr.jp/product/4797388640/
+
+	◆【サンプルデータの公開】『徹底マスター JavaScriptの教科書』｜SBクリエイティブ
+	https://www.sbcr.jp/support/13788/
+
+
+
+◆JavaScript | MDN
+https://developer.mozilla.org/ja/docs/Web/JavaScript
+
+
+
+
+
+◆脱jQueryの道その２:あの機能は素のJavaScriptでどうやるんだろ編 | webOpixel
+https://www.webopixel.net/javascript/1516.html
+
+
+
+
+
 
 
 
@@ -72,6 +216,10 @@ https://es6console.com/
 
 ◆Babel · The compiler for next generation JavaScript
 https://babeljs.io/
+
+
+
+
 
 
 
