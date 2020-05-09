@@ -1,14 +1,12 @@
 
 
 
-
-
-
-
-
+────────────────────
+ 基礎
+────────────────────
 
 ▼ ECMAScript（エクマスクリプト）のバージョンの話
-
+────────────────────
 ECMAScript 3 (December 1999)
 ECMAScript 4 (abandoned July 2008)
 ECMAScript 5 (December 2009)
@@ -40,6 +38,7 @@ ES2015
 
 
 ▼ 変数名の命名規則
+────────────────────
 ・キャメル記法（ローワーキャメル記法）		： newName、 createLifeGame
 ・パスカル記法（アッパーキャメル記法）	： NewName、 CreateLifeGame
 ・アンダースコア記法（スネーク記法）		： new_name、 create_life_game
@@ -48,7 +47,7 @@ ES2015
 
 
 ▼ ES6の新しい変数宣言「let」と「const」の使い方
-
+────────────────────
 ・ES5までの変数宣言は「var」のみ
 ・letは「再宣言するとエラーが出る」
 ・constは「定数としてあつかえる宣言」
@@ -64,7 +63,7 @@ ES2015
 
 
 ▼ ES6でのデータ型に関する拡張
-
+────────────────────
 ・シンボル
 	シンボルの生成
 	var sym1 = Symbol();
@@ -81,8 +80,99 @@ ES2015
 
 
 
-▼ オブジェクトの基礎(1) オブジェクトリテラル
+▼ JavaScriptの特徴
+────────────────────
+・01. インタプリタ型（一行ごとに機械語に翻訳）
+・02. 動的なプロトタイプベースのオブジェクト指向言語
+・03. 動的型付け言語
+・04. 関数が第一級のオブジェクト
+・05. 関数はクロージャを定義する
 
+▼ JavaScriptの技術的要素
+────────────────────
+・01. ECMAScript（コア言語 - JavaScriptの中核となる技術）
+・02. クライアントサイド固有の技術要素
+	・Windowインターフェース			JavaScriptからブラウザやウィンドウを操作する機能を提供
+	・DOM										JavaScriptからHTML文書の要素を操作する機能を提供
+	・XMLHttpRequest				サーバーと非同期通信を行う機能を提供
+	（HTML5のAPIも）
+・03. サーバーサイド固有の技術要素
+	・Node.js 							Googleの開発したJavaScriptの実行環境
+	・Rhino									オープンソースで開発されMozillaが管理しているJavaScriptの実行環境
+	・Aptana Jaxer					Aptana社が開発し、現在はオープンソースで開発されているJavaScriptの実行環境
+
+
+
+
+
+
+
+────────────────────
+ メモ
+────────────────────
+
+
+▼ 雑メモ
+────────────────────
+・undefined								値が無い
+・i is not defined				宣言されていない
+ReferenceError: i is not defined
+
+・スコープ									範囲
+・クロージャー								「関数宣言の中に別の関数宣言を書けること（入れ子の関数宣言）」や「ローカル変数を参照している関数内変数」と言われます。
+・メソッド										プロパティの型が関数系であるとき、そのプロパティはメソッドと呼ばれる
+
+・関数名にはキャメル記法
+・定数（const）は大文字で定義
+
+・グローバルスコープ
+・ローカルスコープ
+・ブロックスコープ（let・constの変数宣言/宣言子）
+
+・関数リテラル = 匿名関数や無名関数とも呼ばれる
+・即時関数 = 無名関数を定義時に実行する「即時関数」という構文がある
+
+・メソッドはプロパティ
+
+・コンストラクタ 					new 演算子でオブジェクトを生成することを想定した関数
+コンストラクタからnew演算子によって生成されたオブジェクトを、そのコンストラクタのインスタンスと呼ぶ
+
+・Stringコンストラクタ（new String）
+・Stringオブジェクトの主なメソッド（toString()、charAt(n)など）
+
+・ビット演算
+・eval関数
+・条件演算子（?:）
+
+・Numberオブジェクトのメソッド（toString、toLocaleStringなど）
+
+・マンデルブロ集合
+
+・アロー関数式による定義（ES6で導入）例）var square = x => x*x;
+
+・ガベージコレクション xxx=null でメモリから解放
+
+・フィボナッチ数列
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▼ オブジェクトの基礎(1) オブジェクトリテラル
+────────────────────
 ・01. オブジェクトとは
 ──
 オブジェクトは名前と値の集まり（連想配列、辞書）
@@ -156,6 +246,7 @@ console.log(a.suit); 			// → ハート
 
 
 ▼ 関数リテラルによる関数の定義
+────────────────────
 関数は関数リテラルで定義することもできる
 
 var square = function(x) { return x+x; };
@@ -186,7 +277,7 @@ cicle.translate = function(a, b) {
 
 
 ▼ オブジェクトの基礎(2) コンストラクタ
-
+────────────────────
 ・01. コンストラクタによるオブジェクトの生成
 ──
 function Card(suit,rank) {
@@ -210,7 +301,7 @@ card.rank = "A";
 
 
 ▼ オブジェクトの基礎(3) 組み込みオブジェクト
-
+────────────────────
 例）プログラムを実行した場合の所要時間をミリ秒単位で求められる
 var start = new Date();
 /* プログラムのコードをここに記述 */
@@ -247,8 +338,18 @@ console.dir(window);
 
 
 
+▼ アロー関数式による定義（ES6で導入）
+────────────────────
+var square = x => x*x;
+
+
+
+
+
+
 
 ▼ 配列の基礎
+────────────────────
 var evens = [2, 4, 6, 8];
 
 var empty = [];
@@ -282,11 +383,13 @@ a.hasOwnProperty("4");									// → true
 
 
 ▼ 呼び出し式
+────────────────────
 ・変数、オブジェクトのプロパティ、配列要素、関数の呼び出し式、メソッドの呼び出し式
 sum、 circle.ragius、 a[3]、 square(5)、 card.getSum()
 
 
 ▼ 条件演算子（?:）三項演算子
+────────────────────
 var parity = (a%2 == 0)? "偶数" : "奇数";
 
 ↓↓↓ 同じ
@@ -326,6 +429,664 @@ Boolean(x)
 
 
 
+▼ 制御構文
+────────────────────
+分類							制御構文																				説明
+条件文						if/else、 switch、 try/catch/finally						条件によって処理を分岐
+ループ文						while、 do/while、 for、 for/in、 for/of 					条件のもとで処理を繰り返し実行
+ジャンプ文					break、 continue、 return、 throw								プログラムの別の場所にジャンプ
+
+
+▶ [条件文01] if/else
+条件文						if/else、 switch、 try/catch/finally						条件によって処理を分岐
+
+if(条件式) ステートメント
+if(条件式) ステートメント1 else ステートメント2
+
+if(条件式1){
+	ステートメント1
+}else if(条件式2){
+	ステートメント2
+}else if(条件式3){
+	ステートメント3
+...
+}else{
+	ステートメントn
+}
+
+例）
+if(a>b)
+	if(a>c)
+		console.log("aが一番大きい");
+else
+	console.log("aはb以下");
+
+↓↓↓ 同じ
+
+if(a>b){
+	if(a>c){
+		console.log("aが一番大きい");
+	}else{
+		console.log("aはb以下");
+	}
+}
+
+
+▶ [条件文02] switch
+
+switch(式){
+	case 式1: 実行文1(複数のステートメント)
+	case 式2: 実行文2(複数のステートメント)
+	...
+	case 式n: 実行文n(複数のステートメント)
+	default: 実行文n+1(複数のステートメント)
+}
+
+例）
+switch(n){
+	case 1:
+		console.log("One");
+		break;
+	case 2:
+		console.log("Two");
+		break;
+	case 3:
+		console.log("Three");
+		break;
+	default:
+		console.log("Other");
+}
+
+
+▶ [ループ文01] while
+ループ文						while、 do/while、 for、 for/in、 for/of 					条件のもとで処理を繰り返し実行
+
+while(条件式) ステートメント
+
+例）
+function fact(n) {
+	var k = 1, i = 1;
+	while(i<n) {
+		k *= (++i);
+	}
+	return k;
+}
+fact(5);			// → 120
+
+
+▶ [ループ文02] do/while
+
+do ステートメント while(条件式);
+
+例）
+function fact(n) {
+	var k = 1, i = n;
+	do {
+		k *= i--;
+	} while(i>0);
+	return k;
+}
+fact(5);			// → 120
+
+
+▶ [ループ文03] for
+
+for(初期化式; 条件式; 更新式) ステートメント
+
+例）
+for(var i=0; i<10; i++) {
+	console.log(i);
+}
+
+例）ループ文
+for(;;) {
+	if(confirm("終了しますか？")) break;
+}
+
+
+▶ [ループ文04] for/in
+
+for(変数 in オブジェクト) ステートメント
+
+例）
+var obj = {a:1, b:2, c:3};
+for(var p in obj) {
+	console.log("p = " + p);
+}
+↓（出力）
+p = a
+p = b
+p = c
+
+例）
+var obj = {a:1, b:2, c:3};
+for(var p in obj) {
+	console.log("obj." + p + " = " + obj[p]);
+}
+↓（出力）
+obj.a = 1
+obj.b = 2
+obj.c = 3
+
+
+▶ [ジャンプ文01] ラベル
+ジャンプ文					break、 continue、 return、 throw								プログラムの別の場所にジャンプ
+
+ラベル名: ステートメント
+
+例）
+loop: while(true){
+	...
+	if(confirm("終了しますか")) break loop;
+	...
+}
+
+
+▶ [ジャンプ文02] break
+
+break ラベル名;
+
+例）
+var a=[2,4,6,8,10], b=[1,3,5,6,9,11];
+loop: for(var i=0; i<a.length; i++){
+	for(var j=0; j<b.length; j++){
+		if(a[i]==b[j]) break loop;
+	}
+}
+console.log("a[" + i + "] = b[" + j + "]");
+
+
+▶ [ジャンプ文03] continue
+
+continue;
+continue ラベル名;
+
+例）
+var a=[2,5,-1,7,-3,6,9];
+loop: for(var i=0, sum=0; i<a.length; i++){
+	if(a[i]<0) continue;
+	sum += a[i];
+}
+console.log(sum);
+
+例）
+var a = [[2,4,6,8],[1,5,12,3],[7,6,8,5],[5,15,3,4],[3,2,9,4]];
+var max = Number.NEGATIVE_INFINITY;
+mainloop: for(var i=0; i<a.length; i++){
+	var average = 0;
+	for(var j=0; j<a[i].length; j++){
+		if(a[i][j]>10) continue mainloop;
+		average += a[i][j];
+	}
+	average /= a[i].length;
+	console.log("i = " + i + ":平均値 = " + average);
+	if(max < average) max = average;
+}
+console.log("平均値の最大値 = " + max);
+
+↓（出力）
+
+i = 0:平均値 = 5
+VM386:10 i = 2:平均値 = 6.5
+VM386:10 i = 4:平均値 = 4.5
+VM386:13 平均値の最大値 = 6.5
+
+
+
+▼ 即時関数
+────────────────────
+
+・無名関数
+var f = function() {...};
+f();
+
+・即時関数
+例）※上記の無名関数と同じ構文
+(function() {...})();
+or
+(function() {...}());
+
+例）
+(function(a,b) {...})(1,2);			// → 引数a=1、b=2が代入される
+
+例）
+var x = (function() {...})();
+
+例）
+(function fact(n) {
+	if(n<=1) return 1;
+	return n*fact(n-1);
+})(5);											// → 120
+
+
+▼ 可変長引数リスト（Argumentsオブジェクト）
+────────────────────
+すべての関数で利用可能なローカル変数として、argumentsがある。
+argumentsはArgumentsオブジェクトを値として持っている。
+
+例）
+function f(x,y) {
+	arguments[1] = 3;
+	console.log("x = " + x + ", y = " + y);
+}
+f(1,2);					// → x = 1, y = 3
+
+例）文字列を連結する関数
+function myConcat(separator) {
+	var s = "";
+	for(var i=1; i<arguments.length; i++) {
+		s += arguments[i];
+		if(i<arguments.length-1) s+= separator;
+	}
+	return s;
+}
+console.log(myConcat("/","apple","orange","peach"));		// → apple/orange/peach
+
+
+arguments[]は配列のようなオブジェクトだが、これを配列に変換するには次のようにする
+
+var params = [].slice.call(arguments);
+
+
+
+▼ 再帰関数
+────────────────────
+関数から自分自身を呼ぶことを再帰呼び出し（recursive call）と言う。
+再帰呼び出しを行う関数を再帰関数と呼ぶ。
+
+例）nの階乗を計算する関数
+function fact(n) {
+	if(n<=1) return 1;
+	return n*fact(n-1);
+}
+fact(5);			// → 120
+
+例）関数リテラルで定義する場合は、関数リテラルの定義式で関数名を指定する
+var fact = function f(x) {
+	if(n<=1) return 1;
+	return n*f(n-1);
+}
+
+例）関数名を付けない場合はarguments.calleeを利用する
+var fact = function(n) {
+	if(n<=1) return 1;
+	return n*arguments.callee(n-1);
+}
+
+
+
+▼ オブジェクトを名前空間として用いる
+────────────────────
+var myApp = myApp || {};
+
+… myAppがすでに定義されているときはそれが用いられ、そうでないときは空のオブジェクトがmyAppに代入される。
+
+
+
+▼ モジュールパターン
+────────────────────
+var Module = Module || {};
+(function(_Module) {
+	var name = "NoName";								// → プライベート変数
+	function getName() {								// → プライベート変数
+		return name;
+	}
+	_Module.showName = function() {			// → パブリック関数
+		console.log(getName());
+	};
+	_Module.setName = function(x) {			// → パブリック関数
+		name = x;
+	};
+})(Module);
+Module.setName("Tom");
+Module.showName();										// → "Tom"
+
+
+
+
+
+▼ アロー関数式の書き方
+────────────────────
+
+・従来の関数リテラルでの関数定義式
+var square = function(x) {return x*x;};
+
+・アロー関数式
+var square = (x) => {return x*x;};
+引数が一つの場合は丸括弧を省略できる
+var square = x => {return x*x;};
+関数内のステートメントがreturnステートメントだけのときは、波括弧とreturnキーワードを省略できる
+var square = x => x*x;
+
+
+
+
+
+
+
+▼ ジェネレータ
+────────────────────
+・反復可能なイテレータを戻り値として返す
+・処理の一時停止と再開ができ、自身の状態を管理する
+・function+*文で定義され、少なくとも1つ以上のyield式を含む
+
+例）
+function* gen() {
+	yield 1;		// ポイント1
+	yield 2;		// ポイント2
+	yield 3;		// ポイント3
+}
+var iter = gen();
+console.log(iter.next());				// → Object {value: 1, done: false}
+console.log(iter.next());				// → Object {value: 2, done: false}
+console.log(iter.next());				// → Object {value: 3, done: false}
+console.log(iter.next());				// → Object {value: undefined, done: true}
+
+※gen.return(10)するとジェネレータを終了できる
+
+
+
+例）mからnまでの整数値を順に取り出すイテレータを生成するジェネレータ
+function* createNumbers(from, to) {
+	while(from <= to) yield from++;
+}
+var iter = createNumbers(10,20);
+for(var v of iter) console.log(v);				// 10～20の整数を順に出力する
+
+
+
+▼ オブジェクトの生成
+────────────────────
+
+・オブジェクトリテラル
+・コンストラクタ（new）
+・Object.create
+
+
+▼ プロトタイプオブジェクト
+────────────────────
+JavaScriptの関数は、関数オブジェクトであり、関数オブジェクトは標準でprototypeプロパティを持っている
+
+function F() {};
+console.log(F.prototype);		// → Object {}
+
+・fの関数オブジェクト
+caller			null
+length 			0
+name 				"f"
+prototype 	fのプロトタイプオブジェクト
+__proto__ 	...
+
+
+例）
+F.prototype.prop = "prototype value";
+var obj = new F();
+console.log(obj.prop);				// → prototype value
+
+
+・プロトタイプの継承
+・プロトタイプベースのオブジェクト指向言語
+
+
+
+▼ オブジェクトリテラルの拡張
+────────────────────
+・メソッド定義の略記:{ method(){} }
+プロパティの値に関数を指定するときの略記法
+
+例）
+var person = {
+	name: "Tom",
+	sayHello() { console.log("Hello! " + this.name); }
+};
+person.sayHello();				// → "Hello! Tom"
+
+↓↓↓（ほぼ同じ）
+
+var person = {
+	name: "Tom",
+	sayHello: function() { console.log("Hello! " + this.name); }
+};
+
+※ この点が違う
+・{method(){}} はコンストラクタとして利用できない。つまり、prototypeプロパティを持たず、new演算子でインスタンスを生成できない
+・{method(){}} はsuperキーワードが使用可能
+
+
+
+▼ DOMツリー
+────────────────────
+ドキュメントを制御するAPIであるDOM（Document Object Model）
+Webページの内容はDocumentオブジェクトによって表されている。
+WebブラウザがWebページを読み込むと、レンダリングエンジンによりWebページのHTML文章が構文解析され、Documentオブジェクトの中に、文章の内容を表すDOMツリーと呼ばれるオブジェクトのツリー構造が構築される。
+
+DOMツリーを構成する一つ一つのオブジェクトをノード（Node）と言う。
+基本3種類。
+
+・ドキュメントノード			ドキュメント全体を表すDocumentオブジェクト。documentで参照できる
+・要素ノード					要素を表すオブジェクト
+・テキストノード					テキストを表すオブジェクト
+
+
+
+
+▼ コンストラクタまとめ
+────────────────────
+コンストラクタは、new演算子と共に使用してオブジェクトをコンストラクトする（初期化して構築する）関数。
+コンストラクタを用いることで、同じプロパティ名や同じメソッドを持つ複数のオブジェクトを生成できる。
+その際、メソッドをコンストラクタのプロトタイプオブジェクト（prototypeプロパティの値）に追加しておけばメモリの消費を避けることができ、また、そのメソッドを他のコンストラクタに継承することができる。
+以下、定義の方法4つ。
+
+
+・01. 関数宣言文で定義する
+──
+function Card(suit,rank) {
+	this.suit = suit;
+	this.rank = rank;
+}
+Card.prototype.show = function() {
+	console.log(this.suit + this.rank);
+};
+
+
+・02. 関数リテラルで定義する
+──
+Card = function(suit, rank) {
+	this.suit = suit;
+	this.rank = rank;
+}
+Card.prototype.show = function() {
+	console.log(this.suit + this.rank);
+};
+
+
+↓↓↓ ここからはES6で導入されたもの
+
+
+・03. クラス宣言文で定義する
+──
+class Card {
+	constructor(suit, rank) {
+		this.suit = suit;
+		this.rank = rank;
+	}
+	show() {
+		console.log(this.suit + this.rank);
+	}
+}
+
+
+・04. クラス式で定義する
+──
+var Card = class {
+	constructor(suit, rank) {
+		this.suit = suit;
+		this.rank = rank;
+	}
+	show() {
+		console.log(this.suit + this.rank);
+	}
+}
+
+
+
+・コンストラクタの継承
+・スーパータイプのコンストラクタ
+・コンストラクタのprototypeの継承
+・コンストラクタの借用
+・スーパータイプのメソッドの利用
+
+
+
+
+
+
+
+▼ ECMAScript6（ES6）のクラス構文
+────────────────────
+
+・クラス構文の基本
+──
+例）円を表すオブジェクトを生成するコンストラクタ
+function Circle(center, radius) {
+	this.center = center;
+	this.radius = radius;
+}
+Circle.prototype.area = function() {
+	return Math.PI*this.radius*this.radius;
+}
+
+↓↓↓（クラス宣言文で書き換える）
+
+class Circle {
+	// コンストラクタによる初期化
+	constructor(center, radius) {
+		this.center = center;
+		this.radius = radius;
+	}
+	// prototypeのメソッド
+	area() {
+		return Math.PI*this.radius*this.radius;
+	}
+}
+
+↓↓↓ これによりコンストラクタ関数Circleが定義される
+
+var c = new Circle({x:0, y:0}, 2);
+console.log(c.area());									// → 12.566370614359172
+
+
+・アクセッサの記述
+──
+class Person {
+	// コンストラクタによる初期化
+	constructor(name) {
+		this.name = name;
+	}
+	// prototypeのメソッド
+	get name() {
+		return this._name;
+	}
+	set name(value) {
+		this._name = value;
+	}
+	sayName() {
+		console.log(this.name)
+	}
+}
+
+↓↓↓（インスタンスを生成）
+
+var person = new Person("Tom");			
+console.log(person.name);						// → Tom
+person.name = "Huck";
+console.log(person.name);						// → Huck
+person.sayName();										// → Huck
+
+
+
+・静的メソッドの記述
+──
+class Person {
+	// コンストラクタによる初期化
+	constructor(name) {
+		this.name = name;
+		Person.personCount++;
+	}
+	// prototypeのメソッド
+	get name() {
+		return this._name;
+	}
+	set name(value) {
+		this._name = value;
+	}
+	sayName() {
+		console.log(this.name)
+	}
+	// 静的メソッド
+	static count() {
+		return Person.personCount;
+	}
+}
+Person.personCount = 0;
+
+↓↓↓（Personコンストラクタを呼び出した回数を記録している）
+
+var person1 = new Person("Tom");
+console.log(Person.count());					// → 1
+var person2 = new Person("Huck");
+console.log(Person.count());					// → 2
+
+
+
+・継承によるクラスの拡張（extendsキーワード）
+──
+class Circle(center, radius) {
+	// コンストラクタによる初期化
+	constructor(name) {
+		this.center = center;
+		this.radius = radius;
+	}
+	area() {
+		return Math.PI*this.radius*this.radius;
+	}
+	toString() {
+		return "Circle "
+		+ "中心(" + this.center.x + "," + this.center.y
+		+ "), 半径 = " + this.radius;
+	}
+}
+class Ball extends Circle {
+	move(dx, dy) {
+		this.center.x += dx;
+		this.center.y += dy;
+	}
+}
+
+↓↓↓（Ballコンストラクタでインスタンスを生成）
+
+var ball = new Ball({x: 0, y: 0}, 2);
+console.log(ball.toString());					// → Circle 中心(0,0), 半径 = 2
+console.log(ball.area());							// → 12.566370614359172
+ball.move(1,2);
+console.log(ball.toString());					// → Circle 中心(1,2), 半径 = 2
+
+
+
+・スーパータイプのメソッドを呼び出す（superキーワード）
+── CircleのtoStringメソッドを新しいメソッドで上書き
+class Ball extends Circle {
+	move(dx, dy) {
+		this.center.x += dx;
+		this.center.y += dy;
+	}
+	toString() {
+		var str = super.toString();
+		return str.replace("Circle", "Ball");
+	}
+}
+var ball = new Ball({x: 0, y: 0}, 2);
+console.log(ball.toString());					// → Ball 中心(0,0), 半径 = 2
 
 
 
@@ -334,67 +1095,6 @@ Boolean(x)
 
 
 
-▼ メモ
-・undefined								値が無い
-・i is not defined				宣言されていない
-ReferenceError: i is not defined
-
-・スコープ									範囲
-・クロージャー								「関数宣言の中に別の関数宣言を書けること（入れ子の関数宣言）」や「ローカル変数を参照している関数内変数」と言われます。
-・メソッド										プロパティの型が関数系であるとき、そのプロパティはメソッドと呼ばれる
-
-・関数名にはキャメル記法
-・定数（const）は大文字で定義
-
-・グローバルスコープ
-・ローカルスコープ
-・ブロックスコープ（let・constの変数宣言/宣言子）
-
-・関数リテラル = 匿名関数や無名関数とも呼ばれる
-
-・メソッドはプロパティ
-
-・コンストラクタ 					new 演算子でオブジェクトを生成することを想定した関数
-コンストラクタからnew演算子によって生成されたオブジェクトを、そのコンストラクタのインスタンスと呼ぶ
-
-・Stringコンストラクタ（new String）
-・Stringオブジェクトの主なメソッド（toString()、charAt(n)など）
-
-・ビット演算
-・eval関数
-・条件演算子（?:）
-
-・Numberオブジェクトのメソッド（toString、toLocaleStringなど）
-
-
-
-
-
-
-
-
-▼ JavaScriptの特徴
-・01. インタプリタ型（一行ごとに機械語に翻訳）
-・02. 動的なプロトタイプベースのオブジェクト指向言語
-・03. 動的型付け言語
-・04. 関数が第一級のオブジェクト
-・05. 関数はクロージャを定義する
-
-▼ JavaScriptの技術的要素
-・01. ECMAScript（コア言語 - JavaScriptの中核となる技術）
-・02. クライアントサイド固有の技術要素
-	・Windowインターフェース			JavaScriptからブラウザやウィンドウを操作する機能を提供
-	・DOM										JavaScriptからHTML文書の要素を操作する機能を提供
-	・XMLHttpRequest				サーバーと非同期通信を行う機能を提供
-	（HTML5のAPIも）
-・03. サーバーサイド固有の技術要素
-	・Node.js 							Googleの開発したJavaScriptの実行環境
-	・Rhino									オープンソースで開発されMozillaが管理しているJavaScriptの実行環境
-	・Aptana Jaxer					Aptana社が開発し、現在はオープンソースで開発されているJavaScriptの実行環境
-
-
-・04. 
-・05. 
 
 
 
@@ -406,31 +1106,26 @@ ReferenceError: i is not defined
 
 
 
+
+
+
+
+
+
+────────────────────
+ link
+────────────────────
 ◆徹底マスター JavaScriptの教科書｜SBクリエイティブ
 https://www.sbcr.jp/product/4797388640/
 
 	◆【サンプルデータの公開】『徹底マスター JavaScriptの教科書』｜SBクリエイティブ
 	https://www.sbcr.jp/support/13788/
 
-
-
 ◆JavaScript | MDN
 https://developer.mozilla.org/ja/docs/Web/JavaScript
 
-
-
-
-
 ◆脱jQueryの道その２:あの機能は素のJavaScriptでどうやるんだろ編 | webOpixel
 https://www.webopixel.net/javascript/1516.html
-
-
-
-
-
-
-
-
 
 ◆JavaScript初級者のためのコーディングガイド - Qiita
 https://qiita.com/raccy/items/bf590d3c10c3f1a2846b
@@ -452,14 +1147,6 @@ https://www.sejuku.net/blog/23627
 
 ◆JavaScriptの配列・多次元配列・連想配列の基本 | てらこや.work
 https://www.terakoya.work/javascript-array-basis/
-
-
-
-
-
-
-
-
 
 ◆ES6 Console - try JavaScript compilers
 https://es6console.com/
