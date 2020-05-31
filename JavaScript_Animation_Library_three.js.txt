@@ -1,3 +1,13 @@
+◆最新版で学ぶThree.js入門 - 手軽にWebGLを扱える3Dライブラリ - ICS MEDIA
+https://ics.media/entry/14771/
+
+◆Three.js入門サイト - ICS MEDIA
+https://ics.media/tutorial-three/
+
+
+
+
+
 ◆2019年注目のJavaScriptアニメーションライブラリ11選 - Qiita
 https://qiita.com/baby-degu/items/2516bb55e97de612118b
 
@@ -7,14 +17,8 @@ https://sterfield.co.jp/programmer/three-js%E3%81%A7css3%E3%81%AE3d%E6%8F%8F%E7%
 ◆three.jsを触ってみた | NIJIBOX BLOG
 https://nijibox.jp/blog/hello-threejs/
 
-◆最新版で学ぶThree.js入門 - 手軽にWebGLを扱える3Dライブラリ - ICS MEDIA
-https://ics.media/entry/14771/
-
 ◆three.js – JavaScript 3D library
 https://threejs.org/
-
-◆Three.js入門サイト - ICS MEDIA
-https://ics.media/tutorial-three/
 
 ◆three.js超入門 第1回 レンダリングまでの流れ - Qiita
 https://qiita.com/watabo_shi/items/bf9bcd4569b6d480c608
