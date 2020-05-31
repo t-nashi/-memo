@@ -1,3 +1,19 @@
+
+
+
+◆ Settings Sync で設定同期
+※ GitHubアカウントにログインしておく
+
+▼ upload
+01. Ctrl+Shift+P ＞ sync ＞ Sync: Update/Upload Settings
+
+▼ download
+01. Ctrl+Shift+P ＞ sync ＞ Sync: Download Settings
+
+
+
+
+
 ◆VS Codeを使いこなせ! フロントエンジニア必須の拡張機能7選 - ICS MEDIA
 https://ics.media/entry/18544/
 
