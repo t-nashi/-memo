@@ -28,3 +28,17 @@ https://qiita.com/HiroCh/items/481adfa969dbe689f566
 
 ◆VSCodeのオススメ拡張機能 24 選 (とTipsをいくつか) - Qiita
 https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234
+
+◆【VSCodeでEmmet入門】 Emmetを使ってHTMLコーディングを効率化しよう。 | TECHNICAL CREATOR
+https://technical-creator.com/vscode-emmet/
+
+
+
+
+
+
+
+
+
+
+
