@@ -34,6 +34,28 @@ https://technical-creator.com/vscode-emmet/
 
 
 
+▼ VSCodeで速攻ローカルサーバー環境立ち上げてブラウザ同期してコーディングする（browser-sync的なことが）
+・Ctrl + Shift + P ＞ Extensions: Install Extensions（拡張機能： 拡張機能のインストール）
+・Live Serverがインストールされていることを確認
+
+・ドキュメント開いてウィンドウ右下からLive Serverを起動
+・http://127.0.0.1:5500/
+・ngrok.exeを起動（参考： https://www.koreyome.com/web/public-urls-for-exposing-your-local-web-server_ngrok/）
+・ngrok.exe http 5500 と実行
+・表示されたアドレスでアクセス
+
+
+
+◆http-server - npm
+https://www.npmjs.com/package/http-server
+
+◆[Sy] npm でインストールできる簡易的な Webサーバ「http-server」が手軽で便利 | Syntax Error.
+https://utano.jp/entry/2018/02/npm-http-server/
+
+
+
+
+
 
 
 
