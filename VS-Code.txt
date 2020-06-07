@@ -54,6 +54,29 @@ https://utano.jp/entry/2018/02/npm-http-server/
 
 
 
+◆VS Codeを使いこなせ! フロントエンジニア必須の拡張機能7選 - ICS MEDIA
+https://ics.media/entry/18544/
+
+◆かなり便利！VS CodeでCSSを書きながらFlexboxのチートシートを利用できる -CSS Flexbox Cheatsheet | コリス
+https://coliss.com/articles/build-websites/operation/css/css-flexbox-cheatsheet-for-vscode.html
+
+◆【最新版】VSCodeの設定を共有しよう【Settings Sync】 - Qiita
+https://qiita.com/kazurego7/items/3dc5a381811e4d429533
+
+◆Visual Studio Codeを日本語化する方法 - Qiita
+https://qiita.com/HiroCh/items/481adfa969dbe689f566
+
+◆VSCodeのオススメ拡張機能 24 選 (とTipsをいくつか) - Qiita
+https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234
+
+◆VS CodeでJavaScriptアプリを作成する上で知っていると便利（？）なこと (1/3)：Visual Studio CodeでWebアプリ開発を始めよう - ＠IT
+https://www.atmarkit.co.jp/ait/articles/1807/10/news033.html
+
+◆AtomユーザもSublimeユーザも、死角が無いエディタ「VS CODE」に乗り換えよう | WEBA
+https://hirata.blog/201807_vs-code-introduction/
+
+◆Windows vs Mac 違いを徹底比較！ | CodeCampus
+https://blog.codecamp.jp/windows-mac
 
 
 
