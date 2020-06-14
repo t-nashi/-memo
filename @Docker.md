@@ -88,7 +88,55 @@
   <td>コンテナの停止</td>
  </tr>
 </table>  
-<br><br><br>
+<br>
+
+
+<table>
+<tr>
+  <td><b>docker-compose ps –service</b></td>
+  <td>docker-composeで起動中のサービス名を表示する</td>
+</tr>
+<tr>
+  <td><b>docker-compose exec db bash</b></td>
+  <td>docker-composeで起動中の「DB」へアクセスする</td>
+</tr>
+<tr>
+  <td><b>mysql -u docker_user -p</b></td>
+  <td>mysqlに「docker_user」としてログインする （このあとDBのパスワードを求められる）</td>
+</tr>
+<tr>
+  <td><b>use docker_db</b></td>
+  <td>「docker_db」へアクセス</td>
+</tr>
+<tr>
+  <td><b>show tables;</b></td>
+  <td>DB内のテーブルを参照</td>
+</tr>
+<tr>
+  <td><b>exit</b></td>
+  <td>mysqlやexecの処理を抜ける</td>
+</tr>
+</table>  
+<br>
+
+
+<table>
+<tr>
+  <td><b>docker ps</b></td>
+  <td>xxxxxxxxxx</td>
+</tr>
+<tr>
+  <td><b>docker stop $CONTAINER_ID</b></td>
+  <td>xxxxxxxxxx</td>
+</tr>
+<tr>
+  <td><b>docker kill $CONTAINER_ID</b></td>
+  <td>xxxxxxxxxx</td>
+</tr>
+</table>  
+<br>
+
+<br><br>
 
 
 ## windows（2020/04/04sat）
