@@ -413,11 +413,31 @@ root
 
 
 
+==================================================
+ html テンプレ作成参考
+==================================================
+◆【2020】＜head＞タグの記述例＝順番等もきちんと考えた雛形（テンプレート） | Webデザイン ABC
+https://webdesign-abc.com/howto/head-tag/
+
+◆head内に入れるべきタグ一覧 - Qiita
+https://qiita.com/kana-t/items/76d84fb7746ed9c18d9d
+
+◆HTML Coding Best Practices - Qiita
+https://qiita.com/amin_ilias/items/a1addab51830720cf254
+
+◆【爆速】HTML5 + CSS3で簡単にWebデザインしよう！ - Qiita
+https://qiita.com/Y_ASAMOTO/items/90afe7d24467020c17f0
+
+◆【爆速】HTML + Sass(SCSS)で簡単にレスポンシブ対応のLPを作ろう！ - Qiita
+https://qiita.com/Y_ASAMOTO/items/d5f33ecf5bfbb7f028a5
+
+◆ASAMOTO/simple_template
+https://github.com/ASAMOTO/simple_template
 
 
 
 ==================================================
-◆ リンク
+ リンク
 ==================================================
 ◆ 意外と知らない!?CSSセレクタ20個のおさらい｜Webpark
 http://weboook.blog22.fc2.com/blog-entry-268.html
