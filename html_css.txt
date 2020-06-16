@@ -80,6 +80,91 @@ https://ics-creative.github.io/project-particle-develop/
 
 
 
+========================================
+ リセット用のCSS
+========================================
+◆ ress.css
+https://github.com/filipelinhares/ress
+https://ress-css.surge.sh/
+
+https://unpkg.com/ress/dist/ress.min.css
+<link rel='stylesheet' href='https://unpkg.com/ress/dist/ress.min.css'>
+
+◆ destyle.css
+https://github.com/nicolas-cusan/destyle.css
+
+https://raw.githubusercontent.com/nicolas-cusan/destyle.css/master/destyle.css
+
+
+https://web-camp.io/magazine/archives/30817
+https://webdesign-trends.net/entry/8137
+https://coliss.com/articles/build-websites/operation/css/css-reset-for-modern-browser.html
+
+◆【2019年版】リセットCSSのガイドライン｜基礎から使い方を徹底解説 | WEBCAMP NAVI
+https://web-camp.io/magazine/archives/30817
+
+  1. Eric Meyer’s “Reset CSS” 2.0
+  https://meyerweb.com/eric/tools/css/reset/
+
+  2. HTML5 Doctor CSS Reset
+  http://html5doctor.com/html-5-reset-stylesheet/
+
+  3. Yahoo! (YUI 3) Reset CSS
+  https://yuilibrary.com/yui/docs/cssreset/
+
+  4. Universal Selector ‘*’ Reset
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  5. Normalize.css
+  https://github.com/necolas/normalize.css/blob/master/normalize.css
+
+  6. ress
+  https://github.com/filipelinhares/ress
+
+  7. sanitize.css
+  https://csstools.github.io/sanitize.css/
+
+
+◆ 2020年版！おすすめのリセットCSSまとめ | Web Design Trends
+https://webdesign-trends.net/entry/8137
+
+  すべてリセットするタイプ
+    destyle.css
+    https://github.com/nicolas-cusan/destyle.css/blob/master/destyle.css
+
+    HTML5 Doctor Reset CSS
+    http://html5doctor.com/html-5-reset-stylesheet/
+
+  デフォルトのスタイルが当てられるタイプ
+    Normalize.css
+    https://github.com/necolas/normalize.css/blob/master/normalize.css
+
+    A modern CSS reset
+    https://github.com/hankchizljaw/modern-css-reset/blob/master/dist/reset.css
+
+    ress.css
+    https://github.com/filipelinhares/ress/blob/master/ress.css
+
+    Reboot.css
+    https://github.com/twbs/bootstrap/blob/v4-dev/dist/css/bootstrap-reboot.css
+
+
+◆ 2020年、モダンブラウザに適したCSSリセットのまとめ | コリス
+https://coliss.com/articles/build-websites/operation/css/css-reset-for-modern-browser.html
+
+  CSS Tools: Reset CSS
+  https://meyerweb.com/eric/tools/css/reset/index.html
+
+  normalize.css/normalize.css at master · necolas/normalize.css
+  https://github.com/necolas/normalize.css/blob/master/normalize.css
+
+  sanitize.css/sanitize.css at master · csstools/sanitize.css
+  https://github.com/csstools/sanitize.css/blob/master/sanitize.css
+
+
 
 
 
