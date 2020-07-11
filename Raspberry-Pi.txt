@@ -1,0 +1,97 @@
+◆ラズパイダ | 文系的Raspberry Pi情報サイト
+https://raspida.com/
+
+◆ラズパイの64bit対応で人類はニュータイプに進化する | まいまい堂＠ドラクエ10
+https://maimai.holy.jp/dq10/archives/4591
+
+◆Raspberry Piベースのラップトップ型電子工作キット「CrowPi2」 | fabcross
+https://fabcross.jp/news/2020/20200630_crowpi2.html
+
+◆Raspberry Pi 4 で構築する録画マシン | 空気録学電子版【公式】
+https://medium.com/chinachu/c98v-raspberry-pi-4-49c9692f5c09
+
+◆お探しのページは、公開期間が終了しました。：日経クロストレンド
+https://xtrend.nikkei.com/info/18/00006/00024/
+
+◆「Raspberry Pi 3」で早速チェック──「IoTハードウェア」を準備する (1/3)：ラズパイ3＆Toradex、Windows 10 IoT Coreで楽しみながら検証するIoT実践入門（1） - ＠IT
+https://www.atmarkit.co.jp/ait/articles/1603/28/news011.html
+
+◆甘くないラズベリーパイ（Raspberry Pi）をいただきました。 | Device Plus - デバプラ
+https://deviceplus.jp/hobby/entry_001/?utm_source=googlesearch&utm_medium=cpc&utm_content=search_text&utm_campaign=google
+
+◆産業用ラズパイ＋センサーが製造現場の自動化を加速 (1/3) - EE Times Japan
+https://eetimes.jp/ee/articles/1907/01/news022.html
+
+◆カメラとラズパイと通信モジュール、電源などを一体化したIoTカメラ「S+ Camera Basic」を発表、ソラコム － Publickey
+https://www.publickey1.jp/blog/19/iots_camera_basic.html
+
+◆Raspberry Pi(ラズパイ)を使ってできること まとめ。あなたの制作意欲を刺激する作品例24選 – ツクレル
+https://tkrel.com/8571
+
+◆Raspberry Pi 3をハンドヘルドPC化するキット「Hyper Keyboard pi」が入荷 - AKIBA PC Hotline!
+https://akiba-pc.watch.impress.co.jp/docs/news/news/1197974.html
+
+◆すぐに使えるRaspberry Piセット——アフターソフト、学習用コンピューターセット「ベリーボックス」発売 | fabcross
+https://fabcross.jp/news/2019/20190717_raspberrypilearningset_berrybox.html
+
+◆Raspberry Pi財団、Webサイトを「Raspberry Pi 4クラスタ」で運用中 － Publickey
+https://www.publickey1.jp/blog/19/raspberry_piwebraspberry_pi_4.html
+
+◆産業用ラズパイ＋センサーが製造現場の自動化を加速 (3/3) - EE Times Japan
+https://eetimes.jp/ee/articles/1907/01/news022_3.html
+
+◆オフィスハック ラズパイとMESHボタンで会社の呼び鈴を作った記録 - Qiita
+https://qiita.com/makies/items/8068bbc54aeb68600dbb
+
+◆ラズパイで「YouTube」と「Amazon プライムビデオ」を見る (1/4) - ITmedia NEWS
+https://www.itmedia.co.jp/news/articles/1906/01/news007.html
+
+◆ラズパイで音楽・動画のメディアサーバを構築　音楽ファイルの読み込み、スマホからリモートコントロールまで (1/2) - ITmedia NEWS
+https://www.itmedia.co.jp/news/articles/1905/04/news001.html
+
+◆Raspberry Pi競合--Ubuntuが動く「UP Core」を見る - ZDNet Japan
+https://japan.zdnet.com/article/35136396/
+
+◆C#でラズパイのGPIOを操作しよう～LEDを点灯させる (1/3)：CodeZine（コードジン）
+https://codezine.jp/article/detail/11733
+
+◆コンセントに挿すだけで使える——アイ･オー･データ、電源一体型Raspberry Pi「Pi-Plug」発売 | fabcross
+https://fabcross.jp/news/2019/20191211_iodata_raspberrypi_incase_piplug.html
+
+◆Raspberry Piで手軽にIoT、SMSでメッセージを送信するコツ | 日経クロステック（xTECH）
+https://xtech.nikkei.com/atcl/nxt/column/18/01109/052900006/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
