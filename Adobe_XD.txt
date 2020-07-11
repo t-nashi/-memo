@@ -3,7 +3,8 @@
 
 
 
-
+◆Adobe XDの2020年3月リリース！音声付きプロトタイプ、アンカーリンクなど #AdobeXD | Adobe Blog
+https://blogs.adobe.com/japan/cc-web-xd-march-2020-audio-prototyping-anchor-links-more/
 
 ◆Adobe XDでモバイルファーストのWebデザイン入門 第4回: レイアウト機能を使いこなしてレスポンシブデザインを効率的に作成！ | Adobe Blog
 https://blogs.adobe.com/japan/cc-web-adobe-xd-for-beginners-4-responsive-layout-padding/
