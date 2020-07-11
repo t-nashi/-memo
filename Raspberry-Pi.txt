@@ -109,6 +109,41 @@ https://fabcross.jp/news/2020/20200507_bittradeone_raspberrypi_ioboard.html
 ◆マルチプラットフォームエミュレータ「RetroPie」がラズパイ4に対応【ラズパイをMSXにしようか】
 https://daily-gadget.net/2020/05/11/post-14834/
 
+◆HDMI入力をRaspberry Piで駆使する | 犬アイコンのみっきー
+https://mzyy94.com/blog/2020/04/10/raspberrypi-hdmi-input/
+
+◆「Raspberry Pi 3 Model A+」のスターターキットが入荷、Raspbian OSやケースなどが付属 - AKIBA PC Hotline!
+https://akiba-pc.watch.impress.co.jp/docs/news/news/1240958.html
+
+◆Raspberry Piへカメラを取り付けて、Motionソフトにより自宅監視サイト(但し自宅Wifi圏内でのみ閲覧可能)を構築した - Qiita
+https://qiita.com/Fumio-eisan/items/dcc0dc728f36214769d6
+
+◆レトロPC風の“Raspberry Pi 4用ケース”が店頭販売中 - AKIBA PC Hotline!
+https://akiba-pc.watch.impress.co.jp/docs/news/news/1242196.html
+
+◆技術評論社、C言語を使う技術者向け「C言語ではじめるRaspberry Pi徹底入門」発刊 | fabcross
+https://fabcross.jp/news/2020/20200402_gihyo_cprogramming_respberrypi.html
+
+◆Raspberry Piを極限まで無駄なくバックアップする | Developers.IO
+https://dev.classmethod.jp/articles/raspberry-pi-dump-and-restore/
+
+◆Raspberry Pi Zero Wを使ってライブストリーミングカメラを作る、1時間くらいの作業で。 - Qiita
+https://qiita.com/Gan0803/items/f77d6c88d96cab12d59d
+
+◆電子工作ファン向けのRaspberry Pi・セットアップ（Ubuntu 20.04LTS編） - Qiita
+https://qiita.com/myasu/items/5b122c782c5a616d8b60
+
+◆Raspberry Pi、1230万画素の高品質カメラモジュール、レンズ交換に対応 | マイナビニュース
+https://news.mynavi.jp/article/20200501-1027263/
+
+◆PythonとRaspberry PiでIoTをやってみる 『Pythonで動かして学ぶ！あたらしいIoTの教科書』発売：CodeZine（コードジン）
+https://codezine.jp/article/detail/12005
+
+◆Raspberry Pi 4にSSHとVNCで接続してみた | Developers.IO
+https://dev.classmethod.jp/articles/raspberry-pi-4-ssh-vnc-remote/
+
+◆部屋のCO2濃度を、Raspberry Pi / AWS IoT / Kibanaで可視化/通知する - Qiita
+https://qiita.com/f-daiki/items/9d66fcc8221b1d1380af
 
 
 
