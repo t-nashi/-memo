@@ -1,5 +1,25 @@
 
 
+◆アドビ製品のデザイン作業が体験できるプラグイン、Spectrum for Adobe XDの一般公開 | Adobe Blog
+https://blogs.adobe.com/japan/cc-web-spectrum-for-adobe-xd/
+
+◆(4) Keisuke TodorokiさんはTwitterを使っています 「XD26の新機能「コンテンツに応じたレイアウト」第一弾はXDが認識したパディングを守って、ラベル変更時のボタンの長さなどを自動調整してくれます。 Adobe XD 2020年1月アップデートリリース！コンテンツに応じたレイアウト、新しいプラグインAPIなど #AdobeXD https://t.co/coynFPLpxj https://t.co/IigHUL449N」 / Twitter
+https://twitter.com/keisuke322/status/1222142711056068608
+
+◆Risa YuguchiさんはTwitterを使っています 「#AdobeXD #2020年1月更新 多角形ツールに機能追加！ XDで星がかけるように！ プロパティインスペクタのUIが変わる プロパティインスペクターはアイコンも変わってるから、スクショは差し替え必須。（自分用） https://t.co/pEJojRTNjN」 / Twitter
+https://twitter.com/risay/status/1222043657273933824
+
+◆Adobe XDでアニメーションのあるプロトタイプをデザインしよう | Webクリエイターボックス
+https://www.webcreatorbox.com/inspiration/adobe-xd-auto-animation
+
+◆Adobe XDの基本的な使い方を解説！専門知識不要でUI・UXデザインが簡単に！｜ferret
+https://ferret-plus.com/13236
+
+◆鈴木慎吾 / TSUMIKI INC.さんはTwitterを使っています 「ワイヤーやラフデザインなどで仮アイコンを使う場合はIcons 4 DesignというXDプラグインが便利。Material Iconなどから、フリーワードでアイコンを探し、アートボードにそのまま配置。サイズも事前に指定できるので、リサイズの手間もかからない。 #xdプラグイン https://t.co/q8myUmydRt https://t.co/neU5sQtdhZ」 / Twitter
+https://twitter.com/shingo2000/status/1242263568717762560
+
+
+
 
 
 ◆どこでもアイデア出しの会議ができるAdobe XDのプラグイン「Whiteboard」を開発しました #AdobeXD | Adobe Blog
@@ -10,6 +30,9 @@ https://coliss.com/articles/build-websites/operation/work/whiteboard-for-adobe-x
 
 ◆「Adobe XD」をホワイトボード代わりに ～Adobeがリモートワーク支援プラグインをリリース - 窓の杜
 https://forest.watch.impress.co.jp/docs/news/1247711.html
+
+
+
 
 
 ◆Adobe XDでモバイルファーストのWebデザイン入門 第5回: 画面間の遷移や操作方法をプロトタイプを使って表現する | Adobe Blog
