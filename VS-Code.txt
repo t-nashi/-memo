@@ -38,6 +38,28 @@ https://technical-creator.com/vscode-emmet/
 
 
 
+
+
+◆VSCodeの秘伝のワザを大公開！ | Developers.IO
+https://dev.classmethod.jp/articles/vscode-awesome-things/
+
+◆【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る - Qiita
+https://qiita.com/tomo_makes/items/aafae4021986553ae1d8
+
+◆【書評】『プログラマーのためのVisual Studio Codeの教科書』はVS Code使いに是非読んでいただきたい１冊！ #VSCodejp #VSCode | Developers.IO
+https://dev.classmethod.jp/articles/mrmo-vscode-book-review-20200622/
+
+◆Amazon.co.jp： プログラマーのためのVisual Studio Codeの教科書 (Compass Booksシリーズ) eBook: 川崎 庸市, 平岡 一成, 阿佐 志保: Kindleストア
+https://www.amazon.co.jp/dp/B087Q2P56J
+
+
+
+
+
+
+
+
+
 ▼ VSCodeで速攻ローカルサーバー環境立ち上げてブラウザ同期してコーディングする（browser-sync的なことが）
 ・Ctrl + Shift + P ＞ Extensions: Install Extensions（拡張機能： 拡張機能のインストール）
 ・Live Serverがインストールされていることを確認
