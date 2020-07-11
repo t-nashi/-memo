@@ -2,7 +2,8 @@
 
 
 
-
+◆どこでもアイデア出しの会議ができるAdobe XDのプラグイン「Whiteboard」を開発しました #AdobeXD | Adobe Blog
+https://blogs.adobe.com/japan/cc-web-ideate-visually-anywhere-with-the-whiteboard-plugin-for-adobe-xd/
 
 ◆テレワークのミーティングに役立つツールが全部無料で使える！Adobe XDの協業用プラグインが登場 -Whiteboard | コリス
 https://coliss.com/articles/build-websites/operation/work/whiteboard-for-adobe-xd.html
