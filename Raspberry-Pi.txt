@@ -64,6 +64,20 @@ https://xtech.nikkei.com/atcl/nxt/column/18/01109/052900006/
 ◆これですっきりプロトタイピング——Raspberry Pi用ブレークアウトボード「MKR Module」 | fabcross
 https://fabcross.jp/news/2020/20200302_raspberrypibreakoutmodule_mkrmodule.html
 
+◆【コレオシ】あらためて本格的に使いたい、性能大幅アップの「Raspberry Pi 4」 - エルミタージュ秋葉原
+https://www.gdm.or.jp/crew/2020/0310/341080
+
+◆技術書典：技術書オンリーイベント
+https://techbookfest.org/product/5488120564809728
+
+◆Raspbianのなどの書き込み総合ソフト「Raspberry Pi Imager」がリリース
+https://raspida.com/release-raspberry-pi-imager
+
+◆Raspberry PiをハンドヘルドPCにするDIYキット「Handheld Raspberry Pi」 | fabcross
+https://fabcross.jp/news/2020/20200310_handheld_raspberry_pi.html
+
+◆Raspberry Piでおうちサイネージを作ってみよう！ - inajob's blog
+https://inajob.hatenablog.jp/entry/ouchi-signage
 
 
 
