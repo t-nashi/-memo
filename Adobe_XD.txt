@@ -1,5 +1,13 @@
 
 
+
+
+
+
+
+◆Panel UIを活用したXDプラグインの作り方｜鈴木慎吾 / TSUMIKI INC.｜note
+https://note.com/shingo2000/n/n165e59bf58b7
+
 ◆アドビ製品のデザイン作業が体験できるプラグイン、Spectrum for Adobe XDの一般公開 | Adobe Blog
 https://blogs.adobe.com/japan/cc-web-spectrum-for-adobe-xd/
 
