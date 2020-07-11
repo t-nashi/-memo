@@ -79,6 +79,35 @@ https://fabcross.jp/news/2020/20200310_handheld_raspberry_pi.html
 ◆Raspberry Piでおうちサイネージを作ってみよう！ - inajob's blog
 https://inajob.hatenablog.jp/entry/ouchi-signage
 
+◆ぼくの声優ラジオ録音環境（ラズパイ4で録音→Dropboxにアップ→LINEに通知まで） - Qiita
+https://qiita.com/kino15/items/32f8ceed4261ba18817f
+
+◆「PC-9801Pi 2 ラズベリーパイ PC-98化計画」を読んでラズパイ4を憧れのPC-98化してみた - karaage. [からあげ]
+https://karaage.hatenadiary.jp/entry/2020/03/13/073000
+
+◆ラズパイで設備稼働情報を「見える化」するための5ステップ (1/2) - MONOist（モノイスト）
+https://monoist.atmarkit.co.jp/mn/articles/2003/17/news008.html
+
+◆ラズパイでスマートスピーカーを作る　「アレクサ！あしたの天気は？」　～ハードウェア設定編～ (1/3) - ITmedia NEWS
+https://www.itmedia.co.jp/news/articles/2003/20/news001.html
+
+◆[動画配信] RaspberryPiImagerを使うためにラズパイ4をセットアップする #RaspberryPi | Developers.IO
+https://dev.classmethod.jp/articles/raspberry-pi-4-setup-on-youtube/
+
+◆ラズパイを“ハンドヘルドPC化”する「Hyper Keyboard pi」にFキー追加の新作キット - エルミタージュ秋葉原
+https://www.gdm.or.jp/crew/2020/0413/344867
+
+◆リモートデスクトップを使ってスマホ一台でラズパイに接続する - Qiita
+https://qiita.com/Chaha1n/items/bb88f48e522cb94519d3
+
+◆ラズパイ4でWindows95やXPが動く？見た目と動きがそっくりなRaspbian95とXP
+https://raspida.com/raspbian95-xp-emu
+
+◆Raspberry PiでI／O制御を学ぶ——ビット・トレード・ワン、ラズパイマガジン連動企画「基本パーツ配線済みボード」発売 | fabcross
+https://fabcross.jp/news/2020/20200507_bittradeone_raspberrypi_ioboard.html
+
+◆マルチプラットフォームエミュレータ「RetroPie」がラズパイ4に対応【ラズパイをMSXにしようか】
+https://daily-gadget.net/2020/05/11/post-14834/
 
 
 
