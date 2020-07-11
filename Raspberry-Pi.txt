@@ -61,6 +61,8 @@ https://fabcross.jp/news/2019/20191211_iodata_raspberrypi_incase_piplug.html
 ◆Raspberry Piで手軽にIoT、SMSでメッセージを送信するコツ | 日経クロステック（xTECH）
 https://xtech.nikkei.com/atcl/nxt/column/18/01109/052900006/
 
+◆これですっきりプロトタイピング——Raspberry Pi用ブレークアウトボード「MKR Module」 | fabcross
+https://fabcross.jp/news/2020/20200302_raspberrypibreakoutmodule_mkrmodule.html
 
 
 
