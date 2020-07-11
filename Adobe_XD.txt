@@ -7,7 +7,8 @@
 
 
 
-
+◆Adobe XDでモバイルファーストのWebデザイン入門 第2回: ワイヤーフレームをサクサクつくろう！ | Adobe Blog
+https://blogs.adobe.com/japan/cc-web-adobe-xd-for-beginners-2-wireframe/
 
 ◆Adobe XDでモバイルファーストのWebデザイン入門 第1回: デザインする前に知っておきたいワークスペースの使い方とファイル管理 | Adobe Blog
 https://blogs.adobe.com/japan/cc-web-adobe-xd-for-beginners-1-workspace/
