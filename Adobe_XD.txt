@@ -3,6 +3,17 @@
 
 
 
+
+◆テレワークのミーティングに役立つツールが全部無料で使える！Adobe XDの協業用プラグインが登場 -Whiteboard | コリス
+https://coliss.com/articles/build-websites/operation/work/whiteboard-for-adobe-xd.html
+
+◆「Adobe XD」をホワイトボード代わりに ～Adobeがリモートワーク支援プラグインをリリース - 窓の杜
+https://forest.watch.impress.co.jp/docs/news/1247711.html
+
+
+◆Adobe XDでモバイルファーストのWebデザイン入門 第5回: 画面間の遷移や操作方法をプロトタイプを使って表現する | Adobe Blog
+https://blogs.adobe.com/japan/cc-web-adobe-xd-for-beginners-5-interaction-prototype/
+
 ◆Adobe XDの2020年3月リリース！音声付きプロトタイプ、アンカーリンクなど #AdobeXD | Adobe Blog
 https://blogs.adobe.com/japan/cc-web-xd-march-2020-audio-prototyping-anchor-links-more/
 
