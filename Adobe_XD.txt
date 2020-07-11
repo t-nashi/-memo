@@ -9,7 +9,8 @@
 
 
 
-
+◆Adobe XDでモバイルファーストのWebデザイン入門 第1回: デザインする前に知っておきたいワークスペースの使い方とファイル管理 | Adobe Blog
+https://blogs.adobe.com/japan/cc-web-adobe-xd-for-beginners-1-workspace/
 
 ◆Adobe XDとBootstrapで作業を効率化 第3回: デザイントークンでつなぐAdobe XDとBootstrap | Adobe Blog
 https://blogs.adobe.com/japan/adobe-xd-bootstrap-designsytem-lite-3-design-token/
