@@ -4,6 +4,20 @@
 
 
 
+
+
+
+
+
+
+
+◆Adobe XDとBootstrapで作業を効率化 第3回: デザイントークンでつなぐAdobe XDとBootstrap | Adobe Blog
+https://blogs.adobe.com/japan/adobe-xd-bootstrap-designsytem-lite-3-design-token/
+
+
+
+
+
 ◆Adobe XDでアニメーションのあるプロトタイプをデザインしよう | Webクリエイターボックス
 https://www.webcreatorbox.com/inspiration/adobe-xd-auto-animation
 
