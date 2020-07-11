@@ -61,6 +61,11 @@ https://seopack.jp/seoblog/seo_what_snippets/
 ◆検索されたキーワードがわかるGoogle Search Console（サチコ）の使い方 | Web担当者Forum
 https://webtan.impress.co.jp/u/2020/03/09/35495
 
+◆アフィリエイトリンクにはrel=sponsoredを付けるようにGoogleが推奨（でもnofollowのままで問題なし） | 海外SEO情報ブログ
+https://www.suzukikenichi.com/blog/google-recommends-using-rel-sponsored-for-affiliate-links-if-possible/
+
+◆アフィリエイトリンクはSEO評価に影響あり？／Googleが説明
+https://seopack.jp/seoblog/20170526-affi-link-is-not-bad/
 
 
 
