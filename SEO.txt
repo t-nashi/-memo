@@ -10,9 +10,47 @@ https://seoer.work/daily-seo/
 ◆Googleのコアアップデートが起きたら？確認するべき項目と対処法｜ferret
 https://ferret-plus.com/14083
 
+◆おすすめのSEO本8選を紹介します | SEO対策の森
+https://seoer.work/seo-books-to-read/
 
+◆SEOの本質はコンテンツとリンク――話を難しくする必要はない（前編） | Moz - SEOとインバウンドマーケティングの実践情報 | Web担当者Forum
+https://webtan.impress.co.jp/e/2020/03/02/35395
 
+◆SEO効果抜群の内部リンクの貼り方を紹介【キラーページの押し上げに効果大】 - わっぜ～よか！！ブログ
+https://waxtuze-yoka.com/internal-links-how-to-paste/
 
+◆1,180万の検索結果を分析した結果、自然検索のランキング要因についてわかったこと ｜SEO Japan by アイオイクス
+https://www.seojapan.com/blog/we-analyzed-11-8-million-google-search-results-heres-what-we-learned-about-seo
+
+◆モバイルファーストインデックス対応できているかどうかを調査する2つのツール | 海外SEO情報ブログ
+https://www.suzukikenichi.com/blog/two-tools-to-see-if-your-site-is-ready-for-mobile-first-index/
+
+◆グーグルのエンジニアが警告、「別タブで開く」リンクは実はヤバいんだって！？【SEO情報まとめ】 | 海外&国内SEO情報ウォッチ | Web担当者Forum
+https://webtan.impress.co.jp/e/2020/03/13/35510
+
+◆SEO向きタイトルの付け方をSEO10年超の経験者が解説 | SEO対策の森
+https://seoer.work/how-to-create-effective-titles-for-seo/
+
+◆発リンク驚きのSEO効果と4つの注意点【使い方を間違えると逆効果】 | ガオのノート
+https://gaosnote.com/outbound-link-seo
+
+◆構造化データ | SEO研究所サクラサクラボ
+https://www.sakurasaku-labo.jp/dics/432
+
+◆Google、リモートワーク構造化データのマークアップを推奨。テレワーク関連の検索増加に対応するため #いまできること | 海外SEO情報ブログ
+https://www.suzukikenichi.com/blog/google-encourages-you-to-mark-up-your-work-from-home-jobs/
+
+◆【2020年版】被リンク獲得のアイデア – SEOおたく
+https://seotaku.com/link-building/
+
+◆SEOの大原則「見出しはh1タグ、ページに1回だけ」は今でも有効か。SEO向けA/Bテストで検証した | Moz - SEOとインバウンドマーケティングの実践情報 | Web担当者Forum
+https://webtan.impress.co.jp/e/2020/05/11/35869
+
+◆Google上位20のサイトと自サイトの内部要因を比較するツール 「SEOヴィジョン」の提供開始｜一般社団法人全日本SEO協会のプレスリリース
+https://prtimes.jp/main/html/rd/p/000000080.000024640.html
+
+◆【html初心者編】SEOを意識するなら7つのhtmlタグに注目
+https://seopack.jp/seoblog/seo_html_basic/
 
 
 
