@@ -104,6 +104,8 @@ https://hirata.blog/201807_vs-code-introduction/
 ◆Windows vs Mac 違いを徹底比較！ | CodeCampus
 https://blog.codecamp.jp/windows-mac
 
+◆Microsoft、「Visual Studio Code」の「May 2020」リリースを公開：ワークベンチ、ソース管理、デバッグなどの機能が充実 - ＠IT
+https://www.atmarkit.co.jp/ait/articles/2006/15/news136.html
 
 
 
