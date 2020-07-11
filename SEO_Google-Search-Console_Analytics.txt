@@ -70,6 +70,8 @@ https://seopack.jp/seoblog/20170526-affi-link-is-not-bad/
 ◆【決定版】Google Search Console の使い方。ウェブサイト改善のための活用術！ – ウェブ解析士協会
 https://www.waca.associates/jp/column/44362/
 
+◆「メタ ディスクリプションがない」がモバイル ファースト インデックスの一般的なエラーに追加 | 海外SEO情報ブログ
+https://www.suzukikenichi.com/blog/google-added-missing-meta-description-issue-to-the-list-of-error-messages-in-mfi-best-practices/
 
 
 
