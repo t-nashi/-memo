@@ -145,6 +145,8 @@ https://dev.classmethod.jp/articles/raspberry-pi-4-ssh-vnc-remote/
 ◆部屋のCO2濃度を、Raspberry Pi / AWS IoT / Kibanaで可視化/通知する - Qiita
 https://qiita.com/f-daiki/items/9d66fcc8221b1d1380af
 
+◆[LepaiのLP-2020A+デジタルアンプとRasPiのI²S接続] は本当に神オーディオだった - モニオの部屋
+https://www.monionoheya.com/2020/03/Lepai-LP2020.html?m=1
 
 
 
