@@ -52,7 +52,11 @@ https://prtimes.jp/main/html/rd/p/000000080.000024640.html
 ◆【html初心者編】SEOを意識するなら7つのhtmlタグに注目
 https://seopack.jp/seoblog/seo_html_basic/
 
+◆nofollow属性の変更はクロールとインデックスに使われるようになったのか？ | 海外SEO情報ブログ
+https://www.suzukikenichi.com/blog/is-nofollow-change-live-for-crawling-and-indexing/
 
+◆いまいちわからない！SEOでよく耳にする「スニペット」を3分で理解する
+https://seopack.jp/seoblog/seo_what_snippets/
 
 
 
