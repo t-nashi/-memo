@@ -10,6 +10,8 @@
 ◆Blenderアドオン特集シリーズ - デジタルものづくりチャンネル by ijigen - 日本語のアドオン解説はとてもわかりやすい（ありがたや～
 https://3dnchu.com/archives/ijigen-blender-addon-youtube/
 
+◆Blender Secrets Volume 1+2+3 (e-book) - 330個ものBlender Tipsを集めた電子書籍シリーズ！（英語）
+https://3dnchu.com/archives/blender-secrets-volume-123/
 
 
 
