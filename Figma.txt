@@ -106,12 +106,20 @@ https://webdesign-trends.net/entry/9702
 ◆2020年に注目したい人気プロトツール「Figma」のベストプラグイン厳選52個まとめ - PhotoshopVIP
 http://photoshopvip.net/121035
 
-◆figmaで使えるサービス資料テンプレート配布します｜あか理＠デザイナー｜note
-https://note.com/akari61/n/nc72537d813d4
-
 ◆Ryo NakaeさんはTwitterを使っています 「Figmaで日本語がバグらずに打てる「EditText」というプラグインをリリースしたからよかったら使ってね👇 EditText – Figma https://t.co/IOInfNF0uG https://t.co/5WYrhJvqKl」 / Twitter
 https://twitter.com/ryo_dg/status/1274921078922436610?s=20
 
+◆Figma Plugins Panel - Chrome ウェブストア
+https://chrome.google.com/webstore/detail/figma-plugins-panel/diljoblapaochhcgfonabkjihknfmllk/related
+
+◆忙しい人のためのFigma Plugin開発手引 - Qiita
+https://qiita.com/kgsi/items/54b569a64568db36d68a
+
+◆2020年 FigmaおすすめプラグインランキングBest30
+https://nekogeek.jp/figma-plugin-ranking/
+
+◆FigmaにPluginがついに来たのでよさそうなものをご紹介｜ふじけん / kenshir0f｜note
+https://note.com/fjkn/n/n125c25962ba6
 
 
 
