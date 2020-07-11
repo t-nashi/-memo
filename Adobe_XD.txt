@@ -5,7 +5,8 @@
 
 
 
-
+◆Adobe XDでモバイルファーストのWebデザイン入門 第4回: レイアウト機能を使いこなしてレスポンシブデザインを効率的に作成！ | Adobe Blog
+https://blogs.adobe.com/japan/cc-web-adobe-xd-for-beginners-4-responsive-layout-padding/
 
 ◆Adobe XDでモバイルファーストのWebデザイン入門 第2回: ワイヤーフレームをサクサクつくろう！ | Adobe Blog
 https://blogs.adobe.com/japan/cc-web-adobe-xd-for-beginners-2-wireframe/
