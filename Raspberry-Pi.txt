@@ -148,6 +148,8 @@ https://qiita.com/f-daiki/items/9d66fcc8221b1d1380af
 ◆[LepaiのLP-2020A+デジタルアンプとRasPiのI²S接続] は本当に神オーディオだった - モニオの部屋
 https://www.monionoheya.com/2020/03/Lepai-LP2020.html?m=1
 
+◆JavaScriptで制御できる電子工作ボード「obniz Board」にスリープ機能搭載版 - AKIBA PC Hotline!
+https://akiba-pc.watch.impress.co.jp/docs/news/news/1241486.html
 
 
 
