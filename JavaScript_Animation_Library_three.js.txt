@@ -28,3 +28,60 @@ https://www.cresco.co.jp/blog/entry/7427/
 
 ◆three.js - Google 検索
 https://www.google.co.jp/search?q=three.js&ie=utf-8&oe=utf-8&hl=ja
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+◆インタラクションの参考にしたいUIアニメーション５選 | UX MILK
+https://uxmilk.jp/57988
+
+◆コピペで使える！マテリアルデザインなUIアニメーション | UX MILK
+https://uxmilk.jp/51880
+
+◆より良いUIのためのマイクロインタラクション入門｜Blog｜Goodpatch グッドパッチ
+https://goodpatch.com/blog/ui-micro-interaction/
+
+◆cawpea/techbookfest-microinteractions-sample: 技術書典5の書籍でご紹介したマイクロインタラクションのサンプル
+https://github.com/cawpea/techbookfest-microinteractions-sample
+
+◆bodymovin - cdnjs.com - The best FOSS CDN for web related libraries to speed up your websites!
+https://cdnjs.com/libraries/bodymovin
+
+◆Twitter Heart on Lottiefiles. Free Lottie Animation
+https://lottiefiles.com/2415-twitter-heart#
+
+◆Lottie
+https://airbnb.design/lottie/
+
+◆マイクロインタラクションのデザイン。UIデザイナーもコードを学ぼう｜鈴木慎吾 / TSUMIKI INC.
+https://note.tsumikiinc.com/n/n51b7903c5192
+
+◆マイクロインタラクションの観察｜鈴木慎吾 / TSUMIKI INC.｜note
+https://note.com/shingo2000/m/m7a8c7194d9cd
+
+◆2019年注目のJavaScriptアニメーションライブラリ11選 - Qiita
+https://qiita.com/baby-degu/items/2516bb55e97de612118b
+
+
+
+
