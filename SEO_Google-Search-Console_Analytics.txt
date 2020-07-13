@@ -10,6 +10,9 @@ https://developers.google.com/speed/pagespeed/insights/
 ◆Google トレンド
 https://trends.google.com/trends/?geo=MY
 
+◆調べる - Google トレンド
+https://trends.google.co.jp/trends/explore
+
 ◆被リンクチェックツール：無料の被リンク対策
 https://neilpatel.com/jp/backlinks/
 
@@ -25,12 +28,26 @@ http://checker.search-rank-check.com/#result
 ◆順位チェックツール - SEOTOOLS（SEOツールズ）
 http://www.seotools.jp/002_rankcheck/
 
+◆無料キーワード提案ツール UbersuggestでSEO対策
+https://neilpatel.com/jp/ubersuggest/
 
 
 
 
 
 
+
+
+
+
+
+
+
+◆【初心者必見】検索ボリュームをツールを駆使して解析しよう！ | PINTO!
+https://service.plan-b.co.jp/blog/seo/19664/
+
+◆検索キーワードボリュームと順位を無料ツールで調査 | アレグロのSEOブログ
+https://www.allegro-inc.com/seo/search-keywords
 
 ◆【2020年最新版】おすすめSEOキーワード検索ツール一覧
 https://blog.hubspot.jp/update-the-9-best-keyword-research-tools-to-find-the-right-keywords-for-seo
