@@ -8,6 +8,25 @@
 ![](https://via.placeholder.com/16/221816/FFFFFF/?text=%20) `#221816`
 <br><br>
 
+
+
+![](https://user-images.githubusercontent.com/5539081/88399813-69e39380-ce02-11ea-8862-127efd7bf3d7.png)  
+![](https://via.placeholder.com/16/1395ba/FFFFFF/?text=%20) `#1395ba`
+![](https://via.placeholder.com/16/135bba/FFFFFF/?text=%20) `#135bba`
+![](https://via.placeholder.com/16/2d13ba/FFFFFF/?text=%20) `#2d13ba`
+![](https://via.placeholder.com/16/8113ba/FFFFFF/?text=%20) `#8113ba`
+![](https://via.placeholder.com/16/c5147d/FFFFFF/?text=%20) `#c5147d`
+![](https://via.placeholder.com/16/e2171a/FFFFFF/?text=%20) `#e2171a`
+![](https://via.placeholder.com/16/e26818/FFFFFF/?text=%20) `#e26818`
+![](https://via.placeholder.com/16/e39217/FFFFFF/?text=%20) `#e39217`
+![](https://via.placeholder.com/16/e3b917/FFFFFF/?text=%20) `#e3b917`
+![](https://via.placeholder.com/16/e3e217/FFFFFF/?text=%20) `#e3e217`
+![](https://via.placeholder.com/16/a2cf15/FFFFFF/?text=%20) `#a2cf15`
+![](https://via.placeholder.com/16/15ba14/FFFFFF/?text=%20) `#15ba14`
+<br><br>
+
+
+![](https://user-images.githubusercontent.com/5539081/88398850-ec6b5380-ce00-11ea-82db-8716619eade3.jpg)  
 ![](https://via.placeholder.com/16/ff0000/FFFFFF/?text=%20) `#ff0000`
 ![](https://via.placeholder.com/16/ff8000/FFFFFF/?text=%20) `#ff8000`
 ![](https://via.placeholder.com/16/ffff00/FFFFFF/?text=%20) `#ffff00`
@@ -23,7 +42,7 @@
 <br><br>
 
 
-![エビフライトライアングル](https://user-images.githubusercontent.com/5539081/88398197-fa6ca480-cdff-11ea-8513-9ba055e24066.png "サンプル")  
+![](https://user-images.githubusercontent.com/5539081/88398197-fa6ca480-cdff-11ea-8513-9ba055e24066.png)  
 ![](https://via.placeholder.com/16/00acee/FFFFFF/?text=%20) `#00acee`
 ![](https://via.placeholder.com/16/3b5998/FFFFFF/?text=%20) `#3b5998`
 ![](https://via.placeholder.com/16/db4a39/FFFFFF/?text=%20) `#db4a39`
