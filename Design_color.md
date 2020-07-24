@@ -22,6 +22,8 @@
 ![](https://via.placeholder.com/16/ff0080/FFFFFF/?text=%20) `#ff0080`
 <br><br>
 
+
+![エビフライトライアングル](https://user-images.githubusercontent.com/5539081/88398197-fa6ca480-cdff-11ea-8513-9ba055e24066.png "サンプル")  
 ![](https://via.placeholder.com/16/00acee/FFFFFF/?text=%20) `#00acee`
 ![](https://via.placeholder.com/16/3b5998/FFFFFF/?text=%20) `#3b5998`
 ![](https://via.placeholder.com/16/db4a39/FFFFFF/?text=%20) `#db4a39`
