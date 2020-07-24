@@ -6,8 +6,31 @@
 ![](https://via.placeholder.com/16/47b1e1/FFFFFF/?text=%20) `#47b1e1`
 ![](https://via.placeholder.com/16/0093d6/FFFFFF/?text=%20) `#0093d6`
 ![](https://via.placeholder.com/16/221816/FFFFFF/?text=%20) `#221816`
+<br><br>
 
+![](https://via.placeholder.com/16/ff0000/FFFFFF/?text=%20) `#ff0000`
+![](https://via.placeholder.com/16/ff8000/FFFFFF/?text=%20) `#ff8000`
+![](https://via.placeholder.com/16/ffff00/FFFFFF/?text=%20) `#ffff00`
+![](https://via.placeholder.com/16/80ff00/FFFFFF/?text=%20) `#80ff00`
+![](https://via.placeholder.com/16/00ff00/FFFFFF/?text=%20) `#00ff00`
+![](https://via.placeholder.com/16/00ff80/FFFFFF/?text=%20) `#00ff80`
+![](https://via.placeholder.com/16/00ffff/FFFFFF/?text=%20) `#00ffff`
+![](https://via.placeholder.com/16/0080ff/FFFFFF/?text=%20) `#0080ff`
+![](https://via.placeholder.com/16/0000ff/FFFFFF/?text=%20) `#0000ff`
+![](https://via.placeholder.com/16/8000ff/FFFFFF/?text=%20) `#8000ff`
+![](https://via.placeholder.com/16/ff00ff/FFFFFF/?text=%20) `#ff00ff`
+![](https://via.placeholder.com/16/ff0080/FFFFFF/?text=%20) `#ff0080`
+<br><br>
 
+![](https://via.placeholder.com/16/00acee/FFFFFF/?text=%20) `#00acee`
+![](https://via.placeholder.com/16/3b5998/FFFFFF/?text=%20) `#3b5998`
+![](https://via.placeholder.com/16/db4a39/FFFFFF/?text=%20) `#db4a39`
+![](https://via.placeholder.com/16/5d8ac1/FFFFFF/?text=%20) `#5d8ac1`
+![](https://via.placeholder.com/16/25af00/FFFFFF/?text=%20) `#25af00`
+![](https://via.placeholder.com/16/f03e51/FFFFFF/?text=%20) `#f03e51`
+![](https://via.placeholder.com/16/ffb53c/FFFFFF/?text=%20) `#ffb53c`
+![](https://via.placeholder.com/16/87c040/FFFFFF/?text=%20) `#87c040`
+<br><br>
 
 
 
