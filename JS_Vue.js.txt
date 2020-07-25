@@ -72,6 +72,51 @@ About ページ: http://localhost:3000/about
 404 ページ: http://localhost:3000/hogehoge
 
 
+
+
+
+
+
+
+▼ index.html
+─────
+<body>
+  <div id="app">
+    <!-- ここにテンプレートを書いていく -->
+  </div>
+</body>
+
+
+▼ main.js（new Vue）
+─────
+const app = new Vue({
+  el: '#app',
+  data: {
+    // 使用するデータ
+  },
+  methods: {
+    // 使用するメソッド
+  }
+})
+
+
+
+▼ export default
+─────
+export default {
+  name: 'app',
+  data () {
+    return {
+      // 使用するデータ
+    }
+  }
+}
+
+
+
+
+
+
 ──────────────────────────────────────────────────
  jQuery → Vue.js
 ──────────────────────────────────────────────────
