@@ -1,10 +1,4 @@
-
-
-
-
-
-
-
+## 参考
 
 * [-memo/CSSGridLayout.md at master · t-nashi/-memo](https://github.com/t-nashi/-memo/blob/master/CSSGridLayout.md)
 * [CSS Grid LayoutでWeb画面作成を効率化 | キャスレーコンサルティング株式会社](https://www.casleyconsulting.co.jp/blog/engineer/6646/?lang=ja)
