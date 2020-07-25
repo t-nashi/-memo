@@ -1198,9 +1198,6 @@ https://www.sbcr.jp/product/4797388640/
 ◆JavaScript | MDN
 https://developer.mozilla.org/ja/docs/Web/JavaScript
 
-◆脱jQueryの道その２:あの機能は素のJavaScriptでどうやるんだろ編 | webOpixel
-https://www.webopixel.net/javascript/1516.html
-
 ◆JavaScript初級者のためのコーディングガイド - Qiita
 https://qiita.com/raccy/items/bf590d3c10c3f1a2846b
 
@@ -1229,9 +1226,11 @@ https://es6console.com/
 https://babeljs.io/
 
 
+◆脱jQueryの道その２:あの機能は素のJavaScriptでどうやるんだろ編 | webOpixel
+https://www.webopixel.net/javascript/1516.html
 
-
-
+◆脱jQuery .addClass() .hasClass() .removeClass() .toggleClass() | q-Az
+https://q-az.net/none-jquery-addclass-has-remove-toggle/
 
 
 
