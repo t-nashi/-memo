@@ -10,6 +10,23 @@
 
 
 
+
+
+
+
+![](https://user-images.githubusercontent.com/5539081/88449019-86251600-ce7e-11ea-80d4-8a066084f8ca.png)  
+![](https://via.placeholder.com/16/2ecc71/FFFFFF/?text=%20) `#2ecc71`
+![](https://via.placeholder.com/16/3498db/FFFFFF/?text=%20) `#3498db`
+![](https://via.placeholder.com/16/f1c40f/FFFFFF/?text=%20) `#f1c40f`
+![](https://via.placeholder.com/16/e74c3c/FFFFFF/?text=%20) `#e74c3c`
+![](https://via.placeholder.com/16/9b59b6/FFFFFF/?text=%20) `#9b59b6`
+<br><br>
+
+
+
+
+
+
 ![](https://user-images.githubusercontent.com/5539081/88399813-69e39380-ce02-11ea-8862-127efd7bf3d7.png)  
 ![](https://via.placeholder.com/16/1395ba/FFFFFF/?text=%20) `#1395ba`
 ![](https://via.placeholder.com/16/135bba/FFFFFF/?text=%20) `#135bba`
