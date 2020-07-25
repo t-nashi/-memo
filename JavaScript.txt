@@ -1103,7 +1103,32 @@ console.log(ball.toString());					// → Ball 中心(0,0), 半径 = 2
 
 
 
+────────────────────
+ ページ読み込み後の処理
+────────────────────
+window.onload = function(){
+	// ページ読み込み後の処理
+}
 
+$(function(){
+	// ページ読み込み後の処理
+});
+
+jQuery(function(){
+	// 処理
+});
+
+jQuery(document).ready(function(){
+	// 処理
+});
+
+$(document).ready(function(){
+	// ページ読み込み後の処理
+});
+
+$(window).on('load resize',function(){
+	// ページ読み込み後・windowリサイズ時の処理
+});
 
 
 
