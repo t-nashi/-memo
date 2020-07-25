@@ -3,13 +3,12 @@
 * [CSS Grid LayoutでWeb画面作成を効率化 | キャスレーコンサルティング株式会社](https://www.casleyconsulting.co.jp/blog/engineer/6646/?lang=ja)
 * [CSS Grid Layout を極める！（基礎編） - Qiita](https://qiita.com/kura07/items/e633b35e33e43240d363)
 * [CSS Grid Layout を極める！（場面別編） - Qiita](https://qiita.com/kura07/items/486c19045aab8090d6d9)
-* [CSS Grid Layout を極める！（場面別編） - Qiita](https://qiita.com/kura07/items/486c19045aab8090d6d9)
 * [CSS グリッドレイアウト - CSS: カスケーディングスタイルシート | MDN](https://developer.mozilla.org/ja/docs/Web/CSS/CSS_Grid_Layout)
 * [CSS Grid Layout入門。対応ブラウザが出揃った新しいレイアウト仕様 - ICS MEDIA](https://ics.media/entry/15649/)
 * [CSS Grid Layoutをガッツリ使った所感 - ICS MEDIA](https://ics.media/entry/17403/)
 * [これからのレイアウトはGrid Layoutで決まり？特徴で使い分けたいCSSレイアウト手法 - ICS MEDIA](https://ics.media/entry/15921/)
-
-
+* [FirefoxのCSS Gridインスペクターが便利！ | Rriver](https://parashuto.com/rriver/tools/firefox-css-grid-inspector)
+* [CSS Grid Experiments](http://parashuto.com/playground/css-grid/autofill-vs-autofit.html)
 
 
 
