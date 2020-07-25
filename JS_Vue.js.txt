@@ -75,6 +75,9 @@ About ページ: http://localhost:3000/about
 ──────────────────────────────────────────────────
  jQuery → Vue.js
 ──────────────────────────────────────────────────
+◆-memo/JavaScript.txt at master · t-nashi/-memo
+https://github.com/t-nashi/-memo/blob/master/JavaScript.txt
+
 ◆WebデザイナーのためのVue.js事始め |  Webクリエイターボックス
 https://www.webcreatorbox.com/tech/first-vuejs
 
