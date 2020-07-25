@@ -87,6 +87,12 @@ https://liginc.co.jp/373882
 ◆初めてのVue.js（jQuery脳からの移行をメインに） - Qiita
 https://qiita.com/hoshimado/items/12df6fa00c102d087960
 
+◆脱jQuery .addClass() .hasClass() .removeClass() .toggleClass() | q-Az
+https://q-az.net/none-jquery-addclass-has-remove-toggle/
+
+◆脱jQueryの道その２:あの機能は素のJavaScriptでどうやるんだろ編 | webOpixel
+https://www.webopixel.net/javascript/1516.html
+
 
 
 ──────────────────────────────────────────────────
@@ -181,8 +187,95 @@ https://hafilog.com/vue-for-loop
 
 
 ──────────────────────────────────────────────────
- 参考
+ link
 ──────────────────────────────────────────────────
+
+────────────────────
+ 2020/07/26 sun
+────────────────────
+◆Vue.js 入門 （htmlベースで基本機能を知ろう編） - Qiita
+https://qiita.com/isihigameKoudai/items/6718237cd8a971442e2d
+
+◆ToDoリストを作りながら学習しよう！ | 基礎から学ぶ Vue.js
+https://cr-vue.mio3io.com/tutorials/todo.html#step1-%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%81%AE%E4%BD%9C%E6%88%90
+
+◆Vue.jsの「export default」と「new Vue」の書き方 – myMemoBlog by 256hax
+https://blog.tanebox.com/archives/470/
+
+◆【Vue.js】イベントハンドリングをサンプルを作りながら理解する - Qiita
+https://qiita.com/b1san/items/6bc0be17cd6ed687520c
+
+◆jQueryでよく使う動きをVue.jsでやってみる - Qiita
+https://qiita.com/g-taguchi/items/9f97f2172aa048934f1c
+
+◆JavaScript - 複数のv-on:clickを記述するとクリックした要素を取得できない｜teratail
+https://teratail.com/questions/134322
+
+─────
+
+◆「Vue.js」子要素と親要素のクリック イベントを併発しない方法！
+https://hasethblog.com/blog-entry-625.html
+
+◆【Vue.js入門】v-on、v-forを使ってみよう！ - Qiita
+https://qiita.com/watsuyo_2/items/bda8f2673cf49de4421b
+
+◆JavaScript classListでクラス属性を操作するゾ - かもメモ
+https://chaika.hatenablog.com/entry/2019/02/15/090000
+
+◆短縮記法でちゃちゃっと書こう。（Vue.js始めるおれおれアドベントカレンダー2016 – 15日目） | Ginpen.com
+https://ginpen.com/2016/12/15/vue-shorthands/
+
+◆Vuejs dataプロパティに動的に値を追加する方法（とJSの基本を理解してなかったという話) - SIerだけど技術やりたいブログ
+https://www.kimullaa.com/entry/2017/07/24/224951
+
+◆Vueのv-bind:classの書き方・使い方について解説 | ELOOP（イーループ） - 開発課題に取り組んで身につける実践型プログラミング学習サービス
+https://www.e-loop.jp/knowledges/5/
+
+◆Vue.jsでtoggleClass | ITかあさん
+http://www.kaasan.info/archives/4270
+
+─────
+
+◆ToDoリストを作りながら学習しよう！ | 基礎から学ぶ Vue.js
+https://cr-vue.mio3io.com/tutorials/todo.html#step1-%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%81%AE%E4%BD%9C%E6%88%90
+
+◆Vue.jsミニハンズオン（TODOリスト作成） - Qiita
+https://qiita.com/moonglows76/items/358ef3cd1566c38ece3a
+
+
+
+
+
+
+
+
+
+
+
+────────────────────
+ V2 - guide
+────────────────────
+◆Vue.js
+https://jp.vuejs.org/
+
+◆はじめに — Vue.js
+https://jp.vuejs.org/v2/guide/index.html
+
+◆テンプレート構文 — Vue.js
+https://jp.vuejs.org/v2/guide/syntax.html
+
+◆コンポーネントの基本 — Vue.js
+https://jp.vuejs.org/v2/guide/components.html
+
+◆クラスとスタイルのバインディング — Vue.js
+https://jp.vuejs.org/v2/guide/class-and-style.html
+
+◆リストレンダリング — Vue.js
+https://jp.vuejs.org/v2/guide/list.html
+
+────────────────────
+ xxxxx
+────────────────────
 ◆【第1回】Vue.js 入門 〜Hello World編〜 – 株式会社ライトコード
 https://rightcode.co.jp/blog/information-technology/vue-js-introduction-hello-world
 
