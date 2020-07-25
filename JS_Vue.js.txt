@@ -238,6 +238,35 @@ https://hafilog.com/vue-for-loop
  link
 ──────────────────────────────────────────────────
 
+
+────────────────────
+ チュートリアル
+────────────────────
+◆Vue.jsを用いたサンプルが数多くまとめられている「Vue.js Examples」 | NxWorld
+https://www.nxworld.net/services-resource/vuejsexamples.html?utm_content=bufferd3cd3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+◆Vue.jsの勉強にもいい！UIコンポーネントやインタラクションを実装するチュートリアルがまとめられた -Vue.js Examples | コリス
+https://coliss.com/articles/build-websites/operation/javascript/vuejs-examples.html
+
+◆サーバーサイドエンジニアがじっくり学ぶVue.jsチュートリアル【2. Introduction】 | Developers.IO
+https://dev.classmethod.jp/articles/vuejs-tutorials-of-db-engineer-2/
+
+◆ワイ「何でそんな小っさいコンポーネント作ってるん？ｗ」 - Qiita
+https://qiita.com/Yametaro/items/e8cb39b1a20b762bfafa
+
+
+────────────────────
+ チートシート
+────────────────────
+◆最新版のチートシート！Vue.jsのよく使用するイベントや構文がまとめられたフロントエンド制作者用チートシート | コリス
+https://coliss.com/articles/build-websites/operation/javascript/cheat-sheet-of-vue.html
+
+◆Vue.js Cheat Sheet
+https://flaviocopes.com/vue-cheat-sheet/
+
+
+
+
 ────────────────────
  2020/07/26 sun
 ────────────────────
