@@ -15,6 +15,17 @@ webcreatorbox				code pen
 
 
 
+
+a:link {color:#0000ff;} /*未訪問のリンクの色*/
+a:visited {color:#00ccff;} /*訪問済みのリンクの色*/
+a:hover {color:#ffffff; background:#0000cc;} /*カーソルが乗っているリンクの色*/
+a:active {color:#ffff00;} /*クリック中のリンクの色*/
+
+
+
+
+
+
 --------------------
 CSS3 - position: sticky
 --------------------
