@@ -115,3 +115,57 @@ https://www.atmarkit.co.jp/ait/articles/2006/15/news136.html
 
 
 
+
+
+
+
+──────────────────────────────────────────────────
+ Prettier
+──────────────────────────────────────────────────
+◆【VSCode】Prettierの使い方＆おすすめ設定を紹介 | 札幌市のWeb・ホームページ制作｜株式会社マーベリックス
+https://ma-vericks.com/vscode-prettier/
+
+◆HTMLをprettierでフォーマットかけると変なところで改行がはいる件 - takeda_san’s blog
+https://takeda-san.hatenablog.com/entry/2019/09/08/231123
+
+◆Prettier · Opinionated Code Formatter
+https://prettier.io/
+
+◆Prettierの導入方法 - フロントエンド開発で必須のコード整形ツール - ICS MEDIA
+https://ics.media/entry/17030/
+
+
+▼ 「.prettierrc」というファイル名で保存すると設定が有効になる
+
+{
+  // デフォルト設定
+  // "printWidth": 80,
+  // "tabWidth": 2,
+  // "useTabs": false,
+  // "semi": true,
+  // "singleQuote": false,
+  // "quoteProps": "as-needed",
+  // "jsxSingleQuote": false,
+  // "trailingComma": "none",
+  // "bracketSpacing": true,
+  // "jsxBracketSameLine": false,
+  // "arrowParens": "avoid",
+  // "rangeStart": 0,
+  // "rangeEnd": Infinity,
+  // "parser": "none",
+  // "filepath": "none",
+  // "requirePragma": false,
+  // "insertPragma": false,
+  // "proseWrap": "preserve",
+  // "htmlWhitespaceSensitivity": "css",
+  // "vueIndentScriptAndStyle": false,
+  // "endOfLine": "auto",
+
+  // 設定例
+//   "printWidth": 9999999999,     // 自動折り返し文字数
+//   "trailingComma": "es5",       // 複数行の場合、可能な限り末尾のコンマを出力
+//   "tabWidth": 2,                // タブサイズ
+//   "semi": true,                 // ステートメントの最後にセミコロンを付与
+//   "singleQuote": true,          // 二重引用符の代わりに単一引用符を使用
+//   "endOfLine": "lf"             // 改行の文字コードを指定
+}
