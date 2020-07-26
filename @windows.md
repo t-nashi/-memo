@@ -10,6 +10,7 @@
 <tr><td>cmd</td><td>コマンドプロンプト</td></tr>
 <tr><td>powershell</td><td>パワーシェル</td></tr>
 <tr><td>calc</td><td>電卓</td></tr>
+<tr><td>msconfig</td><td>システム構成</td></tr>
 <tr><td>taskmgr</td><td>タスクマネージャー</td></tr>
 <tr><td>control</td><td>コントロールパネル</td></tr>
 <tr><td>control system</td><td>コントロールパネル ＞ システム（winkey + Pause/Break）</td></tr>
