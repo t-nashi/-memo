@@ -25,6 +25,12 @@ a:active {color:#ffff00;} /*クリック中のリンクの色*/
 
 
 
+◆WAI-ARIAの基本 - ウェブ開発を学ぶ | MDN
+https://developer.mozilla.org/ja/docs/Learn/Accessibility/WAI-ARIA_basics
+
+
+
+
 
 --------------------
 CSS3 - position: sticky
