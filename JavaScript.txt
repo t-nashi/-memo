@@ -1138,6 +1138,11 @@ document.addEventListener('load', function() {
     // HTMLの準備を待たずに実行する。
 }());
 
+(() => {
+    // 実行させたい処理;
+})();
+
+
 
 
 ◆ jQuery
