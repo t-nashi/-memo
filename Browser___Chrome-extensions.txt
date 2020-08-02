@@ -21,12 +21,13 @@ https://www.atmarkit.co.jp/ait/articles/1611/21/news027.html
 
 
 
-▼ GetTabnfo
+◆ GetTabnfo
 https://chrome.google.com/webstore/detail/gettabinfo/iadhcoaabobddcebhmheikmbcjcigjhc
 
 ・Chromeでタブをたくさん開きがちな人に届け！作業効率を上げまくる拡張機能4選 | 東京のWeb制作会社LIG
 https://liginc.co.jp/485496
 
+▼ 01____________________
 
 {"targetVersion":"2.0,1",
   "templates":
@@ -47,8 +48,7 @@ https://liginc.co.jp/485496
 }
 
 
-
-
+▼ 02____________________
 
 {
   "targetVersion": "2.0,1",
@@ -73,8 +73,32 @@ https://liginc.co.jp/485496
 }
 
 
+◆ Stylus
+https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/related?hl=ja
 
+▼ yahoo-mail-3column____________________
 
+#shellcontent {
+    top: 30px !important;
+}
+#msg-list {
+    width: 600px !important;
+    height: 800px !important;
+}
+#msg-preview {
+    top: 30px !important;
+    left: 600px !important;
+}
+#rail-resize-hori {
+    display: none !important;
+}
+#accordiontitlelist_bottom {
+    display: none !important;
+}
+#shellnavigation,
+body.accordiontitlelist_bottom {
+    height: 800px !important;
+}
 
 
 
