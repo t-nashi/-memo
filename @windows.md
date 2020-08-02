@@ -16,6 +16,8 @@
 <tr><td>control system</td><td>コントロールパネル ＞ システム（winkey + Pause/Break）</td></tr>
 <tr><td>services.msc</td><td>サービス</td></tr>
 <tr><td>sysdm.cpl</td><td>システムのプロパティ</td></tr>
+<tr><td>mmsys.cpl</td><td>サウンドとオーディオデバイスのプロパティ</td></tr>
+
 
 <tr><td>notepad</td><td>メモ帳</td></tr>
 <tr><td>osk</td><td>スクリーンキーボード</td></tr>
