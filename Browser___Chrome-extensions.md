@@ -1,34 +1,33 @@
-▼ Chrome - link
 
-chrome://extensions/
-
-chrome://inspect/#devices
-
-chrome://bookmarks/
-
-
-
-
-◆【Google Chrome】「特別なURL」でトラシューや開発、管理に便利な機能を呼び出す（一覧あり）：Google Chrome完全ガイド - ＠IT
-https://www.atmarkit.co.jp/ait/articles/1611/21/news027.html
-
+## Chrome - link
+<table>
+<thead>
+<tr><th>内容</th><th>アドレス</th></tr>
+</thead>
+<tbody>
+<tr><td>機能拡張</td><td>chrome://extensions/</td></tr>
+<tr><td>リモートデバッグ</td><td>chrome://inspect/#devices</td></tr>
+<tr><td>ブックマーク</td><td>chrome://bookmarks/</td></tr>
+</tbody>
+</table>
 
 
 
+* [【Google Chrome】「特別なURL」でトラシューや開発、管理に便利な機能を呼び出す（一覧あり）：Google Chrome完全ガイド - ＠IT](https://www.atmarkit.co.jp/ait/articles/1611/21/news027.html)
+
+
+<br><br><br>
 
 
 
+## ◆ [GetTabInfo](https://chrome.google.com/webstore/detail/gettabinfo/iadhcoaabobddcebhmheikmbcjcigjhc)
+
+#### 参考link
+* [Chromeでタブをたくさん開きがちな人に届け！作業効率を上げまくる拡張機能4選 | 株式会社LIG](https://liginc.co.jp/485496)
 
 
-
-◆ GetTabnfo
-https://chrome.google.com/webstore/detail/gettabinfo/iadhcoaabobddcebhmheikmbcjcigjhc
-
-・Chromeでタブをたくさん開きがちな人に届け！作業効率を上げまくる拡張機能4選 | 東京のWeb制作会社LIG
-https://liginc.co.jp/485496
-
-▼ 01____________________
-
+#### ▼ json01
+```json
 {"targetVersion":"2.0,1",
   "templates":
   [
@@ -46,10 +45,10 @@ https://liginc.co.jp/485496
     }
   ]
 }
+```
 
-
-▼ 02____________________
-
+#### ▼ json02
+```json
 {
   "targetVersion": "2.0,1",
   "templates": [
@@ -71,13 +70,15 @@ https://liginc.co.jp/485496
     }
   ]
 }
+```
+
+<br><br><br>
 
 
-◆ Stylus
-https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/related?hl=ja
+## ◆ [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne/related?hl=ja)
 
-▼ yahoo-mail-3column____________________
-
+#### ▼ yahoo-mail-3column____________________
+```css
 #shellcontent {
     top: 30px !important;
 }
@@ -99,30 +100,4 @@ https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmn
 body.accordiontitlelist_bottom {
     height: 800px !important;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
