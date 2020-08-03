@@ -10,13 +10,33 @@
 <tr><td>ブックマーク</td><td>chrome://bookmarks/</td></tr>
 </tbody>
 </table>
-
-
-
 * [【Google Chrome】「特別なURL」でトラシューや開発、管理に便利な機能を呼び出す（一覧あり）：Google Chrome完全ガイド - ＠IT](https://www.atmarkit.co.jp/ait/articles/1611/21/news027.html)
 
+<br><br><br>
+
+
+## ◆ Chrome - shortcut
+<table>
+<thead>
+<tr><th>内容</th><th>Windows</th><th>Mac</th></tr>
+</thead>
+<tbody>
+<tr><td>アドレスバーにカーソルを移動</td><td>Ctrl + L</td><td>⌘ + L</td></tr>
+<tr><td>DevTools表示</td><td>Ctrl + Shift + I</td><td>xxx</td></tr>
+<tr><td>ブックマーク表示</td><td>Ctrl + Shift + O</td><td>xxx</td></tr>
+</tbody>
+</table>
+* [【厳選】本当に使える Google Chrome のショートカットキー17個まとめ。](https://wayohoo.com/google-chrome/tips/useful-shortcut-key-list.html)
 
 <br><br><br>
+
+
+
+
+
+
+
+
 
 
 
