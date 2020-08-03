@@ -8,7 +8,7 @@ git push origin master
 
 * [git pushでリモートリポジトリにプッシュする方法 | TechAcademyマガジン](https://techacademy.jp/magazine/10271)
 
-<br>
+<br><br><br>
 
 
 
@@ -24,7 +24,7 @@ git push origin master
 </tbody>
 </table>
 
-<br>
+<br><br><br>
 
 
 ## コード
@@ -35,7 +35,7 @@ git push origin master
 // ココにコードを書く
 ```
 
-<br>
+<br><br><br>
 
 
 
