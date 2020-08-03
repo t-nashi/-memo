@@ -10,6 +10,7 @@
 <tr><td>ブックマーク</td><td>chrome://bookmarks/</td></tr>
 </tbody>
 </table>
+
 * [【Google Chrome】「特別なURL」でトラシューや開発、管理に便利な機能を呼び出す（一覧あり）：Google Chrome完全ガイド - ＠IT](https://www.atmarkit.co.jp/ait/articles/1611/21/news027.html)
 
 <br><br><br>
@@ -26,6 +27,7 @@
 <tr><td>ブックマーク表示</td><td>Ctrl + Shift + O</td><td>xxx</td></tr>
 </tbody>
 </table>
+
 * [【厳選】本当に使える Google Chrome のショートカットキー17個まとめ。](https://wayohoo.com/google-chrome/tips/useful-shortcut-key-list.html)
 
 <br><br><br>
