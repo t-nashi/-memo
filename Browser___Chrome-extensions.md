@@ -23,8 +23,9 @@
 </thead>
 <tbody>
 <tr><td>アドレスバーにカーソルを移動</td><td>Ctrl + L</td><td>⌘ + L</td></tr>
-<tr><td>DevTools表示</td><td>Ctrl + Shift + I</td><td>xxx</td></tr>
-<tr><td>ブックマーク表示</td><td>Ctrl + Shift + O</td><td>xxx</td></tr>
+<tr><td>DevTools表示</td><td>Ctrl + Shift + I</td><td>⌘ + ⌥ + I</td></tr>
+<tr><td>ブックマーク編集</td><td>Ctrl + Shift + O</td><td>⌘ + ⌥ + B</td></tr>
+<tr><td>ブックマークバー表示・非表示</td><td>xxx</td><td>⌘ + Shift + B</td></tr>
 </tbody>
 </table>
 
