@@ -10,7 +10,7 @@
 <tr><td>ブックマーク</td><td>chrome://bookmarks/</td></tr>
 </tbody>
 </table>
-
+* [Inspect Devices - Chrome ウェブストア](https://chrome.google.com/webstore/detail/inspect-devices/pjpobmgdbnbegggcdgbljfgplleejmkb/)
 * [【Google Chrome】「特別なURL」でトラシューや開発、管理に便利な機能を呼び出す（一覧あり）：Google Chrome完全ガイド - ＠IT](https://www.atmarkit.co.jp/ait/articles/1611/21/news027.html)
 
 <br><br><br>
