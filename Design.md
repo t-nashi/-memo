@@ -7,6 +7,7 @@
 * [Fresh Background Gradients | WebGradients.com 💎](https://webgradients.com/)
 
 <br>
+<br>
 
 
 ## 手持ちのフォント何がある？
@@ -14,17 +15,30 @@
 → フォント一覧見る方法は？  
 → できれば任意のテキストのバージョンが見たい
 
+<br>
+<br>
+
+
 ### webで表示
 * [Wordmark.it - Helps you choose fonts](https://wordmark.it/)
 * [Wordmark.it Extension - Chrome ウェブストア](https://chrome.google.com/webstore/detail/wordmarkit-extension/plafaneablgcojpbaeefkmnheilloopl)
+
+<br>
+<br>
 
 
 ### アプリで表示
 #### win -
 * [Simple, easy and well designed applications by xiles](http://www.xiles.net/)
 
+<br>
+<br>
+
 #### mac -
 Font Book（OSプリインストールされてるやつ）
+
+<br>
+<br>
 
 ### フォントダウンロード（AdobeCC契約＆Free）
 * [フォントを検索｜Adobe Fonts](https://fonts.adobe.com/fonts)
@@ -32,10 +46,14 @@ Font Book（OSプリインストールされてるやつ）
 * [Google Fonts + Japanese • Google Fonts + 日本語](https://googlefonts.github.io/japanese/)
 * [FontSpark | Discover Better Fonts](https://fontspark.app/)
 
+<br>
+<br>
 
 ### その他
 * [GoogleフォントをPhotoshopで使う（無料プラグイン） | FONTEA](https://4webcreators.com/design/font/fontea)
 
+<br>
+<br>
 <br>
 
 
@@ -45,6 +63,7 @@ Font Book（OSプリインストールされてるやつ）
 → xxx
 * [(9) Pinterest](https://www.pinterest.jp/pin/515310382367285569/)
 
+<br>
 <br>
 
 
@@ -56,6 +75,7 @@ Font Book（OSプリインストールされてるやつ）
 * [Photoshopでスクリーントーン風グラデーションを作成する方法｜DTPサポート情報](https://www.ddc.co.jp/dtp/archives/20090401/172400.html)
 * [Photoshopでハーフトーン、ドット画像を作る方法（ブラシ、アクションなどの無料素材収録） - PhotoshopVIP](http://photoshopvip.net/117197)
 
+<br>
 <br>
 
 
