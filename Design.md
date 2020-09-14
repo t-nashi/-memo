@@ -56,4 +56,13 @@ Font Book（OSプリインストールされてるやつ）
 * [Photoshopでスクリーントーン風グラデーションを作成する方法｜DTPサポート情報](https://www.ddc.co.jp/dtp/archives/20090401/172400.html)
 * [Photoshopでハーフトーン、ドット画像を作る方法（ブラシ、アクションなどの無料素材収録） - PhotoshopVIP](http://photoshopvip.net/117197)
 
+<br>
+
+
+
+
+## Other
+* [UIデザイナーに必要なのは、決定力のあるデザインを作る能力｜坪田 朋](https://blog.tsubotax.com/n/n4b0b31c9223f)
+
+
 
