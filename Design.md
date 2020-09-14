@@ -85,7 +85,7 @@ Font Book（OSプリインストールされてるやつ）
 * [UIデザイナーに必要なのは、決定力のあるデザインを作る能力｜坪田 朋](https://blog.tsubotax.com/n/n4b0b31c9223f)
 * [ランディングページ制作に役立つマニュアルと改善法(toCtoB)｜相原 ゆうきfree web hope｜note](https://note.com/yukiaihara/n/ne755f1377b57)
 * [配色難民と化した新人デザイナーに捧ぐ。本当に役立つ配色サービスまとめ | 株式会社LIG](https://liginc.co.jp/399974)
+* [These are the fonts behind 30 famous logos | by Jack Shepherd | Aug, 2020 | UX Collective](https://uxdesign.cc/these-are-the-fonts-behind-30-famous-logos-40c83cd05d16)
 
-* [Loose Drawing](https://loosedrawing.com/)
 
 
