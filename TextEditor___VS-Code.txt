@@ -107,6 +107,8 @@ https://blog.codecamp.jp/windows-mac
 ◆Microsoft、「Visual Studio Code」の「May 2020」リリースを公開：ワークベンチ、ソース管理、デバッグなどの機能が充実 - ＠IT
 https://www.atmarkit.co.jp/ait/articles/2006/15/news136.html
 
+◆CSS Peek - Visual Studio Marketplace
+https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
 
 
 
