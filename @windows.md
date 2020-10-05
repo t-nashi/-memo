@@ -27,6 +27,7 @@
 <tr><td>regedit</td><td>レジストリエディタ</td></tr>
 <tr><td>msinfo32</td><td>システム情報</td></tr>
 <tr><td>compmgmt.msc</td><td>コンピュータの管理</td></tr>
+<tr><td>diskmgmt.msc</td><td>ディスクの管理</td></tr>
 <tr><td>dxdiag</td><td>DirectX　診断ツール</td></tr>
 <tr><td>main.cpl</td><td>マウスのプロパティ</td></tr>
 <tr><td>winver</td><td>Windowsのバージョン情報</td></tr>
