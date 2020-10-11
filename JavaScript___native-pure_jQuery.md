@@ -11,6 +11,7 @@
 
 ###### xxxxx
 
+* [イマドキのJavaScriptの書き方2018 - Qiita](https://qiita.com/shibukawa/items/19ab5c381bbb2e09d0d9)
 * [【2020年版】jQuery最新の読み込みスクリプト「コピペOK＋裏技」 | マコブログ](https://macoblog.com/jquery-saishin/)
 * [デベロッパーツールでjQueryが使えない時はこれ【コピペOK】 | マコブログ](https://macoblog.com/developertool_jquery/)
 * [10年遅れたJavaScriptの知識をざっくり10分でアップデートしよう – WPJ](https://www.webprofessional.jp/anatomy-of-a-modern-javascript-application/)
