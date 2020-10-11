@@ -7,6 +7,7 @@
 * [【脱jQuery】JavaScriptをネイティブで書くときのあれこれTips | Will Style Inc.｜神戸にあるウェブ制作会社](https://www.willstyle.co.jp/blog/1025/)
 * [脱jQuery .addClass() .hasClass() .removeClass() .toggleClass() | q-Az](https://q-az.net/none-jquery-addclass-has-remove-toggle/)
 * [脱jQueryの道その２:あの機能は素のJavaScriptでどうやるんだろ編 | webOpixel](https://www.webopixel.net/javascript/1516.html)
+* [Pure JavaScriptでページトップへ戻るボタンを実装する | MINOR MEETING](https://hiroshi-yokota.com/2019/12/10/back-to-top/)
 
 ###### xxxxx
 
