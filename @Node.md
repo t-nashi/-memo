@@ -17,6 +17,9 @@
 | npm remove -g xxxxx          | グローバルのパッケージをアンインストール                                                             | 
 | npm remove xxxxx             | プロジェクトのパッケージをアンインストール                                                           | 
 | npm outdated                 | npm installでインストールしたパッケージ(package.json)の現状と最新のバージョン確認                     | 
+| npm update -g xxxxx          | グローバルにインストールされている特定のパッケージをアップデート                     | 
+| npm update xxxxx             | プロジェクトにインストールされている特定のパッケージをアップデート                     | 
+| npm update                   | プロジェクトにインストールされている全てのパッケージをアップデート                     | 
 
 
 
