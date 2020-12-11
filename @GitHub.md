@@ -2,6 +2,7 @@
 ## エラー： コミットまでsourceTree、pushはターミナルで行うと出来る  
 ```javascript
 git push origin master
+git push origin main
 ```
 
 #### 参考link
