@@ -4,6 +4,27 @@
 * [デザインスタイルガイドのすすめ | スマホアプリUI | つみきブログ](https://blog.tsumikiinc.com/article/20160330_post-3.html)
 * [Material Designの設計思想を探る｜usagimaru｜note](https://note.com/usagimaruma/n/nb22f1bbca4c8)
 
+* [Sketchでデザインしながらガイドラインを作ろう｜かみそる｜note](https://note.com/czrkmsn/n/ndaa68d3f949e)
+* [質の高いスタイルガイドを作成するために考えておくべきこと ｜ Tips Note by TAM](https://www.tam-tam.co.jp/tipsnote/html_css/post14750.html)
+* [Web制作で困らない！スタイルガイド作成に必要なポイント10個まとめ + 無料テンプレート - PhotoshopVIP](https://photoshopvip.net/69456)
+* [使いやすいスタイルガイドを作成！デザイナー向けテンプレート素材、ツール15個まとめ - PhotoshopVIP](https://photoshopvip.net/87756)
+* [スタイルガイド アーカイブ - PhotoshopVIP](https://photoshopvip.net/tag/style-guide)
+* [Web制作で困らない！スタイルガイド作成に必要なポイント10個まとめ + 無料テンプレート - PhotoshopVIP](https://photoshopvip.net/69456)
+
+
+* [こういうのを一つは用意しておきたい！Webサイトのスタイルガイドを作成する時に便利な無料テンプレート素材 | コリス](https://coliss.com/articles/build-websites/operation/work/nested-symbols-style-guides.html)
+* [納品用のWebサイトのスタイルガイドが簡単に作成できるHTMLのテンプレート -Style Guide Guide | コリス](https://coliss.com/articles/build-websites/operations/create-style-guide-template.html)
+* [『DocumentCSS』を使ってみた。CSSスタイルガイドジェネレーターで意思疎通をスムーズに。 | Workship MAGAZINE(ワークシップマガジン)](https://goworkship.com/magazine/uxdesign-styleguide-documentcss/)
+* [デザインシステム、パターンライブラリ、スタイルガイドそれぞれの定義と違い | UX MILK](https://uxmilk.jp/69278)
+* [【2018年】 今でも現役！スタイルガイドジェネレータ3選 - Qiita](https://qiita.com/cheez921/items/098c922fb3eab750fb37)
+* [Styleguide Toolbox - Templates, UI Kits, Tools & Generators](https://speckyboy.com/styleguide-toolbox/)
+* [Examples](http://styleguides.io/examples.html)
+* [Homepage - Australian Government Design System](https://designsystem.gov.au/)
+* [Style Guide Template in CSS | CodyHouse](https://codyhouse.co/gem/css-style-guide-template/)
+* [Style Guide Boilerplate](http://bjankord.github.io/Style-Guide-Boilerplate/demo.html)
+
+
+
 <br><br><br>
 
 
