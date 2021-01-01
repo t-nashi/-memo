@@ -72,13 +72,12 @@
 
 ## 変数名の命名規則
 
-* [変数名の命名規則/＊＊ケースの使い分け - Qiita](https://qiita.com/am_nimitz3/items/7b01af53751dba5d8fb1)
 * [プログラマーのためのネーミング辞書 | codic](https://codic.jp/)
+* [変数名の命名規則/＊＊ケースの使い分け - Qiita](https://qiita.com/am_nimitz3/items/7b01af53751dba5d8fb1)
 * [HTMLとCSSクラスでよく使う命名について - Qiita](https://qiita.com/pugiemonn/items/eaa597b79fe59a1f1506)
 * [アクセシビリティを考慮したちょっと複雑なデータ・テーブルのコーディングについて考える | Rriver](https://parashuto.com/rriver/development/coding-accessible-data-tables-complex)
 * [class名に使えそうな英語まとめ | たねっぱ！](https://taneppa.net/class_name_english/)
 * [クラス名に悩まないためのネーミングリストを作りました │ T_times](https://tatsumushi.work/?p=902)
-* [プログラマーのためのネーミング辞書 | codic](https://codic.jp/)
 
 <br><br><br>
 
