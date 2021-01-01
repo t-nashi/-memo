@@ -24,6 +24,17 @@
 * [Style Guide Boilerplate](http://bjankord.github.io/Style-Guide-Boilerplate/demo.html)
 
 
+* [Figmaで使える！スタイルガイドテンプレートのつくりかた (テンプレートのみ有料)｜かみそる｜note](https://note.com/czrkmsn/n/n1536b97ce3c8)
+* [Atomic DesignをベースにしたデザインシステムとCSS設計｜あっきー｜note](https://note.com/kuronekopunk/n/na680eae3e816)
+* [作業にも役立つ！Webデザインのスタイルガイドの作り方 | TechAcademyマガジン](https://techacademy.jp/magazine/11962)
+* [デザインシステムを正しく理解しよう。作り方・参考事例のまとめ | Web Design Trends](https://webdesign-trends.net/entry/9068)
+* [ブラウザー上でスタイルガイドが作れるFrontifyを試してみた | Webクリエイターボックス](https://www.webcreatorbox.com/webinfo/style-guide-frontify)
+* [スタートアップ企業が参考にするべき50のスタイルガイド](https://www.canva.com/ja_jp/learn/50-meticulous-style-guides-every-startup-see-launching/)
+* [デザインシステムに採用する色を決める5つのルール : could](https://yasuhisa.com/could/article/design-system-colors/)
+* [デザインシステムを作る前にデザインのシステムを理解しよう : could](https://yasuhisa.com/could/article/system-of-design/)
+* [デザインシステムの落とし所はどこにある？ : could](https://yasuhisa.com/could/article/where-to-find-designsystem/)
+* [UIデザインのバグを減らすための施策 : could](https://yasuhisa.com/could/article/ui-design-bugs/)
+
 
 <br><br><br>
 
@@ -37,6 +48,8 @@
 
 * [Atomic DesignとCSS設計 | 第1回 Atomic Designとは何か | CodeGrid](https://www.codegrid.net/articles/2017-atomic-design-1)
 * [APB CSS - Atomic Parts Base CSS -](http://apbcss.com/)
+* [Atomic DesignをベースにしたデザインシステムとCSS設計｜あっきー｜note](https://note.com/kuronekopunk/n/na680eae3e816)
+
 
 <br><br><br>
 
@@ -51,6 +64,8 @@
 * [hiloki/flocss: CSS organization methodology.](https://github.com/hiloki/flocss)
 * [FLOCSSを使ったCSS設計での悩みどころと解決案 - Qiita](https://qiita.com/uggds/items/d904b2f9a103c37a25fa)
 * [FLOCSSのComponentとProjectの違いを身の回りのもので考える（お寿司編） | Ozlink LAB | マーケティングエージェンシー 株式会社Oz link（オズ・リンク）](https://www.ozlink.co.jp/lab/1050/)
+* [FLOCSSベースのサイト設計 - 破綻しないルールを決める | 夢みるゴリラ](https://yumegori.com/flocss)
+* [[CSS設計] 私のためのFLOCSSまとめ - Qiita](https://qiita.com/super-mana-chan/items/644c6827be954c8db2c0)
 
 
 ## FLOCSSとは別のCSS設計
@@ -86,6 +101,9 @@
 * [CSSや画像の命名規則について | Web Design KOJIKA17](https://kojika17.com/2012/02/naming.html)
 * [コーディング規約を作ろう | Webクリエイターボックス](https://www.webcreatorbox.com/webinfo/coding-guideline)
 * [正しいコーディングが身につくエンジニア英語の手引き 〜文法とクラス／メソッド、命名規則〜 | FINDJOB! Startup](https://www.find-job.net/startup/english-for-engineers-naming-conventions)
+* [akinov/css-sample](https://github.com/akinov/css-sample)
+* [プログラミングスタイルガイドのスタイルガイド - Qiita](https://qiita.com/yugui/items/960b0da38a15c4d6917b)
+* [Coding style — Firefox Source Docs documentation](https://firefox-source-docs.mozilla.org/code-quality/coding-style/index.html)
 
 <br><br><br>
 
