@@ -25,14 +25,20 @@
 
 
 
-## FLOCSS
+## FLOCSS（CSS設計）
 
 * [hiloki/flocss: CSS organization methodology.](https://github.com/hiloki/flocss)
-* [サルでも分かるOOCSS（オブジェクト指向CSS）。未だにidを使っている愚かなフロントエンジニアへ | hajipion.com](https://hajipion.com/1879.html)
-* [OOCSS（オブジェクト指向CSS）のススメ | hijiriworld Web](https://hijiriworld.com/web/oocss/)
+* [FLOCSSを使ったCSS設計での悩みどころと解決案 - Qiita](https://qiita.com/uggds/items/d904b2f9a103c37a25fa)
+* [FLOCSSのComponentとProjectの違いを身の回りのもので考える（お寿司編） | Ozlink LAB | マーケティングエージェンシー 株式会社Oz link（オズ・リンク）](https://www.ozlink.co.jp/lab/1050/)
+
+
+## FLOCSSとは別のCSS設計
 * [CSS設計における3大メソッド[OOCSS][BEM][SMACSS] | ライズウィルスタッフブログ](https://www.risewill.co.jp/blog/archives/5652)
 * [FLOCSSを扱いきれないあなたに贈る、スリムなCSS設計の話 | WebNAUT](https://webnaut.jp/technology/20170407-2421/)
 * [smacss - Google 検索](https://www.google.co.jp/search?ei=CTEUW7_VKIfL0gT8z7WoBA&q=smacss&oq=smac&gs_l=psy-ab.3.0.0i67k1j0l5j0i4k1j0.315023.317708.0.318424.6.6.0.0.0.0.228.593.4j0j1.6.0....0...1c.1j4.64.psy-ab..0.5.590.0..0i131k1.73.RolJ4AzAwhs)
+* [サルでも分かるOOCSS（オブジェクト指向CSS）。未だにidを使っている愚かなフロントエンジニアへ | hajipion.com](https://hajipion.com/1879.html)
+* [OOCSS（オブジェクト指向CSS）のススメ | hijiriworld Web](https://hijiriworld.com/web/oocss/)
+
 
 <br><br><br>
 
