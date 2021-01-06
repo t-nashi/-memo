@@ -153,7 +153,31 @@ export default {
 <br>
 
 #### nuxtのバージョン調べる
-	npx nuxt -v
+```
+npx nuxt -v
+```
+
+
+
+```
+▼ 2021/01/06wed時点の各バージョン
+・nuxt/cli： v2.14.12
+・node： v12.16.1
+・npm： 6.9.0
+
+
+▼ インストールコマンド
+npx create-nuxt-app <project-name>
+npm init nuxt-app <project-name>
+※ npx（npx は npm 5.2.0 以降だとデフォルトで同梱されています）か、v6.1 の npm か yarn がインストールされていることを確認してください
+
+
+
+```
+
+
+
+
 
 <br>
 
