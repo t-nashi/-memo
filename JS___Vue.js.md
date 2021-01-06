@@ -178,6 +178,9 @@ npm init nuxt-app <project-name>
 ▼ vuex-persistedstateプラグインインストール（Vuexステートをローカルストレージへ保管）
 npm i vuex-persistedstate
 
+▼ Firebase APIをインストール
+npm i firebase --save
+
 ▼ package.json
 {
   "name": "my-app",
