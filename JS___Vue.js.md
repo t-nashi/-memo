@@ -160,6 +160,9 @@ npx nuxt -v
 
 
 ```
+◆ Vue.js&Nuxt.js超入門｜サポート｜秀和システム
+https://www.shuwasystem.co.jp/support/7980html/5659.html
+
 ▼ 2021/01/06wed時点の各バージョン
 ・nuxt/cli： v2.14.12
 ・node： v12.16.1
@@ -174,6 +177,23 @@ npm init nuxt-app <project-name>
 
 ▼ vuex-persistedstateプラグインインストール（Vuexステートをローカルストレージへ保管）
 npm i vuex-persistedstate
+
+▼ package.json
+{
+  "name": "my-app",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^2.14.12"
+  }
+}
+
+
+
+
+
+
 
 ```
 
