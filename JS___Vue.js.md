@@ -172,6 +172,8 @@ npm init nuxt-app <project-name>
 ※ npx（npx は npm 5.2.0 以降だとデフォルトで同梱されています）か、v6.1 の npm か yarn がインストールされていることを確認してください
 
 
+▼ vuex-persistedstateプラグインインストール（Vuexステートをローカルストレージへ保管）
+npm i vuex-persistedstate
 
 ```
 
