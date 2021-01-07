@@ -184,11 +184,13 @@ npm i axios --save
 ▼ Firebase APIをインストール
 npm i firebase --save
 
-▼ node-sassとsass-loaderをインストール
+▼ sass関連
 npm i node-sass sass-loader --save-dev
-
-▼ reset-cssをインストール
 npm install --save-dev reset-css
+npm install --save-dev @nuxtjs/style-resources
+
+
+
 
 ▼ package.json
 {
