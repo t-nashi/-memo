@@ -184,6 +184,9 @@ npm i axios --save
 ▼ Firebase APIをインストール
 npm i firebase --save
 
+▼ node-sassとsass-loaderをインストール
+npm i node-sass sass-loader --save-dev
+
 ▼ package.json
 {
   "name": "my-app",
