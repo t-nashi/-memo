@@ -187,6 +187,9 @@ npm i firebase --save
 ▼ node-sassとsass-loaderをインストール
 npm i node-sass sass-loader --save-dev
 
+▼ reset-cssをインストール
+npm install --save-dev reset-css
+
 ▼ package.json
 {
   "name": "my-app",
