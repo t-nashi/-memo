@@ -80,6 +80,19 @@
 
 <table>
 <tr>
+  <td><b>$ docker volume ls</b></td>
+  <td>ボリューム一覧</td>
+ </tr>
+ <tr>
+  <td><b>$ docker volume rm xxxxx</b></td>
+  <td>ボリュームの削除</td>
+ </tr>
+</table>  
+<br>
+
+
+<table>
+<tr>
   <td><b>$ docker stop</b></td>
   <td>サービスの停止</td>
  </tr>
@@ -136,6 +149,11 @@
 </table>  
 <br>
 
+<br><br>
+
+
+## wordpress関連参考
+https://github.com/t-nashi/Docker-wordpress/blob/master/README.md	
 <br><br>
 
 
