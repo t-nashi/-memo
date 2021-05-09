@@ -13,6 +13,54 @@
 <br>
 <br>
 
+## xxxxx
+* [Webデザインでよく使うUI要素の名称・用語一覧 - Qiita](https://qiita.com/shiraishiwataru/items/7728ffbc4dc390c92b06)
+
+##### ポップアップ表示系
+* アラート
+* モーダル・モーダルウィンドウ
+* ツールチップ・ポップアップ表示
+* ポップアップウィンドウ
+
+##### ナビゲーション・メニュー系
+* パンくずリスト
+* ハンバーガーメニュー
+* ドロワーメニュー
+* プルダウンメニュー
+* スプリングボード
+
+##### 表示非表示系
+* カルーセル
+* アコーディオン
+
+##### 状態通知系
+* プログレスバー
+* ステップバー
+* プレースホルダー
+
+##### レイアウト系
+* レスポンシブデザイン
+* リキッドレイアウト
+
+##### その他
+* タブバー
+* サーチバー
+* ドロワー
+* タブ
+* ツールバー
+* ボタン
+* テキストボタン
+* インジケータ
+* スピナー
+* トースト / Snackbar
+* ポップオーバー
+* リスト
+* 
+
+
+<br>
+<br>
+
 
 
 ## xxxxx
@@ -29,7 +77,6 @@
 * [ユーザーインターフェイスのデザインのヒント - Apple Developer](https://developer.apple.com/jp/design/tips/)
 * [Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/)
 
-* [Webデザインでよく使うUI要素の名称・用語一覧 - Qiita](https://qiita.com/shiraishiwataru/items/7728ffbc4dc390c92b06)
 * [UXが付く肩書きがもつ不安感](https://yasuhisa.com/could/article/uxdesign-as-a-job/)
 * [インタラクションデザインにおける５つの基本原則 | UX MILK](https://uxmilk.jp/76191)
 * [The 8 most important UI animations of all time | Inside Design Blog](https://www.invisionapp.com/inside-design/the-8-most-important-ui-animations-of-all-time/)
