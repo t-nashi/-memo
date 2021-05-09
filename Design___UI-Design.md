@@ -1,8 +1,28 @@
 
 ## xxxxx
 
-
 ![ユーザー体験を構成する5つの要素](https://yasuhisa.com/content/images/wordpress/2019/02/5layers.png "ユーザー体験を構成する5つの要素")
+* [UX を構成する 5 つの段階を振り返る:UX Days Tokyo 2016](https://2016.uxdaystokyo.com/article/five-stages-thet-makeup-the-ux.html)
+
+* 表層（Surface）: 情報を示したり、操作できるものを表す視覚的なデザイン
+* 骨格（Skelton）: 利用者が理解しやすいように画面に表示される情報の優先順位や配置の設計
+* 構造（Structure）: 様々な操作を経て目的の情報や機能へ辿り着くようにするための全体構造の設計
+* 要件（Scope）: 利用者の目的を満たすために必要な機能やコンテンツを設計
+* 戦略（Strategy）: サイトやアプリの目的は何か、そして利用者はそれを使うことで何を得ることができるのかを設計
+
+<br>
+<br>
+
+
+
+## xxxxx
+
+* [参考にしたいデザインシステムまとめ 10選 | ブログ | SINAP - 株式会社シナップ](https://sinap.jp/blog/2019/04/design-system-summary.html)
+* [独学でUIデザインはじめた方へ。デザインガイドラインについて語ろう！｜ゆい｜note](https://note.com/n_m_y_y/n/n2fc3a5c57a89)
+* [Human Interface Guidelinesについて簡単にまとめてみた【Apple】｜Shohei | UI/UX Designer｜note](https://note.com/24sy/n/n1cc35ce3eff2)
+* [個人的UIデザインの情報源まとめ](https://zenn.dev/takanorip/articles/6d33691f97afe3b97566)
+* [デザインガイドラインとは？作成するメリットから企業のガイドライン一覧まで、徹底解説！ | NIJIBOX BLOG](https://nijibox.jp/blog/design_guidelines/)
+* [UIデザインガイドラインのまとめ](https://yasuhisa.com/could/article/ui-design-guidelines/)
 
 
 * [iOS ヒューマンインターフェースの原則 - Qiita](https://qiita.com/usagimaru/items/9b55daa4d88b0bb98f38)
@@ -35,8 +55,5 @@
 * [UXという言葉が登場する以前に私が見たUXデザイン：ユニバーサルデザイン編 | UX MILK](https://uxmilk.jp/73516)
 * [プロのUXデザイナーから学ぶ！デザインをする時にグレースケールで始めると、デザインがよくなる4つ理由 | コリス](https://coliss.com/articles/build-websites/operation/design/you-should-design-without-color-first.html)
 
-
-<br>
-<br>
 <br>
 <br>
