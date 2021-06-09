@@ -96,6 +96,43 @@
 }
 ```
 
+#### ▼ json03
+```json
+{
+  "targetVersion": "2.0,1",
+  "templates": [
+    {
+      "name": "・title(￥t)url",
+      "value": "%%TITLE%%\t%%URL%%\n"
+    },
+    {
+      "name": "・◆title(￥n)url",
+      "value": "◆%%TITLE%%\n%%URL%%\n\n"
+    },
+    {
+      "name": "・html-li",
+      "value": "<li><a href=\"%%URL%%\">%%TITLE%%</a></li>\n"
+    },
+    {
+      "name": "・html-li（nofollow）",
+      "value": "<li><a href=\"%%URL%%\" rel=\"nofollow\">%%TITLE%%</a></li>\n"
+    },
+    {
+      "name": "・GitHub-Markdown-md",
+      "value": "* [%%TITLE%%](%%URL%%)\n"
+    },
+    {
+      "name": "・url",
+      "value": "%%URL%%\n"
+    },
+    {
+      "name": "url(\\t)",
+      "value": "%%URL%%\t"
+    }
+  ]
+}
+```
+
 <br><br><br>
 
 
