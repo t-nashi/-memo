@@ -38,6 +38,31 @@
 
 
 
+## ◆ Chrome - 機能拡張
+* [ウェブページ全体をスクリーンショット - FireShot - Chrome ウェブストア](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
+* [Mouse Dictionary - Chrome ウェブストア](https://chrome.google.com/webstore/detail/mouse-dictionary/dnclbikcihnpjohihfcmmldgkjnebgnj)
+* [Adblock Plus - free ad blocker - Chrome ウェブストア](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb)
+* [Web Developer - Chrome ウェブストア](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+* [Window Resizer - Chrome ウェブストア](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)
+* [GetTabInfo - Chrome ウェブストア](https://chrome.google.com/webstore/detail/gettabinfo/iadhcoaabobddcebhmheikmbcjcigjhc)
+* [Pasty - Chrome ウェブストア](https://chrome.google.com/webstore/detail/pasty/hdjihnnclpjhfdbbinmgoiehhoehhlgf)
+* [WhatFont - Chrome ウェブストア](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+* [EditThisCookie - Chrome ウェブストア](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
+* [Reload All Tabs - Chrome ウェブストア](https://chrome.google.com/webstore/detail/reload-all-tabs/lgpdljdpanfecnpindkbnikegohoobci)
+* [Stylus - Chrome ウェブストア](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+* [Stylus (beta) - Chrome ウェブストア](https://chrome.google.com/webstore/detail/stylus-beta/apmmpaebfobifelkijhaljbmpcgbjbdo)
+* [Redirect Path - Chrome ウェブストア](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll)
+* [ColorZilla - Chrome ウェブストア](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+* [Vue.js devtools - Chrome ウェブストア](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+* [ClearURLs - Chrome ウェブストア](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk)
+* [Video Speed Controller - Chrome ウェブストア](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
+* [Alt & Meta viewer - Chrome ウェブストア](https://chrome.google.com/webstore/detail/alt-meta-viewer/jjcjblcbnjhgjlnclhficglfjedhpjhl)
+* [META SEO inspector - Chrome ウェブストア](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef)
+* [Web Maker - Chrome ウェブストア](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh)
+* [URL短縮 - Chrome ウェブストア](https://chrome.google.com/webstore/detail/url-shortener/lficfkhdmdhjejgdnifkgmgdgnbmdhbb)
+* [Lighthouse - Chrome ウェブストア](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
+
+<br><br><br>
 
 
 
