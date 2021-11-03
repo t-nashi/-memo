@@ -166,6 +166,17 @@
 
 #### ▼ yahoo-mail-3column____________________
 ```css
+
+
+
+new ───
+.crkpIl, .fUqLlU, .dcORbt {
+  display: none;
+}
+
+
+
+old ───
 #shellcontent {
     top: 30px !important;
 }
