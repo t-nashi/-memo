@@ -199,3 +199,27 @@ body.accordiontitlelist_bottom {
     height: 800px !important;
 }
 ```
+
+<br><br><br>
+
+
+## ◆ [User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)
+
+#### ▼ Yahooメール広告非表示____________________
+```css
+.crkpIl, .fUqLlU, .dcORbt {
+  display: none;
+}
+```
+
+#### ▼ 文字選択・右クリック禁止 → 無効化____________________
+```javascript
+document.oncontextmenu = function () {return true;}
+document.getElementsByTagName('html')[0].oncontextmenu = function () {return true;}
+document.body.oncontextmenu = function () {return true;}
+document.addEventListener('contextmenu',function(e){e.stopPropagation();},true);
+```
+
+
+
+
