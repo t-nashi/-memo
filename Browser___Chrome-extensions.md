@@ -227,5 +227,28 @@ document.addEventListener('contextmenu',function(e){e.stopPropagation();},true);
   -ms-user-select: auto !important;
   user-select: auto !important;
 } 
+```
+
+#### ▼ [JS][CSS] 文字選択・右クリック禁止 → 無効化____________________
+・JS
+```javascript
+document.getElementsByTagName('html')[0].oncontextmenu = function () {return true;}
+
+document.oncontextmenu = function () {return true;}
+document.body.oncontextmenu = function () {return true;}
+document.addEventListener('contextmenu',function(e){e.stopPropagation();},true);
+
+document.body.oncopy = function(){return true;}
+```
+・CSS
+```css
+body {
+  -webkit-touch-callout: auto;
+  -webkit-user-select: auto;
+}
+* { user-select: auto !important; }
+```
+
+
 
 
