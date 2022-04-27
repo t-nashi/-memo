@@ -151,6 +151,8 @@ https://mag.ibis.gs/marketing/seotool_200226/
 
 
 
+◆Google検索のインデックス確認にsite:を使ってはいけない、Search Consoleを使う – 海外SEO情報ブログ
+https://www.suzukikenichi.com/blog/dont-use-site-search-operator-to-look-into-index-status/
 
 
 
