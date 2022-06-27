@@ -10,6 +10,19 @@
 * 要件（Scope）: 利用者の目的を満たすために必要な機能やコンテンツを設計
 * 戦略（Strategy）: サイトやアプリの目的は何か、そして利用者はそれを使うことで何を得ることができるのかを設計
 
+
+![atomic-design.png (1024×768)](https://bradfrost.com/wp-content/uploads/2013/06/atomic-design.png)
+![abstract.png (1200×528)](https://uxdaystokyo.com/articles/wp-content/uploads/2018/12/abstract.png)
+* [Atomic Design | Brad Frost](https://bradfrost.com/blog/post/atomic-web-design/)
+* [アトミックデザイン | UX TIMES](https://uxdaystokyo.com/articles/glossary/atomic-design/)
+
+* Lv1 … Atoms（原子）それ以上の分解が難しい要素。フォント・カラーパレット・単体のボタン等
+* Lv2 … Molecules（分子）Atomsを組み合わせて作られたコンポーネント。テキストボックス+ボタン=入力フォーム等
+* Lv3 … Organisms（有機体）Moleculesの組み合わせで作られた比較的複雑なUI。ロゴ+複数ボタンのレイアウト=ヘッダー等
+* Lv4 … Templates（テンプレート）Organismsの組み合わせで作られたワイヤーフレーム
+* Lv5 … Pages（ページ）ユーザーが目にするものと変わらない、より具体的な姿となったTemplates
+
+
 <br>
 <br>
 
