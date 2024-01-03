@@ -11,6 +11,7 @@
 | npm i xxxxx -s               | 上記のショートカットバージョン                                                                       | 
 | npm install xxxxx --save-dev | プロジェクトにパッケージをインストールし、情報を「package.json」に書き込む（devDependencies-開発用） | 
 | npm i xxxxx -D               | 上記のショートカットバージョン                                                                       | 
+| npm ci                       | xxxxx                                                                       | 
 | npm -v                       | npmのバージョンを表示                                                                                | 
 | npm run                      | package.json - scriptに記載した一覧が見れる                                                          | 
 | npm show                     | package.jsonを表示                                                                                   | 
