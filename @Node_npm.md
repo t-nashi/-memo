@@ -19,6 +19,9 @@
 | npm update -g xxxxx          | グローバルにインストールされている特定のパッケージをアップデート                     | 
 | npm update xxxxx             | プロジェクトにインストールされている特定のパッケージをアップデート                     | 
 | npm update                   | プロジェクトにインストールされている全てのパッケージをアップデート                     | 
+| npm cache clean --force      | キャッシュの削除                     | 
+| rm -rf ~/.npm                | .npm配下もクリーンにする                     | 
+| rm -rf node_modules          | node_modulesを削除                     | 
 
 
 
