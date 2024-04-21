@@ -22,6 +22,8 @@
 | npm cache clean --force      | キャッシュの削除                     | 
 | rm -rf ~/.npm                | .npm配下もクリーンにする                     | 
 | rm -rf node_modules          | node_modulesを削除                     | 
+| ncu          | アップデートされるバージョンの一覧を確認（要： npm i -g npm-check-updates）                     | 
+| ncu -u          | package.jsonのパッケージのバージョンを最新に一括更新                     | 
 
 
 
