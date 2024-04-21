@@ -10,8 +10,10 @@
 | npm run                      | package.json - scriptに記載した一覧が見れる                                                          | 
 | npm show                     | package.jsonを表示                                                                                   | 
 | npm init -y                  | package.jsonをプロジェクトに生成（オプション「-y」が全てyes回答のショートカット）                    | 
-| npm install xxxxx --save<br>npm i xxxxx -s     | 【package.json/dependencies】プロジェクトにパッケージをインストール           | 
-| npm install xxxxx --save-dev<br>npm i xxxxx -D | 【package.json/devDependencies※開発用】プロジェクトにパッケージをインストール | 
+| npm install<br>npm i         | package.json/dependencies・devDependenciesのどちらのパッケージもインストール           | 
+| npm install --production<br>npm i --production         | package.json/dependenciesのパッケージのみインストール           | 
+| npm install xxxxx --save<br>npm i xxxxx -s     | 【package.json/dependencies】プロジェクトに特定パッケージをインストール           | 
+| npm install xxxxx --save-dev<br>npm i xxxxx -D | 【package.json/devDependencies※開発用】プロジェクトに特定パッケージをインストール | 
 | npm ci                       | package-lock.json から依存関係をインストール（既に node_modules フォルダの中身があっても一旦削除）| 
 | npm remove -g xxxxx          | グローバルのパッケージをアンインストール                                                             | 
 | npm remove xxxxx             | プロジェクトのパッケージをアンインストール                                                           | 
